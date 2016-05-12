@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 0dfb7628764ccca48aff959f5bcca750
+timeCreated: 1459173839
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: air_bubble_left
+    100002: air_bubble_right
+    100004: BackLight
+    100006: CameraPreset
+    100008: DirectionalLight
+    100010: eyelets_left
+    100012: eyelets_right
+    100014: fabric_front_upper
+    100016: fabric_heal_guard
+    100018: fabric_heal_upper
+    100020: fabric_insole
+    100022: fabric_liner
+    100024: fabric_main_left
+    100026: fabric_main_right
+    100028: fabric_toe_guard
+    100030: fabric_trim
+    100032: fabric_trim_front_left
+    100034: fabric_trim_front_right
+    100036: fabric_upper_mid
+    100038: fabric_upper_mid2_right
+    100040: FillLight
+    100042: KeyLight
+    100044: laces
+    100046: LightPreset
+    100048: //RootNode
+    100050: Plane
+    100052: sole
+    100054: sole_foam
+    100056: stitching
+    100058: stitching_MeshPart0
+    100060: stitching_MeshPart1
+    100062: stitching_MeshPart2
+    100064: swoosh_left
+    100066: swoosh_right
+    100068: tongue_front
+    100070: tongue_label
+    100072: tongue_top
+    100074: TurnTableCamera
+    100076: V-Ray Dome
+    400000: air_bubble_left
+    400002: air_bubble_right
+    400004: BackLight
+    400006: CameraPreset
+    400008: DirectionalLight
+    400010: eyelets_left
+    400012: eyelets_right
+    400014: fabric_front_upper
+    400016: fabric_heal_guard
+    400018: fabric_heal_upper
+    400020: fabric_insole
+    400022: fabric_liner
+    400024: fabric_main_left
+    400026: fabric_main_right
+    400028: fabric_toe_guard
+    400030: fabric_trim
+    400032: fabric_trim_front_left
+    400034: fabric_trim_front_right
+    400036: fabric_upper_mid
+    400038: fabric_upper_mid2_right
+    400040: FillLight
+    400042: KeyLight
+    400044: laces
+    400046: LightPreset
+    400048: //RootNode
+    400050: Plane
+    400052: sole
+    400054: sole_foam
+    400056: stitching
+    400058: stitching_MeshPart0
+    400060: stitching_MeshPart1
+    400062: stitching_MeshPart2
+    400064: swoosh_left
+    400066: swoosh_right
+    400068: tongue_front
+    400070: tongue_label
+    400072: tongue_top
+    400074: TurnTableCamera
+    400076: V-Ray Dome
+    2300000: air_bubble_left
+    2300002: air_bubble_right
+    2300004: eyelets_left
+    2300006: eyelets_right
+    2300008: fabric_front_upper
+    2300010: fabric_heal_guard
+    2300012: fabric_heal_upper
+    2300014: fabric_insole
+    2300016: fabric_liner
+    2300018: fabric_main_left
+    2300020: fabric_main_right
+    2300022: fabric_toe_guard
+    2300024: fabric_trim
+    2300026: fabric_trim_front_left
+    2300028: fabric_trim_front_right
+    2300030: fabric_upper_mid
+    2300032: fabric_upper_mid2_right
+    2300034: laces
+    2300036: Plane
+    2300038: sole
+    2300040: sole_foam
+    2300042: stitching_MeshPart0
+    2300044: stitching_MeshPart1
+    2300046: stitching_MeshPart2
+    2300048: swoosh_left
+    2300050: swoosh_right
+    2300052: tongue_front
+    2300054: tongue_label
+    2300056: tongue_top
+    3300000: air_bubble_left
+    3300002: air_bubble_right
+    3300004: eyelets_left
+    3300006: eyelets_right
+    3300008: fabric_front_upper
+    3300010: fabric_heal_guard
+    3300012: fabric_heal_upper
+    3300014: fabric_insole
+    3300016: fabric_liner
+    3300018: fabric_main_left
+    3300020: fabric_main_right
+    3300022: fabric_toe_guard
+    3300024: fabric_trim
+    3300026: fabric_trim_front_left
+    3300028: fabric_trim_front_right
+    3300030: fabric_upper_mid
+    3300032: fabric_upper_mid2_right
+    3300034: laces
+    3300036: Plane
+    3300038: sole
+    3300040: sole_foam
+    3300042: stitching_MeshPart0
+    3300044: stitching_MeshPart1
+    3300046: stitching_MeshPart2
+    3300048: swoosh_left
+    3300050: swoosh_right
+    3300052: tongue_front
+    3300054: tongue_label
+    3300056: tongue_top
+    4300000: eyelets_left
+    4300002: fabric_main_left
+    4300004: fabric_toe_guard
+    4300006: tongue_label
+    4300008: fabric_trim_front_right
+    4300010: sole
+    4300012: fabric_front_upper
+    4300014: fabric_heal_upper
+    4300016: fabric_liner
+    4300018: stitching_MeshPart0
+    4300020: stitching_MeshPart1
+    4300022: stitching_MeshPart2
+    4300024: swoosh_left
+    4300026: fabric_insole
+    4300028: fabric_trim
+    4300030: tongue_front
+    4300032: sole_foam
+    4300034: fabric_main_right
+    4300036: laces
+    4300038: fabric_upper_mid2_right
+    4300040: fabric_heal_guard
+    4300042: air_bubble_right
+    4300044: eyelets_right
+    4300046: tongue_top
+    4300048: fabric_upper_mid
+    4300050: fabric_trim_front_left
+    4300052: swoosh_right
+    4300054: Plane
+    4300056: air_bubble_left
+    7400000: Base stack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
