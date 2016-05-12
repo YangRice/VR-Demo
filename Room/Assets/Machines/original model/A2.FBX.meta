@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: d8a4128febf8ea44593690859d75ca1f
+timeCreated: 1460993233
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  2'
+    100006: '  3'
+    100008: '  4'
+    100010: '  5'
+    100012: '  6'
+    100014: ' 1'
+    100016: ' 2'
+    100018: ' 3'
+    100020: ' 4'
+    100022: ' 5'
+    100024: ' 6'
+    100026: ' 7'
+    100028: -L1
+    100030: -L1 1
+    100032: -L1-DC_Shell
+    100034: -L1-DC_Shell 1
+    100036: A1
+    100038: //RootNode
+    100040: ASTBBC75348 1
+    100042: Body
+    100044: Body-DC_Shell
+    100046: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55
+    100048: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1
+    100050: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2
+    100052: D200050
+    100054: D200050 1
+    100056: D200050 2
+    100058: D200060
+    100060: D200060 1
+    100062: D200060 2
+    100064: h}u1
+    100066: h}u1-DC_Shell
+    100068: KEY2R12-10-50-L
+    100070: KEY2R12-10-50-L 1
+    100072: KEY2R12-10-50-L 2
+    100074: KEY2R12-10-50-L 3
+    100076: KEY2R12-10-50-L 4
+    100078: KEY2R12-10-50-L 5
+    100080: NONE
+    100082: NONE 1
+    100084: NONE 2
+    100086: NONE 3
+    100088: NONE 4
+    100090: NONE 5
+    100092: NONE 6
+    100094: NONE 7
+    100096: NONE 8
+    100098: NONE-DC_Shell
+    100100: NONE-DC_Shell 1
+    100102: NONE-DC_Shell 2
+    100104: NONE-DC_Shell 3
+    100106: OuterRace
+    100108: OuterRace 1
+    100110: OuterRace-DC_Shell
+    100112: OuterRace-DC_Shell 1
+    100114: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+    100116: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      1
+    100118: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      2
+    100120: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      3
+    100122: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      4
+    100124: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      5
+    400000: ' '
+    400002: '  1'
+    400004: '  2'
+    400006: '  3'
+    400008: '  4'
+    400010: '  5'
+    400012: '  6'
+    400014: ' 1'
+    400016: ' 2'
+    400018: ' 3'
+    400020: ' 4'
+    400022: ' 5'
+    400024: ' 6'
+    400026: ' 7'
+    400028: -L1
+    400030: -L1 1
+    400032: -L1-DC_Shell
+    400034: -L1-DC_Shell 1
+    400036: A1
+    400038: //RootNode
+    400040: ASTBBC75348 1
+    400042: Body
+    400044: Body-DC_Shell
+    400046: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55
+    400048: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1
+    400050: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2
+    400052: D200050
+    400054: D200050 1
+    400056: D200050 2
+    400058: D200060
+    400060: D200060 1
+    400062: D200060 2
+    400064: h}u1
+    400066: h}u1-DC_Shell
+    400068: KEY2R12-10-50-L
+    400070: KEY2R12-10-50-L 1
+    400072: KEY2R12-10-50-L 2
+    400074: KEY2R12-10-50-L 3
+    400076: KEY2R12-10-50-L 4
+    400078: KEY2R12-10-50-L 5
+    400080: NONE
+    400082: NONE 1
+    400084: NONE 2
+    400086: NONE 3
+    400088: NONE 4
+    400090: NONE 5
+    400092: NONE 6
+    400094: NONE 7
+    400096: NONE 8
+    400098: NONE-DC_Shell
+    400100: NONE-DC_Shell 1
+    400102: NONE-DC_Shell 2
+    400104: NONE-DC_Shell 3
+    400106: OuterRace
+    400108: OuterRace 1
+    400110: OuterRace-DC_Shell
+    400112: OuterRace-DC_Shell 1
+    400114: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+    400116: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      1
+    400118: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      2
+    400120: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      3
+    400122: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      4
+    400124: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      5
+    2300000: -L1-DC_Shell
+    2300002: -L1-DC_Shell 1
+    2300004: Body-DC_Shell
+    2300006: h}u1-DC_Shell
+    2300008: NONE-DC_Shell
+    2300010: NONE-DC_Shell 1
+    2300012: NONE-DC_Shell 2
+    2300014: NONE-DC_Shell 3
+    2300016: OuterRace-DC_Shell
+    2300018: OuterRace-DC_Shell 1
+    3300000: -L1-DC_Shell
+    3300002: -L1-DC_Shell 1
+    3300004: Body-DC_Shell
+    3300006: h}u1-DC_Shell
+    3300008: NONE-DC_Shell
+    3300010: NONE-DC_Shell 1
+    3300012: NONE-DC_Shell 2
+    3300014: NONE-DC_Shell 3
+    3300016: OuterRace-DC_Shell
+    3300018: OuterRace-DC_Shell 1
+    4300000: h}u1-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: NONE-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: NONE-DC_Shell
+    4300010: -L1-DC_Shell
+    4300012: -L1-DC_Shell
+    4300014: OuterRace-DC_Shell
+    4300016: OuterRace-DC_Shell
+    4300018: Body-DC_Shell
+    7400000: explodeA2
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explodeA2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ASTBBC75348 1
+        weight: 1
+      - path: 'ASTBBC75348 1/ '
+        weight: 1
+      - path: ASTBBC75348 1/ /D200050
+        weight: 1
+      - path: ASTBBC75348 1/ /D200050/D200050 1
+        weight: 1
+      - path: ASTBBC75348 1/ /D200050/D200050 1/D200050 2
+        weight: 1
+      - path: ASTBBC75348 1/ /D200050/D200050 1/D200050 2/NONE
+        weight: 1
+      - path: ASTBBC75348 1/ /D200050/D200050 1/D200050 2/NONE/ 1
+        weight: 1
+      - path: ASTBBC75348 1/ /D200050/D200050 1/D200050 2/NONE/ 1/h}u1
+        weight: 1
+      - path: ASTBBC75348 1/ /D200050/D200050 1/D200050 2/NONE/ 1/h}u1/h}u1-DC_Shell
+        weight: 1
+      - path: ASTBBC75348 1/  1
+        weight: 1
+      - path: ASTBBC75348 1/  1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55
+        weight: 1
+      - path: ASTBBC75348 1/  1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1
+        weight: 1
+      - path: ASTBBC75348 1/  1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2
+        weight: 1
+      - path: ASTBBC75348 1/  1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/NONE 4
+        weight: 1
+      - path: ASTBBC75348 1/  1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/NONE 4/ 5
+        weight: 1
+      - path: ASTBBC75348 1/  1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/NONE 4/ 5/Body
+        weight: 1
+      - path: ASTBBC75348 1/  1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/NONE 4/ 5/Body/Body-DC_Shell
+        weight: 1
+      - path: ASTBBC75348 1/  2
+        weight: 1
+      - path: ASTBBC75348 1/  2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          1
+        weight: 1
+      - path: ASTBBC75348 1/  2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          3
+        weight: 1
+      - path: ASTBBC75348 1/  2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          5
+        weight: 1
+      - path: ASTBBC75348 1/  2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          5/NONE 6
+        weight: 1
+      - path: ASTBBC75348 1/  2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          5/NONE 6/ 6
+        weight: 1
+      - path: ASTBBC75348 1/  2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          5/NONE 6/ 6/OuterRace 1
+        weight: 1
+      - path: ASTBBC75348 1/  2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+          5/NONE 6/ 6/OuterRace 1/OuterRace-DC_Shell 1
+        weight: 1
+      - path: ASTBBC75348 1/  3
+        weight: 1
+      - path: ASTBBC75348 1/  3/KEY2R12-10-50-L 1
+        weight: 1
+      - path: ASTBBC75348 1/  3/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3
+        weight: 1
+      - path: ASTBBC75348 1/  3/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5
+        weight: 1
+      - path: ASTBBC75348 1/  3/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5/NONE 3
+        weight: 1
+      - path: ASTBBC75348 1/  3/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5/NONE 3/ 4
+        weight: 1
+      - path: ASTBBC75348 1/  3/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5/NONE 3/ 4/-L1 1
+        weight: 1
+      - path: ASTBBC75348 1/  3/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5/NONE 3/ 4/-L1 1/-L1-DC_Shell 1
+        weight: 1
+      - path: ASTBBC75348 1/  4
+        weight: 1
+      - path: ASTBBC75348 1/  4/KEY2R12-10-50-L
+        weight: 1
+      - path: ASTBBC75348 1/  4/KEY2R12-10-50-L/KEY2R12-10-50-L 2
+        weight: 1
+      - path: ASTBBC75348 1/  4/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4
+        weight: 1
+      - path: ASTBBC75348 1/  4/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4/NONE 2
+        weight: 1
+      - path: ASTBBC75348 1/  4/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4/NONE 2/ 3
+        weight: 1
+      - path: ASTBBC75348 1/  4/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4/NONE 2/ 3/-L1
+        weight: 1
+      - path: ASTBBC75348 1/  4/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4/NONE 2/ 3/-L1/-L1-DC_Shell
+        weight: 1
+      - path: ASTBBC75348 1/  5
+        weight: 1
+      - path: ASTBBC75348 1/  5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+        weight: 1
+      - path: ASTBBC75348 1/  5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 2
+        weight: 1
+      - path: ASTBBC75348 1/  5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 2/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 4
+        weight: 1
+      - path: ASTBBC75348 1/  5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 2/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 4/NONE 5
+        weight: 1
+      - path: ASTBBC75348 1/  5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 2/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 4/NONE 5/
+          7
+        weight: 1
+      - path: ASTBBC75348 1/  5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 2/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 4/NONE 5/
+          7/OuterRace
+        weight: 1
+      - path: ASTBBC75348 1/  5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 2/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68 4/NONE 5/
+          7/OuterRace/OuterRace-DC_Shell
+        weight: 1
+      - path: ASTBBC75348 1/  6
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1/ 2
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1/ 2/A1
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1/ 2/A1/NONE 7
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1/ 2/A1/NONE 7/NONE
+          8
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1/ 2/A1/NONE 7/NONE
+          8/NONE-DC_Shell
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1/ 2/A1/NONE 7/NONE
+          8/NONE-DC_Shell 1
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1/ 2/A1/NONE 7/NONE
+          8/NONE-DC_Shell 2
+        weight: 1
+      - path: ASTBBC75348 1/  6/D200060/D200060 1/D200060 2/NONE 1/ 2/A1/NONE 7/NONE
+          8/NONE-DC_Shell 3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

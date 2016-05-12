@@ -61,14 +61,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ContextButton.cs" />
-    <Compile Include="Assets\FeatureReader.cs" />
-    <Compile Include="Assets\LookAtButton.cs" />
-    <Compile Include="Assets\MaterialButton.cs" />
-    <Compile Include="Assets\ModelButton.cs" />
-    <Compile Include="Assets\MouseControl.cs" />
-    <Compile Include="Assets\MoveToCamera.cs" />
-    <Compile Include="Assets\PlayMovie.cs" />
+    <Compile Include="Assets\Machines\original model\explodeAinmate.cs" />
+    <Compile Include="Assets\Script\ContextButton.cs" />
+    <Compile Include="Assets\Script\FeatureReader.cs" />
+    <Compile Include="Assets\Script\LookAtButton.cs" />
+    <Compile Include="Assets\Script\MaterialButton.cs" />
+    <Compile Include="Assets\Script\ModelButton.cs" />
+    <Compile Include="Assets\Script\MouseControl.cs" />
+    <Compile Include="Assets\Script\MoveToCamera.cs" />
+    <Compile Include="Assets\Script\PlayMovie.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Machines\myMaterials\SimplePhysicalShader\SimplePhysicalShader.shader" />
+    <None Include="Assets\Machines\myMaterials\SimplePhysicalShader\SimplePhysicalShaderCoat.shader" />
+    <None Include="Assets\Machines\myMaterials\SimplePhysicalShader\SimplePhysicalShaderRetro.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>

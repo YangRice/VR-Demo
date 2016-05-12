@@ -1,0 +1,1123 @@
+fileFormatVersion: 2
+guid: d02ff8e3dca3048f8b7d5274ef2b9235
+timeCreated: 1462616633
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  2'
+    100018: '  3'
+    100020: '  4'
+    100022: '  5'
+    100024: '  6'
+    100026: '  7'
+    100028: '  8'
+    100030: '  9'
+    100032: ' 1'
+    100034: ' 10'
+    100036: ' 11'
+    100038: ' 12'
+    100040: ' 13'
+    100042: ' 14'
+    100044: ' 15'
+    100046: ' 16'
+    100048: ' 2'
+    100050: ' 3'
+    100052: ' 4'
+    100054: ' 5'
+    100056: ' 6'
+    100058: ' 7'
+    100060: ' 8'
+    100062: ' 9'
+    100064: 1
+    100066: 1 1
+    100068: 1 2
+    100070: 1 3
+    100072: 1-DC_Shell
+    100074: 1-DC_Shell 1
+    100076: 1-DC_Shell 2
+    100078: 1-DC_Shell 3
+    100080: 2
+    100082: ASTDA694676 1
+    100084: Body
+    100086: Body-DC_Shell
+    100088: c type hole use retaining ring_jis_PreviewCfg
+    100090: c type hole use retaining ring_jis_PreviewCfg 1
+    100092: c type hole use retaining ring_jis_PreviewCfg 2
+    100094: D400081
+    100096: D400081 1
+    100098: D400081 2
+    100100: F410082
+    100102: F410082 1
+    100104: F410082 2
+    100106: F410200
+    100108: F410200 1
+    100110: F410200 2
+    100112: Hex
+    100114: Hex 1
+    100116: Hex-DC_Shell
+    100118: Hex-DC_Shell 1
+    100120: hexagon socket set screw cone point_jis_PreviewCfg
+    100122: hexagon socket set screw cone point_jis_PreviewCfg 1
+    100124: hexagon socket set screw cone point_jis_PreviewCfg 2
+    100126: hexagon socket set screw cone point_jis_PreviewCfg 3
+    100128: hexagon socket set screw cone point_jis_PreviewCfg 4
+    100130: hexagon socket set screw cone point_jis_PreviewCfg 5
+    100132: InnerRace
+    100134: InnerRace 1
+    100136: InnerRace-DC_Shell
+    100138: InnerRace-DC_Shell 1
+    100140: L430016
+    100142: L430016 1
+    100144: L430016 2
+    100146: L430024
+    100148: L430024 1
+    100150: L430024 2
+    100152: L430035
+    100154: L430035 1
+    100156: L430035 2
+    100158: L430241
+    100160: L430241 1
+    100162: L430241 2
+    100164: L430271
+    100166: L430271 1
+    100168: L430271 2
+    100170: L450021
+    100172: L450021 1
+    100174: L450021 2
+    100176: L450093
+    100178: L450093 1
+    100180: L450093 2
+    100182: M6x1.0 1
+    100184: M8x1.25 1
+    100186: M8x1.25 2
+    100188: //RootNode
+    100190: NONE
+    100192: NONE 1
+    100194: NONE 10
+    100196: NONE 11
+    100198: NONE 12
+    100200: NONE 13
+    100202: NONE 14
+    100204: NONE 15
+    100206: NONE 16
+    100208: NONE 17
+    100210: NONE 18
+    100212: NONE 19
+    100214: NONE 2
+    100216: NONE 20
+    100218: NONE 21
+    100220: NONE 22
+    100222: NONE 23
+    100224: NONE 24
+    100226: NONE 25
+    100228: NONE 3
+    100230: NONE 4
+    100232: NONE 5
+    100234: NONE 6
+    100236: NONE 7
+    100238: NONE 8
+    100240: NONE 9
+    100242: NONE-DC_Shell
+    100244: NONE-DC_Shell 1
+    100246: NONE-DC_Shell 10
+    100248: NONE-DC_Shell 11
+    100250: NONE-DC_Shell 12
+    100252: NONE-DC_Shell 13
+    100254: NONE-DC_Shell 14
+    100256: NONE-DC_Shell 15
+    100258: NONE-DC_Shell 16
+    100260: NONE-DC_Shell 17
+    100262: NONE-DC_Shell 18
+    100264: NONE-DC_Shell 19
+    100266: NONE-DC_Shell 2
+    100268: NONE-DC_Shell 20
+    100270: NONE-DC_Shell 21
+    100272: NONE-DC_Shell 22
+    100274: NONE-DC_Shell 23
+    100276: NONE-DC_Shell 24
+    100278: NONE-DC_Shell 25
+    100280: NONE-DC_Shell 26
+    100282: NONE-DC_Shell 27
+    100284: NONE-DC_Shell 28
+    100286: NONE-DC_Shell 29
+    100288: NONE-DC_Shell 3
+    100290: NONE-DC_Shell 30
+    100292: NONE-DC_Shell 31
+    100294: NONE-DC_Shell 32
+    100296: NONE-DC_Shell 33
+    100298: NONE-DC_Shell 34
+    100300: NONE-DC_Shell 35
+    100302: NONE-DC_Shell 36
+    100304: NONE-DC_Shell 37
+    100306: NONE-DC_Shell 38
+    100308: NONE-DC_Shell 39
+    100310: NONE-DC_Shell 4
+    100312: NONE-DC_Shell 40
+    100314: NONE-DC_Shell 41
+    100316: NONE-DC_Shell 42
+    100318: NONE-DC_Shell 43
+    100320: NONE-DC_Shell 44
+    100322: NONE-DC_Shell 45
+    100324: NONE-DC_Shell 46
+    100326: NONE-DC_Shell 47
+    100328: NONE-DC_Shell 5
+    100330: NONE-DC_Shell 6
+    100332: NONE-DC_Shell 7
+    100334: NONE-DC_Shell 8
+    100336: NONE-DC_Shell 9
+    100338: NUT-YSKM130-2P
+    100340: NUT-YSKM130-2P 1
+    100342: NUT-YSKM130-2P 2
+    100344: p1
+    100346: p1 1
+    100348: p1 2
+    100350: p1-DC_Shell
+    100352: p1-DC_Shell 1
+    100354: taper roller bearing_jis_PreviewCfg
+    100356: taper roller bearing_jis_PreviewCfg 1
+    100358: taper roller bearing_jis_PreviewCfg 2
+    100360: taper roller bearing_jis_PreviewCfg 3
+    100362: taper roller bearing_jis_PreviewCfg 4
+    100364: taper roller bearing_jis_PreviewCfg 5
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  2'
+    400018: '  3'
+    400020: '  4'
+    400022: '  5'
+    400024: '  6'
+    400026: '  7'
+    400028: '  8'
+    400030: '  9'
+    400032: ' 1'
+    400034: ' 10'
+    400036: ' 11'
+    400038: ' 12'
+    400040: ' 13'
+    400042: ' 14'
+    400044: ' 15'
+    400046: ' 16'
+    400048: ' 2'
+    400050: ' 3'
+    400052: ' 4'
+    400054: ' 5'
+    400056: ' 6'
+    400058: ' 7'
+    400060: ' 8'
+    400062: ' 9'
+    400064: 1
+    400066: 1 1
+    400068: 1 2
+    400070: 1 3
+    400072: 1-DC_Shell
+    400074: 1-DC_Shell 1
+    400076: 1-DC_Shell 2
+    400078: 1-DC_Shell 3
+    400080: 2
+    400082: ASTDA694676 1
+    400084: Body
+    400086: Body-DC_Shell
+    400088: c type hole use retaining ring_jis_PreviewCfg
+    400090: c type hole use retaining ring_jis_PreviewCfg 1
+    400092: c type hole use retaining ring_jis_PreviewCfg 2
+    400094: D400081
+    400096: D400081 1
+    400098: D400081 2
+    400100: F410082
+    400102: F410082 1
+    400104: F410082 2
+    400106: F410200
+    400108: F410200 1
+    400110: F410200 2
+    400112: Hex
+    400114: Hex 1
+    400116: Hex-DC_Shell
+    400118: Hex-DC_Shell 1
+    400120: hexagon socket set screw cone point_jis_PreviewCfg
+    400122: hexagon socket set screw cone point_jis_PreviewCfg 1
+    400124: hexagon socket set screw cone point_jis_PreviewCfg 2
+    400126: hexagon socket set screw cone point_jis_PreviewCfg 3
+    400128: hexagon socket set screw cone point_jis_PreviewCfg 4
+    400130: hexagon socket set screw cone point_jis_PreviewCfg 5
+    400132: InnerRace
+    400134: InnerRace 1
+    400136: InnerRace-DC_Shell
+    400138: InnerRace-DC_Shell 1
+    400140: L430016
+    400142: L430016 1
+    400144: L430016 2
+    400146: L430024
+    400148: L430024 1
+    400150: L430024 2
+    400152: L430035
+    400154: L430035 1
+    400156: L430035 2
+    400158: L430241
+    400160: L430241 1
+    400162: L430241 2
+    400164: L430271
+    400166: L430271 1
+    400168: L430271 2
+    400170: L450021
+    400172: L450021 1
+    400174: L450021 2
+    400176: L450093
+    400178: L450093 1
+    400180: L450093 2
+    400182: M6x1.0 1
+    400184: M8x1.25 1
+    400186: M8x1.25 2
+    400188: //RootNode
+    400190: NONE
+    400192: NONE 1
+    400194: NONE 10
+    400196: NONE 11
+    400198: NONE 12
+    400200: NONE 13
+    400202: NONE 14
+    400204: NONE 15
+    400206: NONE 16
+    400208: NONE 17
+    400210: NONE 18
+    400212: NONE 19
+    400214: NONE 2
+    400216: NONE 20
+    400218: NONE 21
+    400220: NONE 22
+    400222: NONE 23
+    400224: NONE 24
+    400226: NONE 25
+    400228: NONE 3
+    400230: NONE 4
+    400232: NONE 5
+    400234: NONE 6
+    400236: NONE 7
+    400238: NONE 8
+    400240: NONE 9
+    400242: NONE-DC_Shell
+    400244: NONE-DC_Shell 1
+    400246: NONE-DC_Shell 10
+    400248: NONE-DC_Shell 11
+    400250: NONE-DC_Shell 12
+    400252: NONE-DC_Shell 13
+    400254: NONE-DC_Shell 14
+    400256: NONE-DC_Shell 15
+    400258: NONE-DC_Shell 16
+    400260: NONE-DC_Shell 17
+    400262: NONE-DC_Shell 18
+    400264: NONE-DC_Shell 19
+    400266: NONE-DC_Shell 2
+    400268: NONE-DC_Shell 20
+    400270: NONE-DC_Shell 21
+    400272: NONE-DC_Shell 22
+    400274: NONE-DC_Shell 23
+    400276: NONE-DC_Shell 24
+    400278: NONE-DC_Shell 25
+    400280: NONE-DC_Shell 26
+    400282: NONE-DC_Shell 27
+    400284: NONE-DC_Shell 28
+    400286: NONE-DC_Shell 29
+    400288: NONE-DC_Shell 3
+    400290: NONE-DC_Shell 30
+    400292: NONE-DC_Shell 31
+    400294: NONE-DC_Shell 32
+    400296: NONE-DC_Shell 33
+    400298: NONE-DC_Shell 34
+    400300: NONE-DC_Shell 35
+    400302: NONE-DC_Shell 36
+    400304: NONE-DC_Shell 37
+    400306: NONE-DC_Shell 38
+    400308: NONE-DC_Shell 39
+    400310: NONE-DC_Shell 4
+    400312: NONE-DC_Shell 40
+    400314: NONE-DC_Shell 41
+    400316: NONE-DC_Shell 42
+    400318: NONE-DC_Shell 43
+    400320: NONE-DC_Shell 44
+    400322: NONE-DC_Shell 45
+    400324: NONE-DC_Shell 46
+    400326: NONE-DC_Shell 47
+    400328: NONE-DC_Shell 5
+    400330: NONE-DC_Shell 6
+    400332: NONE-DC_Shell 7
+    400334: NONE-DC_Shell 8
+    400336: NONE-DC_Shell 9
+    400338: NUT-YSKM130-2P
+    400340: NUT-YSKM130-2P 1
+    400342: NUT-YSKM130-2P 2
+    400344: p1
+    400346: p1 1
+    400348: p1 2
+    400350: p1-DC_Shell
+    400352: p1-DC_Shell 1
+    400354: taper roller bearing_jis_PreviewCfg
+    400356: taper roller bearing_jis_PreviewCfg 1
+    400358: taper roller bearing_jis_PreviewCfg 2
+    400360: taper roller bearing_jis_PreviewCfg 3
+    400362: taper roller bearing_jis_PreviewCfg 4
+    400364: taper roller bearing_jis_PreviewCfg 5
+    2300000: 1-DC_Shell
+    2300002: 1-DC_Shell 1
+    2300004: 1-DC_Shell 2
+    2300006: 1-DC_Shell 3
+    2300008: Body-DC_Shell
+    2300010: Hex-DC_Shell
+    2300012: Hex-DC_Shell 1
+    2300014: InnerRace-DC_Shell
+    2300016: InnerRace-DC_Shell 1
+    2300018: NONE-DC_Shell
+    2300020: NONE-DC_Shell 1
+    2300022: NONE-DC_Shell 10
+    2300024: NONE-DC_Shell 11
+    2300026: NONE-DC_Shell 12
+    2300028: NONE-DC_Shell 13
+    2300030: NONE-DC_Shell 14
+    2300032: NONE-DC_Shell 15
+    2300034: NONE-DC_Shell 16
+    2300036: NONE-DC_Shell 17
+    2300038: NONE-DC_Shell 18
+    2300040: NONE-DC_Shell 19
+    2300042: NONE-DC_Shell 2
+    2300044: NONE-DC_Shell 20
+    2300046: NONE-DC_Shell 21
+    2300048: NONE-DC_Shell 22
+    2300050: NONE-DC_Shell 23
+    2300052: NONE-DC_Shell 24
+    2300054: NONE-DC_Shell 25
+    2300056: NONE-DC_Shell 26
+    2300058: NONE-DC_Shell 27
+    2300060: NONE-DC_Shell 28
+    2300062: NONE-DC_Shell 29
+    2300064: NONE-DC_Shell 3
+    2300066: NONE-DC_Shell 30
+    2300068: NONE-DC_Shell 31
+    2300070: NONE-DC_Shell 32
+    2300072: NONE-DC_Shell 33
+    2300074: NONE-DC_Shell 34
+    2300076: NONE-DC_Shell 35
+    2300078: NONE-DC_Shell 36
+    2300080: NONE-DC_Shell 37
+    2300082: NONE-DC_Shell 38
+    2300084: NONE-DC_Shell 39
+    2300086: NONE-DC_Shell 4
+    2300088: NONE-DC_Shell 40
+    2300090: NONE-DC_Shell 41
+    2300092: NONE-DC_Shell 42
+    2300094: NONE-DC_Shell 43
+    2300096: NONE-DC_Shell 44
+    2300098: NONE-DC_Shell 45
+    2300100: NONE-DC_Shell 46
+    2300102: NONE-DC_Shell 47
+    2300104: NONE-DC_Shell 5
+    2300106: NONE-DC_Shell 6
+    2300108: NONE-DC_Shell 7
+    2300110: NONE-DC_Shell 8
+    2300112: NONE-DC_Shell 9
+    2300114: p1-DC_Shell
+    2300116: p1-DC_Shell 1
+    3300000: 1-DC_Shell
+    3300002: 1-DC_Shell 1
+    3300004: 1-DC_Shell 2
+    3300006: 1-DC_Shell 3
+    3300008: Body-DC_Shell
+    3300010: Hex-DC_Shell
+    3300012: Hex-DC_Shell 1
+    3300014: InnerRace-DC_Shell
+    3300016: InnerRace-DC_Shell 1
+    3300018: NONE-DC_Shell
+    3300020: NONE-DC_Shell 1
+    3300022: NONE-DC_Shell 10
+    3300024: NONE-DC_Shell 11
+    3300026: NONE-DC_Shell 12
+    3300028: NONE-DC_Shell 13
+    3300030: NONE-DC_Shell 14
+    3300032: NONE-DC_Shell 15
+    3300034: NONE-DC_Shell 16
+    3300036: NONE-DC_Shell 17
+    3300038: NONE-DC_Shell 18
+    3300040: NONE-DC_Shell 19
+    3300042: NONE-DC_Shell 2
+    3300044: NONE-DC_Shell 20
+    3300046: NONE-DC_Shell 21
+    3300048: NONE-DC_Shell 22
+    3300050: NONE-DC_Shell 23
+    3300052: NONE-DC_Shell 24
+    3300054: NONE-DC_Shell 25
+    3300056: NONE-DC_Shell 26
+    3300058: NONE-DC_Shell 27
+    3300060: NONE-DC_Shell 28
+    3300062: NONE-DC_Shell 29
+    3300064: NONE-DC_Shell 3
+    3300066: NONE-DC_Shell 30
+    3300068: NONE-DC_Shell 31
+    3300070: NONE-DC_Shell 32
+    3300072: NONE-DC_Shell 33
+    3300074: NONE-DC_Shell 34
+    3300076: NONE-DC_Shell 35
+    3300078: NONE-DC_Shell 36
+    3300080: NONE-DC_Shell 37
+    3300082: NONE-DC_Shell 38
+    3300084: NONE-DC_Shell 39
+    3300086: NONE-DC_Shell 4
+    3300088: NONE-DC_Shell 40
+    3300090: NONE-DC_Shell 41
+    3300092: NONE-DC_Shell 42
+    3300094: NONE-DC_Shell 43
+    3300096: NONE-DC_Shell 44
+    3300098: NONE-DC_Shell 45
+    3300100: NONE-DC_Shell 46
+    3300102: NONE-DC_Shell 47
+    3300104: NONE-DC_Shell 5
+    3300106: NONE-DC_Shell 6
+    3300108: NONE-DC_Shell 7
+    3300110: NONE-DC_Shell 8
+    3300112: NONE-DC_Shell 9
+    3300114: p1-DC_Shell
+    3300116: p1-DC_Shell 1
+    4300000: NONE-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: NONE-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: NONE-DC_Shell
+    4300010: NONE-DC_Shell
+    4300012: NONE-DC_Shell
+    4300014: NONE-DC_Shell
+    4300016: NONE-DC_Shell
+    4300018: NONE-DC_Shell
+    4300020: NONE-DC_Shell
+    4300022: NONE-DC_Shell
+    4300024: NONE-DC_Shell
+    4300026: NONE-DC_Shell
+    4300028: NONE-DC_Shell
+    4300030: NONE-DC_Shell
+    4300032: NONE-DC_Shell
+    4300034: NONE-DC_Shell
+    4300036: NONE-DC_Shell
+    4300038: NONE-DC_Shell
+    4300040: NONE-DC_Shell
+    4300042: NONE-DC_Shell
+    4300044: NONE-DC_Shell
+    4300046: NONE-DC_Shell
+    4300048: NONE-DC_Shell
+    4300050: NONE-DC_Shell
+    4300052: NONE-DC_Shell
+    4300054: NONE-DC_Shell
+    4300056: NONE-DC_Shell
+    4300058: NONE-DC_Shell
+    4300060: NONE-DC_Shell
+    4300062: NONE-DC_Shell
+    4300064: NONE-DC_Shell
+    4300066: p1-DC_Shell
+    4300068: NONE-DC_Shell
+    4300070: NONE-DC_Shell
+    4300072: NONE-DC_Shell
+    4300074: 1-DC_Shell
+    4300076: 1-DC_Shell
+    4300078: NONE-DC_Shell
+    4300080: NONE-DC_Shell
+    4300082: p1-DC_Shell
+    4300084: 1-DC_Shell
+    4300086: NONE-DC_Shell
+    4300088: NONE-DC_Shell
+    4300090: NONE-DC_Shell
+    4300092: NONE-DC_Shell
+    4300094: NONE-DC_Shell
+    4300096: NONE-DC_Shell
+    4300098: NONE-DC_Shell
+    4300100: NONE-DC_Shell
+    4300102: NONE-DC_Shell
+    4300104: 1-DC_Shell
+    4300106: Hex-DC_Shell
+    4300108: Hex-DC_Shell
+    4300110: Body-DC_Shell
+    4300112: InnerRace-DC_Shell
+    4300114: NONE-DC_Shell
+    4300116: InnerRace-DC_Shell
+    7400000: explode
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ASTDA694676 1
+        weight: 1
+      - path: 'ASTDA694676 1/ '
+        weight: 1
+      - path: ASTDA694676 1/ /L430271
+        weight: 1
+      - path: ASTDA694676 1/ /L430271/L430271 1
+        weight: 1
+      - path: ASTDA694676 1/ /L430271/L430271 1/L430271 2
+        weight: 1
+      - path: ASTDA694676 1/ /L430271/L430271 1/L430271 2/NONE 7
+        weight: 1
+      - path: ASTDA694676 1/ /L430271/L430271 1/L430271 2/NONE 7/ 8
+        weight: 1
+      - path: ASTDA694676 1/ /L430271/L430271 1/L430271 2/NONE 7/ 8/1 2
+        weight: 1
+      - path: ASTDA694676 1/ /L430271/L430271 1/L430271 2/NONE 7/ 8/1 2/1-DC_Shell
+          2
+        weight: 1
+      - path: ASTDA694676 1/  1
+        weight: 1
+      - path: ASTDA694676 1/  1/F410082
+        weight: 1
+      - path: ASTDA694676 1/  1/F410082/F410082 1
+        weight: 1
+      - path: ASTDA694676 1/  1/F410082/F410082 1/F410082 2
+        weight: 1
+      - path: ASTDA694676 1/  1/F410082/F410082 1/F410082 2/NONE 1
+        weight: 1
+      - path: ASTDA694676 1/  1/F410082/F410082 1/F410082 2/NONE 1/ 2
+        weight: 1
+      - path: ASTDA694676 1/  1/F410082/F410082 1/F410082 2/NONE 1/ 2/1
+        weight: 1
+      - path: ASTDA694676 1/  1/F410082/F410082 1/F410082 2/NONE 1/ 2/1/1-DC_Shell
+        weight: 1
+      - path: ASTDA694676 1/  2
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1/D400081 2
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1/D400081 2/NONE
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1/D400081 2/NONE/ 1
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1/D400081 2/NONE/ 1/2
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1/D400081 2/NONE/ 1/2/NONE 16
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1/D400081 2/NONE/ 1/2/NONE 16/NONE
+          21
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1/D400081 2/NONE/ 1/2/NONE 16/NONE
+          21/NONE-DC_Shell 1
+        weight: 1
+      - path: ASTDA694676 1/  2/D400081/D400081 1/D400081 2/NONE/ 1/2/NONE 16/NONE
+          21/NONE-DC_Shell 2
+        weight: 1
+      - path: ASTDA694676 1/  3
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2/NONE 6
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2/NONE 6/ 7
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2/NONE 6/ 7/p1 2
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2/NONE 6/ 7/p1 2/NONE 18
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2/NONE 6/ 7/p1 2/NONE 18/NONE
+          23
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2/NONE 6/ 7/p1 2/NONE 18/NONE
+          23/NONE-DC_Shell 36
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2/NONE 6/ 7/p1 2/NONE 18/NONE
+          23/NONE-DC_Shell 37
+        weight: 1
+      - path: ASTDA694676 1/  3/L430241/L430241 1/L430241 2/NONE 6/ 7/p1 2/NONE 18/NONE
+          23/NONE-DC_Shell 38
+        weight: 1
+      - path: ASTDA694676 1/  4
+        weight: 1
+      - path: ASTDA694676 1/  4/L430035
+        weight: 1
+      - path: ASTDA694676 1/  4/L430035/L430035 1
+        weight: 1
+      - path: ASTDA694676 1/  4/L430035/L430035 1/L430035 2
+        weight: 1
+      - path: ASTDA694676 1/  4/L430035/L430035 1/L430035 2/NONE 5
+        weight: 1
+      - path: ASTDA694676 1/  4/L430035/L430035 1/L430035 2/NONE 5/ 6
+        weight: 1
+      - path: ASTDA694676 1/  4/L430035/L430035 1/L430035 2/NONE 5/ 6/p1 1
+        weight: 1
+      - path: ASTDA694676 1/  4/L430035/L430035 1/L430035 2/NONE 5/ 6/p1 1/p1-DC_Shell
+          1
+        weight: 1
+      - path: ASTDA694676 1/  5
+        weight: 1
+      - path: ASTDA694676 1/  5/L430016
+        weight: 1
+      - path: ASTDA694676 1/  5/L430016/L430016 1
+        weight: 1
+      - path: ASTDA694676 1/  5/L430016/L430016 1/L430016 2
+        weight: 1
+      - path: ASTDA694676 1/  5/L430016/L430016 1/L430016 2/NONE 3
+        weight: 1
+      - path: ASTDA694676 1/  5/L430016/L430016 1/L430016 2/NONE 3/ 4
+        weight: 1
+      - path: ASTDA694676 1/  5/L430016/L430016 1/L430016 2/NONE 3/ 4/p1
+        weight: 1
+      - path: ASTDA694676 1/  5/L430016/L430016 1/L430016 2/NONE 3/ 4/p1/p1-DC_Shell
+        weight: 1
+      - path: ASTDA694676 1/  6
+        weight: 1
+      - path: ASTDA694676 1/  6/L450093
+        weight: 1
+      - path: ASTDA694676 1/  6/L450093/L450093 1
+        weight: 1
+      - path: ASTDA694676 1/  6/L450093/L450093 1/L450093 2
+        weight: 1
+      - path: ASTDA694676 1/  6/L450093/L450093 1/L450093 2/NONE 9
+        weight: 1
+      - path: ASTDA694676 1/  6/L450093/L450093 1/L450093 2/NONE 9/ 10
+        weight: 1
+      - path: ASTDA694676 1/  6/L450093/L450093 1/L450093 2/NONE 9/ 10/1 3
+        weight: 1
+      - path: ASTDA694676 1/  6/L450093/L450093 1/L450093 2/NONE 9/ 10/1 3/1-DC_Shell
+          3
+        weight: 1
+      - path: ASTDA694676 1/  7
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg/taper roller bearing_jis_PreviewCfg
+          3
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg/taper roller bearing_jis_PreviewCfg
+          3/taper roller bearing_jis_PreviewCfg 5
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg/taper roller bearing_jis_PreviewCfg
+          3/taper roller bearing_jis_PreviewCfg 5/NONE 15
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg/taper roller bearing_jis_PreviewCfg
+          3/taper roller bearing_jis_PreviewCfg 5/NONE 15/ 16
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg/taper roller bearing_jis_PreviewCfg
+          3/taper roller bearing_jis_PreviewCfg 5/NONE 15/ 16/InnerRace
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg/taper roller bearing_jis_PreviewCfg
+          3/taper roller bearing_jis_PreviewCfg 5/NONE 15/ 16/InnerRace/InnerRace-DC_Shell
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg/taper roller bearing_jis_PreviewCfg
+          3/taper roller bearing_jis_PreviewCfg 5/NONE 15/ 16/InnerRace/InnerRace-DC_Shell/InnerRace-DC_Shell
+          1
+        weight: 1
+      - path: ASTDA694676 1/  7/taper roller bearing_jis_PreviewCfg/taper roller bearing_jis_PreviewCfg
+          3/taper roller bearing_jis_PreviewCfg 5/NONE 15/ 16/InnerRace/InnerRace-DC_Shell/NONE-DC_Shell
+        weight: 1
+      - path: ASTDA694676 1/  8
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 3
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 4
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 5
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 6
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 7
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 8
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 9
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 10
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 11
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 12
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 13
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 14
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 15
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 16
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 17
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 18
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 19
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 20
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 21
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 22
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 23
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 24
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 25
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 26
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 27
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 28
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 29
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 30
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 31
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 32
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 33
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 34
+        weight: 1
+      - path: ASTDA694676 1/  8/L430024/L430024 1/L430024 2/NONE 4/ 5/M8x1.25 2/NONE
+          17/NONE 22/NONE-DC_Shell 35
+        weight: 1
+      - path: ASTDA694676 1/  9
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20/NONE 25
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20/NONE 25/NONE-DC_Shell 41
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20/NONE 25/NONE-DC_Shell 42
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20/NONE 25/NONE-DC_Shell 43
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20/NONE 25/NONE-DC_Shell 44
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20/NONE 25/NONE-DC_Shell 45
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20/NONE 25/NONE-DC_Shell 46
+        weight: 1
+      - path: ASTDA694676 1/  9/NUT-YSKM130-2P/NUT-YSKM130-2P 1/NUT-YSKM130-2P 2/NONE
+          10/ 11/M8x1.25 1/NONE 20/NONE 25/NONE-DC_Shell 47
+        weight: 1
+      - path: ASTDA694676 1/  10
+        weight: 1
+      - path: ASTDA694676 1/  10/taper roller bearing_jis_PreviewCfg 1
+        weight: 1
+      - path: ASTDA694676 1/  10/taper roller bearing_jis_PreviewCfg 1/taper roller
+          bearing_jis_PreviewCfg 2
+        weight: 1
+      - path: ASTDA694676 1/  10/taper roller bearing_jis_PreviewCfg 1/taper roller
+          bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4
+        weight: 1
+      - path: ASTDA694676 1/  10/taper roller bearing_jis_PreviewCfg 1/taper roller
+          bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4/NONE 14
+        weight: 1
+      - path: ASTDA694676 1/  10/taper roller bearing_jis_PreviewCfg 1/taper roller
+          bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4/NONE 14/
+          15
+        weight: 1
+      - path: ASTDA694676 1/  10/taper roller bearing_jis_PreviewCfg 1/taper roller
+          bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4/NONE 14/
+          15/InnerRace 1
+        weight: 1
+      - path: ASTDA694676 1/  11
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1/L450021 2
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1/L450021 2/NONE 8
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1/L450021 2/NONE 8/ 9
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1/L450021 2/NONE 8/ 9/M6x1.0 1
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1/L450021 2/NONE 8/ 9/M6x1.0 1/NONE
+          19
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1/L450021 2/NONE 8/ 9/M6x1.0 1/NONE
+          19/NONE 24
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1/L450021 2/NONE 8/ 9/M6x1.0 1/NONE
+          19/NONE 24/NONE-DC_Shell 39
+        weight: 1
+      - path: ASTDA694676 1/  11/L450021/L450021 1/L450021 2/NONE 8/ 9/M6x1.0 1/NONE
+          19/NONE 24/NONE-DC_Shell 40
+        weight: 1
+      - path: ASTDA694676 1/  12
+        weight: 1
+      - path: ASTDA694676 1/  12/F410200
+        weight: 1
+      - path: ASTDA694676 1/  12/F410200/F410200 1
+        weight: 1
+      - path: ASTDA694676 1/  12/F410200/F410200 1/F410200 2
+        weight: 1
+      - path: ASTDA694676 1/  12/F410200/F410200 1/F410200 2/NONE 2
+        weight: 1
+      - path: ASTDA694676 1/  12/F410200/F410200 1/F410200 2/NONE 2/ 3
+        weight: 1
+      - path: ASTDA694676 1/  12/F410200/F410200 1/F410200 2/NONE 2/ 3/1 1
+        weight: 1
+      - path: ASTDA694676 1/  12/F410200/F410200 1/F410200 2/NONE 2/ 3/1 1/1-DC_Shell
+          1
+        weight: 1
+      - path: ASTDA694676 1/  13
+        weight: 1
+      - path: ASTDA694676 1/  13/c type hole use retaining ring_jis_PreviewCfg
+        weight: 1
+      - path: ASTDA694676 1/  13/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1
+        weight: 1
+      - path: ASTDA694676 1/  13/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2
+        weight: 1
+      - path: ASTDA694676 1/  13/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2/NONE 11
+        weight: 1
+      - path: ASTDA694676 1/  13/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2/NONE 11/ 12
+        weight: 1
+      - path: ASTDA694676 1/  13/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2/NONE 11/ 12/Body
+        weight: 1
+      - path: ASTDA694676 1/  13/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2/NONE 11/ 12/Body/Body-DC_Shell
+        weight: 1
+      - path: ASTDA694676 1/  14
+        weight: 1
+      - path: ASTDA694676 1/  14/hexagon socket set screw cone point_jis_PreviewCfg
+          1
+        weight: 1
+      - path: ASTDA694676 1/  14/hexagon socket set screw cone point_jis_PreviewCfg
+          1/hexagon socket set screw cone point_jis_PreviewCfg 3
+        weight: 1
+      - path: ASTDA694676 1/  14/hexagon socket set screw cone point_jis_PreviewCfg
+          1/hexagon socket set screw cone point_jis_PreviewCfg 3/hexagon socket set
+          screw cone point_jis_PreviewCfg 5
+        weight: 1
+      - path: ASTDA694676 1/  14/hexagon socket set screw cone point_jis_PreviewCfg
+          1/hexagon socket set screw cone point_jis_PreviewCfg 3/hexagon socket set
+          screw cone point_jis_PreviewCfg 5/NONE 13
+        weight: 1
+      - path: ASTDA694676 1/  14/hexagon socket set screw cone point_jis_PreviewCfg
+          1/hexagon socket set screw cone point_jis_PreviewCfg 3/hexagon socket set
+          screw cone point_jis_PreviewCfg 5/NONE 13/ 14
+        weight: 1
+      - path: ASTDA694676 1/  14/hexagon socket set screw cone point_jis_PreviewCfg
+          1/hexagon socket set screw cone point_jis_PreviewCfg 3/hexagon socket set
+          screw cone point_jis_PreviewCfg 5/NONE 13/ 14/Hex 1
+        weight: 1
+      - path: ASTDA694676 1/  14/hexagon socket set screw cone point_jis_PreviewCfg
+          1/hexagon socket set screw cone point_jis_PreviewCfg 3/hexagon socket set
+          screw cone point_jis_PreviewCfg 5/NONE 13/ 14/Hex 1/Hex-DC_Shell 1
+        weight: 1
+      - path: ASTDA694676 1/  15
+        weight: 1
+      - path: ASTDA694676 1/  15/hexagon socket set screw cone point_jis_PreviewCfg
+        weight: 1
+      - path: ASTDA694676 1/  15/hexagon socket set screw cone point_jis_PreviewCfg/hexagon
+          socket set screw cone point_jis_PreviewCfg 2
+        weight: 1
+      - path: ASTDA694676 1/  15/hexagon socket set screw cone point_jis_PreviewCfg/hexagon
+          socket set screw cone point_jis_PreviewCfg 2/hexagon socket set screw cone
+          point_jis_PreviewCfg 4
+        weight: 1
+      - path: ASTDA694676 1/  15/hexagon socket set screw cone point_jis_PreviewCfg/hexagon
+          socket set screw cone point_jis_PreviewCfg 2/hexagon socket set screw cone
+          point_jis_PreviewCfg 4/NONE 12
+        weight: 1
+      - path: ASTDA694676 1/  15/hexagon socket set screw cone point_jis_PreviewCfg/hexagon
+          socket set screw cone point_jis_PreviewCfg 2/hexagon socket set screw cone
+          point_jis_PreviewCfg 4/NONE 12/ 13
+        weight: 1
+      - path: ASTDA694676 1/  15/hexagon socket set screw cone point_jis_PreviewCfg/hexagon
+          socket set screw cone point_jis_PreviewCfg 2/hexagon socket set screw cone
+          point_jis_PreviewCfg 4/NONE 12/ 13/Hex
+        weight: 1
+      - path: ASTDA694676 1/  15/hexagon socket set screw cone point_jis_PreviewCfg/hexagon
+          socket set screw cone point_jis_PreviewCfg 2/hexagon socket set screw cone
+          point_jis_PreviewCfg 4/NONE 12/ 13/Hex/Hex-DC_Shell
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

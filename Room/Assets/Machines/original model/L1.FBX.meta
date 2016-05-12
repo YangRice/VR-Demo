@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 7d6bb405a14745c4fb24d00f0cf00a8f
+timeCreated: 1460993225
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  2'
+    100006: '  3'
+    100008: '  4'
+    100010: '  5'
+    100012: ' 1'
+    100014: ' 2'
+    100016: ' 3'
+    100018: ' 4'
+    100020: ' 5'
+    100022: ' N1'
+    100024: ' N1-DC_Shell'
+    100026: 1
+    100028: 1 1
+    100030: 1-DC_Shell
+    100032: ?8.0 (8) 1
+    100034: ASTF18610064 1
+    100036: D200210
+    100038: D200210 1
+    100040: D200210 2
+    100042: D200220
+    100044: D200220 1
+    100046: D200220 2
+    100048: DMB_DMB40N72FA
+    100050: DMB_DMB40N72FA 1
+    100052: DMBS_72
+    100054: DMBS_72 1
+    100056: DMBS_72 2
+    100058: DMBw_72
+    100060: DMBw_72 1
+    100062: DMBw_72 2
+    100064: EndChamfer
+    100066: EndChamfer-DC_Shell
+    100068: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N
+    100070: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 1
+    100072: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 2
+    100074: //RootNode
+    100076: NONE
+    100078: NONE 1
+    100080: NONE 2
+    100082: NONE 3
+    100084: NONE 4
+    100086: NONE 5
+    100088: NONE 6
+    100090: NONE 7
+    100092: NONE-DC_Shell
+    100094: NONE-DC_Shell 1
+    100096: NONE-DC_Shell 2
+    100098: NONE-DC_Shell 3
+    400000: ' '
+    400002: '  1'
+    400004: '  2'
+    400006: '  3'
+    400008: '  4'
+    400010: '  5'
+    400012: ' 1'
+    400014: ' 2'
+    400016: ' 3'
+    400018: ' 4'
+    400020: ' 5'
+    400022: ' N1'
+    400024: ' N1-DC_Shell'
+    400026: 1
+    400028: 1 1
+    400030: 1-DC_Shell
+    400032: ?8.0 (8) 1
+    400034: ASTF18610064 1
+    400036: D200210
+    400038: D200210 1
+    400040: D200210 2
+    400042: D200220
+    400044: D200220 1
+    400046: D200220 2
+    400048: DMB_DMB40N72FA
+    400050: DMB_DMB40N72FA 1
+    400052: DMBS_72
+    400054: DMBS_72 1
+    400056: DMBS_72 2
+    400058: DMBw_72
+    400060: DMBw_72 1
+    400062: DMBw_72 2
+    400064: EndChamfer
+    400066: EndChamfer-DC_Shell
+    400068: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N
+    400070: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 1
+    400072: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 2
+    400074: //RootNode
+    400076: NONE
+    400078: NONE 1
+    400080: NONE 2
+    400082: NONE 3
+    400084: NONE 4
+    400086: NONE 5
+    400088: NONE 6
+    400090: NONE 7
+    400092: NONE-DC_Shell
+    400094: NONE-DC_Shell 1
+    400096: NONE-DC_Shell 2
+    400098: NONE-DC_Shell 3
+    2300000: ' N1-DC_Shell'
+    2300002: 1-DC_Shell
+    2300004: EndChamfer-DC_Shell
+    2300006: NONE-DC_Shell
+    2300008: NONE-DC_Shell 1
+    2300010: NONE-DC_Shell 2
+    2300012: NONE-DC_Shell 3
+    3300000: ' N1-DC_Shell'
+    3300002: 1-DC_Shell
+    3300004: EndChamfer-DC_Shell
+    3300006: NONE-DC_Shell
+    3300008: NONE-DC_Shell 1
+    3300010: NONE-DC_Shell 2
+    3300012: NONE-DC_Shell 3
+    4300000: 1-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: NONE-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: ' N1-DC_Shell'
+    4300010: NONE-DC_Shell
+    4300012: EndChamfer-DC_Shell
+    7400000: explodeL1
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explodeL1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ASTF18610064 1
+        weight: 1
+      - path: 'ASTF18610064 1/ '
+        weight: 1
+      - path: ASTF18610064 1/ /D200210
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2/NONE
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2/NONE/ 1
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2/NONE/ 1/1
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2/NONE/ 1/1/1-DC_Shell
+        weight: 1
+      - path: ASTF18610064 1/  1
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2/NONE 1
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2/NONE 1/ 2
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2/NONE 6
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2/NONE 6/NONE-DC_Shell
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2/NONE 6/NONE-DC_Shell 1
+        weight: 1
+      - path: ASTF18610064 1/  1/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2/NONE 6/NONE-DC_Shell 2
+        weight: 1
+      - path: ASTF18610064 1/  2
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          5
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          5/ 5
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          5/ 5/EndChamfer
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          5/ 5/EndChamfer/EndChamfer-DC_Shell
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBw_72
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBw_72/DMBw_72
+          1
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBw_72/DMBw_72
+          1/DMBw_72 2
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 4
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 4/ 4
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 4/ 4/ N1
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 4/ 4/ N1/ N1-DC_Shell
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBS_72
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBS_72/DMBS_72
+          1
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBS_72/DMBS_72
+          1/DMBS_72 2
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3/ 3
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3/ 3/1 1
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3/ 3/1 1/NONE 7
+        weight: 1
+      - path: ASTF18610064 1/  2/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3/ 3/1 1/NONE 7/NONE-DC_Shell 3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

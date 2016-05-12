@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 405c1d518d0464a94a4bdd370e39eb0a
+timeCreated: 1462465387
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  2'
+    100008: '  3'
+    100010: '  4'
+    100012: '  5'
+    100014: '  6'
+    100016: '  7'
+    100018: '  8'
+    100020: '  9'
+    100022: ' 1'
+    100024: ' 10'
+    100026: ' 11'
+    100028: ' 2'
+    100030: ' 3'
+    100032: ' 4'
+    100034: ' 5'
+    100036: ' 6'
+    100038: ' 7'
+    100040: ' 8'
+    100042: ' 9'
+    100044: -L1
+    100046: -L1 1
+    100048: -L1-DC_Shell
+    100050: -L1-DC_Shell 1
+    100052: 1
+    100054: 1-DC_Shell
+    100056: 412221203
+    100058: 412221203 1
+    100060: 412221203 2
+    100062: 412230370
+    100064: 412230370 1
+    100066: 412230370 2
+    100068: 412230380
+    100070: 412230380 1
+    100072: 412230380 2
+    100074: A1
+    100076: A1 1
+    100078: A1 2
+    100080: A1 3
+    100082: A1-DC_Shell
+    100084: ASTAC018068 1
+    100086: D209151
+    100088: D209151 1
+    100090: D209151 2
+    100092: D209161
+    100094: D209161 1
+    100096: D209161 2
+    100098: D209171
+    100100: D209171 1
+    100102: D209171 2
+    100104: D209280
+    100106: D209280 1
+    100108: D209280 2
+    100110: //RootNode
+    100112: h}u1
+    100114: h}u1 1
+    100116: h}u1-DC_Shell
+    100118: h}u1-DC_Shell 1
+    100120: KEY2R25-14-170
+    100122: KEY2R25-14-170 1
+    100124: KEY2R25-14-170 2
+    100126: KEY2R25-14-170 3
+    100128: KEY2R25-14-170 4
+    100130: KEY2R25-14-170 5
+    100132: LM451310
+    100134: LM451310 1
+    100136: LM451310 2
+    100138: LM451345
+    100140: LM451345 1
+    100142: LM451345 2
+    100144: M12 y1
+    100146: M12 y1-DC_Shell
+    100148: NONE
+    100150: NONE 1
+    100152: NONE 10
+    100154: NONE 11
+    100156: NONE 12
+    100158: NONE 13
+    100160: NONE 14
+    100162: NONE 15
+    100164: NONE 16
+    100166: NONE 17
+    100168: NONE 18
+    100170: NONE 2
+    100172: NONE 3
+    100174: NONE 4
+    100176: NONE 5
+    100178: NONE 6
+    100180: NONE 7
+    100182: NONE 8
+    100184: NONE 9
+    100186: NONE-DC_Shell
+    100188: NONE-DC_Shell 1
+    100190: NONE-DC_Shell 2
+    100192: NONE-DC_Shell 3
+    100194: NONE-DC_Shell 4
+    100196: NONE-DC_Shell 5
+    100198: NONE-DC_Shell 6
+    100200: NONE-DC_Shell 7
+    100202: R2
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  2'
+    400008: '  3'
+    400010: '  4'
+    400012: '  5'
+    400014: '  6'
+    400016: '  7'
+    400018: '  8'
+    400020: '  9'
+    400022: ' 1'
+    400024: ' 10'
+    400026: ' 11'
+    400028: ' 2'
+    400030: ' 3'
+    400032: ' 4'
+    400034: ' 5'
+    400036: ' 6'
+    400038: ' 7'
+    400040: ' 8'
+    400042: ' 9'
+    400044: -L1
+    400046: -L1 1
+    400048: -L1-DC_Shell
+    400050: -L1-DC_Shell 1
+    400052: 1
+    400054: 1-DC_Shell
+    400056: 412221203
+    400058: 412221203 1
+    400060: 412221203 2
+    400062: 412230370
+    400064: 412230370 1
+    400066: 412230370 2
+    400068: 412230380
+    400070: 412230380 1
+    400072: 412230380 2
+    400074: A1
+    400076: A1 1
+    400078: A1 2
+    400080: A1 3
+    400082: A1-DC_Shell
+    400084: ASTAC018068 1
+    400086: D209151
+    400088: D209151 1
+    400090: D209151 2
+    400092: D209161
+    400094: D209161 1
+    400096: D209161 2
+    400098: D209171
+    400100: D209171 1
+    400102: D209171 2
+    400104: D209280
+    400106: D209280 1
+    400108: D209280 2
+    400110: //RootNode
+    400112: h}u1
+    400114: h}u1 1
+    400116: h}u1-DC_Shell
+    400118: h}u1-DC_Shell 1
+    400120: KEY2R25-14-170
+    400122: KEY2R25-14-170 1
+    400124: KEY2R25-14-170 2
+    400126: KEY2R25-14-170 3
+    400128: KEY2R25-14-170 4
+    400130: KEY2R25-14-170 5
+    400132: LM451310
+    400134: LM451310 1
+    400136: LM451310 2
+    400138: LM451345
+    400140: LM451345 1
+    400142: LM451345 2
+    400144: M12 y1
+    400146: M12 y1-DC_Shell
+    400148: NONE
+    400150: NONE 1
+    400152: NONE 10
+    400154: NONE 11
+    400156: NONE 12
+    400158: NONE 13
+    400160: NONE 14
+    400162: NONE 15
+    400164: NONE 16
+    400166: NONE 17
+    400168: NONE 18
+    400170: NONE 2
+    400172: NONE 3
+    400174: NONE 4
+    400176: NONE 5
+    400178: NONE 6
+    400180: NONE 7
+    400182: NONE 8
+    400184: NONE 9
+    400186: NONE-DC_Shell
+    400188: NONE-DC_Shell 1
+    400190: NONE-DC_Shell 2
+    400192: NONE-DC_Shell 3
+    400194: NONE-DC_Shell 4
+    400196: NONE-DC_Shell 5
+    400198: NONE-DC_Shell 6
+    400200: NONE-DC_Shell 7
+    400202: R2
+    2300000: -L1-DC_Shell
+    2300002: -L1-DC_Shell 1
+    2300004: 1-DC_Shell
+    2300006: A1-DC_Shell
+    2300008: h}u1-DC_Shell
+    2300010: h}u1-DC_Shell 1
+    2300012: M12 y1-DC_Shell
+    2300014: NONE-DC_Shell
+    2300016: NONE-DC_Shell 1
+    2300018: NONE-DC_Shell 2
+    2300020: NONE-DC_Shell 3
+    2300022: NONE-DC_Shell 4
+    2300024: NONE-DC_Shell 5
+    2300026: NONE-DC_Shell 6
+    2300028: NONE-DC_Shell 7
+    3300000: -L1-DC_Shell
+    3300002: -L1-DC_Shell 1
+    3300004: 1-DC_Shell
+    3300006: A1-DC_Shell
+    3300008: h}u1-DC_Shell
+    3300010: h}u1-DC_Shell 1
+    3300012: M12 y1-DC_Shell
+    3300014: NONE-DC_Shell
+    3300016: NONE-DC_Shell 1
+    3300018: NONE-DC_Shell 2
+    3300020: NONE-DC_Shell 3
+    3300022: NONE-DC_Shell 4
+    3300024: NONE-DC_Shell 5
+    3300026: NONE-DC_Shell 6
+    3300028: NONE-DC_Shell 7
+    4300000: NONE-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: 1-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: NONE-DC_Shell
+    4300010: M12 y1-DC_Shell
+    4300012: -L1-DC_Shell
+    4300014: -L1-DC_Shell
+    4300016: h}u1-DC_Shell
+    4300018: NONE-DC_Shell
+    4300020: NONE-DC_Shell
+    4300022: A1-DC_Shell
+    4300024: NONE-DC_Shell
+    4300026: NONE-DC_Shell
+    4300028: h}u1-DC_Shell
+    7400000: explodeF
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explodeF
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ASTAC018068 1
+        weight: 1
+      - path: 'ASTAC018068 1/ '
+        weight: 1
+      - path: ASTAC018068 1/ /D209171
+        weight: 1
+      - path: ASTAC018068 1/ /D209171/D209171 1
+        weight: 1
+      - path: ASTAC018068 1/ /D209171/D209171 1/D209171 2
+        weight: 1
+      - path: ASTAC018068 1/ /D209171/D209171 1/D209171 2/NONE 5
+        weight: 1
+      - path: ASTAC018068 1/ /D209171/D209171 1/D209171 2/NONE 5/ 6
+        weight: 1
+      - path: ASTAC018068 1/ /D209171/D209171 1/D209171 2/NONE 5/ 6/M12 y1
+        weight: 1
+      - path: ASTAC018068 1/ /D209171/D209171 1/D209171 2/NONE 5/ 6/M12 y1/M12 y1-DC_Shell
+        weight: 1
+      - path: ASTAC018068 1/  1
+        weight: 1
+      - path: ASTAC018068 1/  1/LM451310
+        weight: 1
+      - path: ASTAC018068 1/  1/LM451310/LM451310 1
+        weight: 1
+      - path: ASTAC018068 1/  1/LM451310/LM451310 1/LM451310 2
+        weight: 1
+      - path: ASTAC018068 1/  1/LM451310/LM451310 1/LM451310 2/NONE 9
+        weight: 1
+      - path: ASTAC018068 1/  1/LM451310/LM451310 1/LM451310 2/NONE 9/ 10
+        weight: 1
+      - path: ASTAC018068 1/  1/LM451310/LM451310 1/LM451310 2/NONE 9/ 10/A1 2
+        weight: 1
+      - path: ASTAC018068 1/  1/LM451310/LM451310 1/LM451310 2/NONE 9/ 10/A1 2/A1-DC_Shell
+        weight: 1
+      - path: ASTAC018068 1/  2
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1/D209151 2
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1/D209151 2/NONE 3
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1/D209151 2/NONE 3/ 4
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1/D209151 2/NONE 3/ 4/R2
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1/D209151 2/NONE 3/ 4/R2/NONE 12
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1/D209151 2/NONE 3/ 4/R2/NONE 12/NONE
+          16
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1/D209151 2/NONE 3/ 4/R2/NONE 12/NONE
+          16/NONE-DC_Shell 2
+        weight: 1
+      - path: ASTAC018068 1/  2/D209151/D209151 1/D209151 2/NONE 3/ 4/R2/NONE 12/NONE
+          16/NONE-DC_Shell 3
+        weight: 1
+      - path: ASTAC018068 1/  3
+        weight: 1
+      - path: ASTAC018068 1/  3/KEY2R25-14-170 1
+        weight: 1
+      - path: ASTAC018068 1/  3/KEY2R25-14-170 1/KEY2R25-14-170 3
+        weight: 1
+      - path: ASTAC018068 1/  3/KEY2R25-14-170 1/KEY2R25-14-170 3/KEY2R25-14-170 5
+        weight: 1
+      - path: ASTAC018068 1/  3/KEY2R25-14-170 1/KEY2R25-14-170 3/KEY2R25-14-170 5/NONE
+          7
+        weight: 1
+      - path: ASTAC018068 1/  3/KEY2R25-14-170 1/KEY2R25-14-170 3/KEY2R25-14-170 5/NONE
+          7/ 8
+        weight: 1
+      - path: ASTAC018068 1/  3/KEY2R25-14-170 1/KEY2R25-14-170 3/KEY2R25-14-170 5/NONE
+          7/ 8/-L1 1
+        weight: 1
+      - path: ASTAC018068 1/  3/KEY2R25-14-170 1/KEY2R25-14-170 3/KEY2R25-14-170 5/NONE
+          7/ 8/-L1 1/-L1-DC_Shell 1
+        weight: 1
+      - path: ASTAC018068 1/  4
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1/LM451345 2
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1/LM451345 2/NONE 10
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1/LM451345 2/NONE 10/ 11
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1/LM451345 2/NONE 10/ 11/A1 3
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1/LM451345 2/NONE 10/ 11/A1 3/NONE
+          14
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1/LM451345 2/NONE 10/ 11/A1 3/NONE
+          14/NONE 18
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1/LM451345 2/NONE 10/ 11/A1 3/NONE
+          14/NONE 18/NONE-DC_Shell 6
+        weight: 1
+      - path: ASTAC018068 1/  4/LM451345/LM451345 1/LM451345 2/NONE 10/ 11/A1 3/NONE
+          14/NONE 18/NONE-DC_Shell 7
+        weight: 1
+      - path: ASTAC018068 1/  5
+        weight: 1
+      - path: ASTAC018068 1/  5/412230370
+        weight: 1
+      - path: ASTAC018068 1/  5/412230370/412230370 1
+        weight: 1
+      - path: ASTAC018068 1/  5/412230370/412230370 1/412230370 2
+        weight: 1
+      - path: ASTAC018068 1/  5/412230370/412230370 1/412230370 2/NONE 1
+        weight: 1
+      - path: ASTAC018068 1/  5/412230370/412230370 1/412230370 2/NONE 1/ 2
+        weight: 1
+      - path: ASTAC018068 1/  5/412230370/412230370 1/412230370 2/NONE 1/ 2/h}u1
+        weight: 1
+      - path: ASTAC018068 1/  5/412230370/412230370 1/412230370 2/NONE 1/ 2/h}u1/h}u1-DC_Shell
+        weight: 1
+      - path: ASTAC018068 1/  6
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1/D209161 2
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1/D209161 2/NONE 4
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1/D209161 2/NONE 4/ 5
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1/D209161 2/NONE 4/ 5/A1 1
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1/D209161 2/NONE 4/ 5/A1 1/NONE 13
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1/D209161 2/NONE 4/ 5/A1 1/NONE 13/NONE
+          17
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1/D209161 2/NONE 4/ 5/A1 1/NONE 13/NONE
+          17/NONE-DC_Shell 4
+        weight: 1
+      - path: ASTAC018068 1/  6/D209161/D209161 1/D209161 2/NONE 4/ 5/A1 1/NONE 13/NONE
+          17/NONE-DC_Shell 5
+        weight: 1
+      - path: ASTAC018068 1/  7
+        weight: 1
+      - path: ASTAC018068 1/  7/KEY2R25-14-170
+        weight: 1
+      - path: ASTAC018068 1/  7/KEY2R25-14-170/KEY2R25-14-170 2
+        weight: 1
+      - path: ASTAC018068 1/  7/KEY2R25-14-170/KEY2R25-14-170 2/KEY2R25-14-170 4
+        weight: 1
+      - path: ASTAC018068 1/  7/KEY2R25-14-170/KEY2R25-14-170 2/KEY2R25-14-170 4/NONE
+          8
+        weight: 1
+      - path: ASTAC018068 1/  7/KEY2R25-14-170/KEY2R25-14-170 2/KEY2R25-14-170 4/NONE
+          8/ 9
+        weight: 1
+      - path: ASTAC018068 1/  7/KEY2R25-14-170/KEY2R25-14-170 2/KEY2R25-14-170 4/NONE
+          8/ 9/-L1
+        weight: 1
+      - path: ASTAC018068 1/  7/KEY2R25-14-170/KEY2R25-14-170 2/KEY2R25-14-170 4/NONE
+          8/ 9/-L1/-L1-DC_Shell
+        weight: 1
+      - path: ASTAC018068 1/  8
+        weight: 1
+      - path: ASTAC018068 1/  8/D209280
+        weight: 1
+      - path: ASTAC018068 1/  8/D209280/D209280 1
+        weight: 1
+      - path: ASTAC018068 1/  8/D209280/D209280 1/D209280 2
+        weight: 1
+      - path: ASTAC018068 1/  8/D209280/D209280 1/D209280 2/NONE 6
+        weight: 1
+      - path: ASTAC018068 1/  8/D209280/D209280 1/D209280 2/NONE 6/ 7
+        weight: 1
+      - path: ASTAC018068 1/  8/D209280/D209280 1/D209280 2/NONE 6/ 7/1
+        weight: 1
+      - path: ASTAC018068 1/  8/D209280/D209280 1/D209280 2/NONE 6/ 7/1/1-DC_Shell
+        weight: 1
+      - path: ASTAC018068 1/  9
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1/412221203 2
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1/412221203 2/NONE
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1/412221203 2/NONE/ 1
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1/412221203 2/NONE/ 1/A1
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1/412221203 2/NONE/ 1/A1/NONE
+          11
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1/412221203 2/NONE/ 1/A1/NONE
+          11/NONE 15
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1/412221203 2/NONE/ 1/A1/NONE
+          11/NONE 15/NONE-DC_Shell
+        weight: 1
+      - path: ASTAC018068 1/  9/412221203/412221203 1/412221203 2/NONE/ 1/A1/NONE
+          11/NONE 15/NONE-DC_Shell 1
+        weight: 1
+      - path: ASTAC018068 1/  10
+        weight: 1
+      - path: ASTAC018068 1/  10/412230380
+        weight: 1
+      - path: ASTAC018068 1/  10/412230380/412230380 1
+        weight: 1
+      - path: ASTAC018068 1/  10/412230380/412230380 1/412230380 2
+        weight: 1
+      - path: ASTAC018068 1/  10/412230380/412230380 1/412230380 2/NONE 2
+        weight: 1
+      - path: ASTAC018068 1/  10/412230380/412230380 1/412230380 2/NONE 2/ 3
+        weight: 1
+      - path: ASTAC018068 1/  10/412230380/412230380 1/412230380 2/NONE 2/ 3/h}u1
+          1
+        weight: 1
+      - path: ASTAC018068 1/  10/412230380/412230380 1/412230380 2/NONE 2/ 3/h}u1
+          1/h}u1-DC_Shell 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

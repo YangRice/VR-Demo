@@ -46,5 +46,7 @@ public class MouseControl : MonoBehaviour {
 
         float x = transform.rotation.eulerAngles.x;
         x = (x > 180 ? x - 360 : x);
+        transform.Rotate(new Vector3(x < -10 ? -x - 10 : 0, 0, 0));
+        transform.Rotate(new Vector3(x > 45 ? -x + 45 : 0, 0, 0));
     }
 }
