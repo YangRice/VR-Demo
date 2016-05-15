@@ -2,34 +2,41 @@
 using System.Collections;
 
 public class explodeAinmate : MonoBehaviour {
+    
+    [SerializeField]
+    public GameObject[] hideObjects;
 
-	// Use this for initialization
-	void Start () {
-        Animation animation = this.GetComponent<Animation>();
+    new Animation animation = null;
+    bool isExploding = false;
+
+    // Use this for initialization
+    void Start () {
+        animation = gameObject.GetComponent<Animation>();
         animation.wrapMode = WrapMode.Once;
-        
     }
 	
 	// Update is called once per frame
 	void Update () {
-        
-        //GetComponent<Animation>().Stop();
-
+        var ani = animation[aniName];
+        foreach (var hideObj in hideObjects)
+        {
+            hideObj.SetActive(ani.time == 0 && !isExploding);
+        }
     }
 	public string aniName;
     public void explode()
     {
-        Animation animation = this.GetComponent<Animation>();
 		animation[aniName].speed = 1;
 		animation[aniName].time = 0;
 		animation.Play(aniName);
+        isExploding = true;
     }
 
     public void unexplode()
     {
-        Animation animation = this.GetComponent<Animation>();
 		animation[aniName].speed = -1;
 		animation[aniName].time = animation[aniName].length;
 		animation.Play(aniName);
+        isExploding = false;
     }
 }
