@@ -1,12 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MouseControl : MonoBehaviour {
+public class MouseControl : MonoBehaviour
+{
 
     public new Transform camera = null;
     public float momentum;
     public float minDistance = 5;
     public float maxDistance = 30;
+    public float wheelSpeed = 10;
+
+    public bool hasFloor = true;
+    public bool HasFloor { set { hasFloor = value; } }
 
     Vector2 speed = new Vector2(0, 0);
     bool ignoreMouse = false;
@@ -15,19 +20,20 @@ public class MouseControl : MonoBehaviour {
     {
         ignoreMouse = !enabled;
     }
-    
+
     // Use this for initialization
-    void Start () {
-	    
-	}
+    void Start()
+    {
+
+    }
 
     // Update is called once per frame
-    void Update ()
+    void Update()
     {
         float wheel = Input.GetAxis("Mouse ScrollWheel");
         if (wheel != 0.0f)
         {
-            camera.position = camera.position - camera.position.normalized * wheel * 10;
+            camera.position = camera.position - camera.position.normalized * wheel * wheelSpeed;
             if (camera.position.magnitude > maxDistance)
                 camera.position = camera.position.normalized * maxDistance;
             if (camera.position.magnitude < minDistance)
@@ -46,7 +52,11 @@ public class MouseControl : MonoBehaviour {
 
         float x = transform.rotation.eulerAngles.x;
         x = (x > 180 ? x - 360 : x);
-        transform.Rotate(new Vector3(x < -10 ? -x - 10 : 0, 0, 0));
-        transform.Rotate(new Vector3(x > 45 ? -x + 45 : 0, 0, 0));
+
+        if (hasFloor)
+        {
+            transform.Rotate(new Vector3(x < -10 ? -x - 10 : 0, 0, 0));
+            transform.Rotate(new Vector3(x > 45 ? -x + 45 : 0, 0, 0));
+        }
     }
 }
