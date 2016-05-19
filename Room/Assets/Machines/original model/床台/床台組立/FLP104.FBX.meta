@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 571a693baa001464294d2ba2f0a89891
+timeCreated: 1463663775
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  16'
+    100018: '  17'
+    100020: '  18'
+    100022: '  19'
+    100024: '  2'
+    100026: '  20'
+    100028: '  21'
+    100030: '  22'
+    100032: '  23'
+    100034: '  24'
+    100036: '  25'
+    100038: '  26'
+    100040: '  3'
+    100042: '  4'
+    100044: '  5'
+    100046: '  6'
+    100048: '  7'
+    100050: '  8'
+    100052: '  9'
+    100054: ' 1'
+    100056: ' 10'
+    100058: ' 11'
+    100060: ' 12'
+    100062: ' 13'
+    100064: ' 14'
+    100066: ' 15'
+    100068: ' 16'
+    100070: ' 17'
+    100072: ' 18'
+    100074: ' 19'
+    100076: ' 2'
+    100078: ' 20'
+    100080: ' 21'
+    100082: ' 22'
+    100084: ' 23'
+    100086: ' 24'
+    100088: ' 25'
+    100090: ' 26'
+    100092: ' 27'
+    100094: ' 3'
+    100096: ' 4'
+    100098: ' 5'
+    100100: ' 6'
+    100102: ' 7'
+    100104: ' 8'
+    100106: ' 9'
+    100108: -DC_Brep
+    100110: -DC_Brep 1
+    100112: -DC_Brep 10
+    100114: -DC_Brep 11
+    100116: -DC_Brep 12
+    100118: -DC_Brep 13
+    100120: -DC_Brep 14
+    100122: -DC_Brep 15
+    100124: -DC_Brep 16
+    100126: -DC_Brep 17
+    100128: -DC_Brep 18
+    100130: -DC_Brep 19
+    100132: -DC_Brep 2
+    100134: -DC_Brep 20
+    100136: -DC_Brep 21
+    100138: -DC_Brep 22
+    100140: -DC_Brep 23
+    100142: -DC_Brep 24
+    100144: -DC_Brep 25
+    100146: -DC_Brep 26
+    100148: -DC_Brep 27
+    100150: -DC_Brep 28
+    100152: -DC_Brep 29
+    100154: -DC_Brep 3
+    100156: -DC_Brep 30
+    100158: -DC_Brep 31
+    100160: -DC_Brep 32
+    100162: -DC_Brep 33
+    100164: -DC_Brep 34
+    100166: -DC_Brep 35
+    100168: -DC_Brep 36
+    100170: -DC_Brep 4
+    100172: -DC_Brep 5
+    100174: -DC_Brep 6
+    100176: -DC_Brep 7
+    100178: -DC_Brep 8
+    100180: -DC_Brep 9
+    100182: 1-1-2^FLP104
+    100184: 1-1-2^FLP104 1
+    100186: 3-1-3^FLP104
+    100188: 3-1-3^FLP104 1
+    100190: 4-1-4^FLP104
+    100192: 4-1-4^FLP104 1
+    100194: 5-1-5^FLP104
+    100196: 5-1-5^FLP104 1
+    100198: 6-1-6^FLP104
+    100200: 6-1-6^FLP104 1
+    100202: ASTB4903144 1
+    100204: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N
+    100206: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 1
+    100208: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 10
+    100210: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 11
+    100212: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 12
+    100214: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 13
+    100216: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 14
+    100218: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 15
+    100220: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 2
+    100222: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 3
+    100224: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 4
+    100226: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 5
+    100228: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 6
+    100230: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 7
+    100232: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 8
+    100234: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 9
+    100236: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N
+    100238: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 1
+    100240: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 2
+    100242: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 3
+    100244: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 4
+    100246: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 5
+    100248: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 6
+    100250: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 7
+    100252: //RootNode
+    100254: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+    100256: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      1
+    100258: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      2
+    100260: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      3
+    100262: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      4
+    100264: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      5
+    100266: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      6
+    100268: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      7
+    100270: NONE
+    100272: NONE 1
+    100274: NONE 10
+    100276: NONE 11
+    100278: NONE 12
+    100280: NONE 13
+    100282: NONE 14
+    100284: NONE 15
+    100286: NONE 16
+    100288: NONE 17
+    100290: NONE 18
+    100292: NONE 19
+    100294: NONE 2
+    100296: NONE 20
+    100298: NONE 21
+    100300: NONE 22
+    100302: NONE 23
+    100304: NONE 24
+    100306: NONE 25
+    100308: NONE 26
+    100310: NONE 3
+    100312: NONE 4
+    100314: NONE 5
+    100316: NONE 6
+    100318: NONE 7
+    100320: NONE 8
+    100322: NONE 9
+    100324: s7^FLP104
+    100326: s7^FLP104 1
+    100328: s8^FLP104
+    100330: s8^FLP104 1
+    100332: s9^FLP104
+    100334: s9^FLP104 1
+    100336: s9^FLP104 2
+    100338: s9^FLP104 3
+    100340: s9^FLP104 4
+    100342: s9^FLP104 5
+    100344: s9^FLP104 6
+    100346: s9^FLP104 7
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  16'
+    400018: '  17'
+    400020: '  18'
+    400022: '  19'
+    400024: '  2'
+    400026: '  20'
+    400028: '  21'
+    400030: '  22'
+    400032: '  23'
+    400034: '  24'
+    400036: '  25'
+    400038: '  26'
+    400040: '  3'
+    400042: '  4'
+    400044: '  5'
+    400046: '  6'
+    400048: '  7'
+    400050: '  8'
+    400052: '  9'
+    400054: ' 1'
+    400056: ' 10'
+    400058: ' 11'
+    400060: ' 12'
+    400062: ' 13'
+    400064: ' 14'
+    400066: ' 15'
+    400068: ' 16'
+    400070: ' 17'
+    400072: ' 18'
+    400074: ' 19'
+    400076: ' 2'
+    400078: ' 20'
+    400080: ' 21'
+    400082: ' 22'
+    400084: ' 23'
+    400086: ' 24'
+    400088: ' 25'
+    400090: ' 26'
+    400092: ' 27'
+    400094: ' 3'
+    400096: ' 4'
+    400098: ' 5'
+    400100: ' 6'
+    400102: ' 7'
+    400104: ' 8'
+    400106: ' 9'
+    400108: -DC_Brep
+    400110: -DC_Brep 1
+    400112: -DC_Brep 10
+    400114: -DC_Brep 11
+    400116: -DC_Brep 12
+    400118: -DC_Brep 13
+    400120: -DC_Brep 14
+    400122: -DC_Brep 15
+    400124: -DC_Brep 16
+    400126: -DC_Brep 17
+    400128: -DC_Brep 18
+    400130: -DC_Brep 19
+    400132: -DC_Brep 2
+    400134: -DC_Brep 20
+    400136: -DC_Brep 21
+    400138: -DC_Brep 22
+    400140: -DC_Brep 23
+    400142: -DC_Brep 24
+    400144: -DC_Brep 25
+    400146: -DC_Brep 26
+    400148: -DC_Brep 27
+    400150: -DC_Brep 28
+    400152: -DC_Brep 29
+    400154: -DC_Brep 3
+    400156: -DC_Brep 30
+    400158: -DC_Brep 31
+    400160: -DC_Brep 32
+    400162: -DC_Brep 33
+    400164: -DC_Brep 34
+    400166: -DC_Brep 35
+    400168: -DC_Brep 36
+    400170: -DC_Brep 4
+    400172: -DC_Brep 5
+    400174: -DC_Brep 6
+    400176: -DC_Brep 7
+    400178: -DC_Brep 8
+    400180: -DC_Brep 9
+    400182: 1-1-2^FLP104
+    400184: 1-1-2^FLP104 1
+    400186: 3-1-3^FLP104
+    400188: 3-1-3^FLP104 1
+    400190: 4-1-4^FLP104
+    400192: 4-1-4^FLP104 1
+    400194: 5-1-5^FLP104
+    400196: 5-1-5^FLP104 1
+    400198: 6-1-6^FLP104
+    400200: 6-1-6^FLP104 1
+    400202: ASTB4903144 1
+    400204: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N
+    400206: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 1
+    400208: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 10
+    400210: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 11
+    400212: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 12
+    400214: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 13
+    400216: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 14
+    400218: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 15
+    400220: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 2
+    400222: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 3
+    400224: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 4
+    400226: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 5
+    400228: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 6
+    400230: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 7
+    400232: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 8
+    400234: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 30 --N 9
+    400236: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N
+    400238: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 1
+    400240: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 2
+    400242: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 3
+    400244: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 4
+    400246: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 5
+    400248: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 6
+    400250: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 7
+    400252: //RootNode
+    400254: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+    400256: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      1
+    400258: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      2
+    400260: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      3
+    400262: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      4
+    400264: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      5
+    400266: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      6
+    400268: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      7
+    400270: NONE
+    400272: NONE 1
+    400274: NONE 10
+    400276: NONE 11
+    400278: NONE 12
+    400280: NONE 13
+    400282: NONE 14
+    400284: NONE 15
+    400286: NONE 16
+    400288: NONE 17
+    400290: NONE 18
+    400292: NONE 19
+    400294: NONE 2
+    400296: NONE 20
+    400298: NONE 21
+    400300: NONE 22
+    400302: NONE 23
+    400304: NONE 24
+    400306: NONE 25
+    400308: NONE 26
+    400310: NONE 3
+    400312: NONE 4
+    400314: NONE 5
+    400316: NONE 6
+    400318: NONE 7
+    400320: NONE 8
+    400322: NONE 9
+    400324: s7^FLP104
+    400326: s7^FLP104 1
+    400328: s8^FLP104
+    400330: s8^FLP104 1
+    400332: s9^FLP104
+    400334: s9^FLP104 1
+    400336: s9^FLP104 2
+    400338: s9^FLP104 3
+    400340: s9^FLP104 4
+    400342: s9^FLP104 5
+    400344: s9^FLP104 6
+    400346: s9^FLP104 7
+    2300000: -DC_Brep
+    2300002: -DC_Brep 1
+    2300004: -DC_Brep 10
+    2300006: -DC_Brep 11
+    2300008: -DC_Brep 12
+    2300010: -DC_Brep 13
+    2300012: -DC_Brep 14
+    2300014: -DC_Brep 15
+    2300016: -DC_Brep 16
+    2300018: -DC_Brep 17
+    2300020: -DC_Brep 18
+    2300022: -DC_Brep 19
+    2300024: -DC_Brep 2
+    2300026: -DC_Brep 20
+    2300028: -DC_Brep 21
+    2300030: -DC_Brep 22
+    2300032: -DC_Brep 23
+    2300034: -DC_Brep 24
+    2300036: -DC_Brep 25
+    2300038: -DC_Brep 26
+    2300040: -DC_Brep 27
+    2300042: -DC_Brep 28
+    2300044: -DC_Brep 29
+    2300046: -DC_Brep 3
+    2300048: -DC_Brep 30
+    2300050: -DC_Brep 31
+    2300052: -DC_Brep 32
+    2300054: -DC_Brep 33
+    2300056: -DC_Brep 34
+    2300058: -DC_Brep 35
+    2300060: -DC_Brep 36
+    2300062: -DC_Brep 4
+    2300064: -DC_Brep 5
+    2300066: -DC_Brep 6
+    2300068: -DC_Brep 7
+    2300070: -DC_Brep 8
+    2300072: -DC_Brep 9
+    3300000: -DC_Brep
+    3300002: -DC_Brep 1
+    3300004: -DC_Brep 10
+    3300006: -DC_Brep 11
+    3300008: -DC_Brep 12
+    3300010: -DC_Brep 13
+    3300012: -DC_Brep 14
+    3300014: -DC_Brep 15
+    3300016: -DC_Brep 16
+    3300018: -DC_Brep 17
+    3300020: -DC_Brep 18
+    3300022: -DC_Brep 19
+    3300024: -DC_Brep 2
+    3300026: -DC_Brep 20
+    3300028: -DC_Brep 21
+    3300030: -DC_Brep 22
+    3300032: -DC_Brep 23
+    3300034: -DC_Brep 24
+    3300036: -DC_Brep 25
+    3300038: -DC_Brep 26
+    3300040: -DC_Brep 27
+    3300042: -DC_Brep 28
+    3300044: -DC_Brep 29
+    3300046: -DC_Brep 3
+    3300048: -DC_Brep 30
+    3300050: -DC_Brep 31
+    3300052: -DC_Brep 32
+    3300054: -DC_Brep 33
+    3300056: -DC_Brep 34
+    3300058: -DC_Brep 35
+    3300060: -DC_Brep 36
+    3300062: -DC_Brep 4
+    3300064: -DC_Brep 5
+    3300066: -DC_Brep 6
+    3300068: -DC_Brep 7
+    3300070: -DC_Brep 8
+    3300072: -DC_Brep 9
+    4300000: -DC_Brep
+    4300002: -DC_Brep
+    4300004: -DC_Brep
+    4300006: -DC_Brep
+    4300008: -DC_Brep
+    4300010: -DC_Brep
+    4300012: -DC_Brep
+    4300014: -DC_Brep
+    4300016: -DC_Brep
+    4300018: -DC_Brep
+    4300020: -DC_Brep
+    4300022: -DC_Brep
+    4300024: -DC_Brep
+    4300026: -DC_Brep
+    4300028: -DC_Brep
+    4300030: -DC_Brep
+    4300032: -DC_Brep
+    4300034: -DC_Brep
+    4300036: -DC_Brep
+    4300038: -DC_Brep
+    4300040: -DC_Brep
+    4300042: -DC_Brep
+    4300044: -DC_Brep
+    4300046: -DC_Brep
+    4300048: -DC_Brep
+    4300050: -DC_Brep
+    4300052: -DC_Brep
+    4300054: -DC_Brep
+    4300056: -DC_Brep
+    4300058: -DC_Brep
+    4300060: -DC_Brep
+    4300062: -DC_Brep
+    4300064: -DC_Brep
+    4300066: -DC_Brep
+    4300068: -DC_Brep
+    4300070: -DC_Brep
+    4300072: -DC_Brep
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

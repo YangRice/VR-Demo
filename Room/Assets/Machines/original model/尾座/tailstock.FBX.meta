@@ -1,0 +1,3536 @@
+fileFormatVersion: 2
+guid: 1eb4a8505b9a64581af01b79c1a73cce
+timeCreated: 1462640379
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  16'
+    100018: '  17'
+    100020: '  18'
+    100022: '  19'
+    100024: '  2'
+    100026: '  20'
+    100028: '  21'
+    100030: '  22'
+    100032: '  23'
+    100034: '  24'
+    100036: '  25'
+    100038: '  26'
+    100040: '  27'
+    100042: '  28'
+    100044: '  29'
+    100046: '  3'
+    100048: '  30'
+    100050: '  31'
+    100052: '  32'
+    100054: '  33'
+    100056: '  34'
+    100058: '  35'
+    100060: '  36'
+    100062: '  37'
+    100064: '  38'
+    100066: '  39'
+    100068: '  4'
+    100070: '  40'
+    100072: '  41'
+    100074: '  42'
+    100076: '  43'
+    100078: '  44'
+    100080: '  45'
+    100082: '  46'
+    100084: '  47'
+    100086: '  48'
+    100088: '  49'
+    100090: '  5'
+    100092: '  50'
+    100094: '  51'
+    100096: '  52'
+    100098: '  53'
+    100100: '  54'
+    100102: '  55'
+    100104: '  56'
+    100106: '  57'
+    100108: '  58'
+    100110: '  59'
+    100112: '  6'
+    100114: '  60'
+    100116: '  61'
+    100118: '  62'
+    100120: '  63'
+    100122: '  64'
+    100124: '  65'
+    100126: '  66'
+    100128: '  67'
+    100130: '  68'
+    100132: '  69'
+    100134: '  7'
+    100136: '  70'
+    100138: '  71'
+    100140: '  72'
+    100142: '  73'
+    100144: '  74'
+    100146: '  8'
+    100148: '  9'
+    100150: ' 1'
+    100152: ' 10'
+    100154: ' 11'
+    100156: ' 12'
+    100158: ' 13'
+    100160: ' 14'
+    100162: ' 15'
+    100164: ' 16'
+    100166: ' 17'
+    100168: ' 18'
+    100170: ' 19'
+    100172: ' 2'
+    100174: ' 20'
+    100176: ' 21'
+    100178: ' 22'
+    100180: ' 23'
+    100182: ' 24'
+    100184: ' 25'
+    100186: ' 26'
+    100188: ' 27'
+    100190: ' 28'
+    100192: ' 29'
+    100194: ' 3'
+    100196: ' 30'
+    100198: ' 31'
+    100200: ' 32'
+    100202: ' 33'
+    100204: ' 34'
+    100206: ' 35'
+    100208: ' 36'
+    100210: ' 37'
+    100212: ' 38'
+    100214: ' 39'
+    100216: ' 4'
+    100218: ' 40'
+    100220: ' 41'
+    100222: ' 42'
+    100224: ' 43'
+    100226: ' 44'
+    100228: ' 45'
+    100230: ' 46'
+    100232: ' 47'
+    100234: ' 48'
+    100236: ' 49'
+    100238: ' 5'
+    100240: ' 50'
+    100242: ' 51'
+    100244: ' 52'
+    100246: ' 53'
+    100248: ' 54'
+    100250: ' 55'
+    100252: ' 56'
+    100254: ' 57'
+    100256: ' 58'
+    100258: ' 59'
+    100260: ' 6'
+    100262: ' 60'
+    100264: ' 61'
+    100266: ' 62'
+    100268: ' 63'
+    100270: ' 64'
+    100272: ' 65'
+    100274: ' 66'
+    100276: ' 67'
+    100278: ' 68'
+    100280: ' 69'
+    100282: ' 7'
+    100284: ' 70'
+    100286: ' 71'
+    100288: ' 8'
+    100290: ' 9'
+    100292: -1
+    100294: -1 1
+    100296: -1 2
+    100298: -1 3
+    100300: -1-DC_Shell
+    100302: -1-DC_Shell 1
+    100304: -1-DC_Shell 2
+    100306: -1-DC_Shell 3
+    100308: -12
+    100310: -2
+    100312: -2-DC_Shell
+    100314: -9
+    100316: -9-DC_Shell
+    100318: 0.5HPF
+    100320: 0.5HPF 1
+    100322: 0.5HPF 2
+    100324: 050-25 (92)
+    100326: 050-25 (92) 1
+    100328: 050-25 (92) 2
+    100330: 1
+    100332: 1 1
+    100334: 1 10
+    100336: 1 11
+    100338: 1 12
+    100340: 1 13
+    100342: 1 14
+    100344: 1 15
+    100346: 1 2
+    100348: 1 3
+    100350: 1 4
+    100352: 1 5
+    100354: 1 6
+    100356: 1 7
+    100358: 1 8
+    100360: 1 9
+    100362: 1-DC_Shell
+    100364: 1-DC_Shell 1
+    100366: 1-DC_Shell 10
+    100368: 1-DC_Shell 11
+    100370: 1-DC_Shell 12
+    100372: 1-DC_Shell 13
+    100374: 1-DC_Shell 14
+    100376: 1-DC_Shell 2
+    100378: 1-DC_Shell 3
+    100380: 1-DC_Shell 4
+    100382: 1-DC_Shell 5
+    100384: 1-DC_Shell 6
+    100386: 1-DC_Shell 7
+    100388: 1-DC_Shell 8
+    100390: 1-DC_Shell 9
+    100392: 1/4 Rc 1
+    100394: 2
+    100396: 2 1
+    100398: 2 2
+    100400: 2 3
+    100402: 2 4
+    100404: 2-DC_Shell
+    100406: 2-DC_Shell 1
+    100408: 2-DC_Shell 2
+    100410: 2-DC_Shell 3
+    100412: 3
+    100414: 3-DC_Shell
+    100416: 5/8-18 1
+    100418: 50-71 B5
+    100420: 50-71 B5 1
+    100422: 50-71 B5 2
+    100424: AST5A113028 1
+    100426: b-250
+    100428: b-250 1
+    100430: BallsDetailed
+    100432: BallsDetailed-DC_Shell
+    100434: Body
+    100436: Body 1
+    100438: Body 2
+    100440: Body-DC_Shell
+    100442: Body-DC_Shell 1
+    100444: Body-DC_Shell 2
+    100446: c type hole use retaining ring_jis_PreviewCfg
+    100448: c type hole use retaining ring_jis_PreviewCfg 1
+    100450: c type hole use retaining ring_jis_PreviewCfg 2
+    100452: c type hole use retaining ring_jis_PreviewCfg 3
+    100454: c type hole use retaining ring_jis_PreviewCfg 4
+    100456: c type hole use retaining ring_jis_PreviewCfg 5
+    100458: c type shaft use retaining ring_jis_PreviewCfg
+    100460: c type shaft use retaining ring_jis_PreviewCfg 1
+    100462: c type shaft use retaining ring_jis_PreviewCfg 2
+    100464: D400081
+    100466: D400081 1
+    100468: D400081 2
+    100470: D400230
+    100472: D400230 1
+    100474: D400230 2
+    100476: D400240
+    100478: D400240 1
+    100480: D400240 2
+    100482: D400254
+    100484: D400254 1
+    100486: D400254 2
+    100488: D400280
+    100490: D400280 1
+    100492: D400280 2
+    100494: D900240
+    100496: D900240 1
+    100498: D900240 2
+    100500: DHD100N250
+    100502: DHD100N250 1
+    100504: DHD100N250-1
+    100506: DHD100N250-1 1
+    100508: DHD100N250-1 2
+    100510: DHD100N250-2
+    100512: DHD100N250-2 1
+    100514: DHD100N250-2 2
+    100516: dummyName
+    100518: dummyName 1
+    100520: F410082
+    100522: F410082 1
+    100524: F410082 2
+    100526: F410200
+    100528: F410200 1
+    100530: F410200 2
+    100532: F420030
+    100534: F420030 1
+    100536: F420030 2
+    100538: F420040
+    100540: F420040 1
+    100542: F420040 2
+    100544: FU 50FB
+    100546: FU 50FB 1
+    100548: FU 50FB 2
+    100550: Gear unit 50
+    100552: Gear unit 50 1
+    100554: Gear unit 50 2
+    100556: Hex
+    100558: Hex 1
+    100560: Hex 10
+    100562: Hex 11
+    100564: Hex 12
+    100566: Hex 13
+    100568: Hex 14
+    100570: Hex 15
+    100572: Hex 16
+    100574: Hex 17
+    100576: Hex 2
+    100578: Hex 3
+    100580: Hex 4
+    100582: Hex 5
+    100584: Hex 6
+    100586: Hex 7
+    100588: Hex 8
+    100590: Hex 9
+    100592: Hex-DC_Shell
+    100594: Hex-DC_Shell 1
+    100596: Hex-DC_Shell 10
+    100598: Hex-DC_Shell 11
+    100600: Hex-DC_Shell 12
+    100602: Hex-DC_Shell 13
+    100604: Hex-DC_Shell 14
+    100606: Hex-DC_Shell 15
+    100608: Hex-DC_Shell 16
+    100610: Hex-DC_Shell 17
+    100612: Hex-DC_Shell 2
+    100614: Hex-DC_Shell 3
+    100616: Hex-DC_Shell 4
+    100618: Hex-DC_Shell 5
+    100620: Hex-DC_Shell 6
+    100622: Hex-DC_Shell 7
+    100624: Hex-DC_Shell 8
+    100626: Hex-DC_Shell 9
+    100628: hexagon socket head cap screw_jis_PreviewCfg
+    100630: hexagon socket head cap screw_jis_PreviewCfg 1
+    100632: hexagon socket head cap screw_jis_PreviewCfg 10
+    100634: hexagon socket head cap screw_jis_PreviewCfg 11
+    100636: hexagon socket head cap screw_jis_PreviewCfg 12
+    100638: hexagon socket head cap screw_jis_PreviewCfg 13
+    100640: hexagon socket head cap screw_jis_PreviewCfg 14
+    100642: hexagon socket head cap screw_jis_PreviewCfg 15
+    100644: hexagon socket head cap screw_jis_PreviewCfg 16
+    100646: hexagon socket head cap screw_jis_PreviewCfg 17
+    100648: hexagon socket head cap screw_jis_PreviewCfg 18
+    100650: hexagon socket head cap screw_jis_PreviewCfg 19
+    100652: hexagon socket head cap screw_jis_PreviewCfg 2
+    100654: hexagon socket head cap screw_jis_PreviewCfg 20
+    100656: hexagon socket head cap screw_jis_PreviewCfg 21
+    100658: hexagon socket head cap screw_jis_PreviewCfg 22
+    100660: hexagon socket head cap screw_jis_PreviewCfg 23
+    100662: hexagon socket head cap screw_jis_PreviewCfg 24
+    100664: hexagon socket head cap screw_jis_PreviewCfg 25
+    100666: hexagon socket head cap screw_jis_PreviewCfg 26
+    100668: hexagon socket head cap screw_jis_PreviewCfg 27
+    100670: hexagon socket head cap screw_jis_PreviewCfg 28
+    100672: hexagon socket head cap screw_jis_PreviewCfg 29
+    100674: hexagon socket head cap screw_jis_PreviewCfg 3
+    100676: hexagon socket head cap screw_jis_PreviewCfg 30
+    100678: hexagon socket head cap screw_jis_PreviewCfg 31
+    100680: hexagon socket head cap screw_jis_PreviewCfg 32
+    100682: hexagon socket head cap screw_jis_PreviewCfg 33
+    100684: hexagon socket head cap screw_jis_PreviewCfg 34
+    100686: hexagon socket head cap screw_jis_PreviewCfg 35
+    100688: hexagon socket head cap screw_jis_PreviewCfg 36
+    100690: hexagon socket head cap screw_jis_PreviewCfg 37
+    100692: hexagon socket head cap screw_jis_PreviewCfg 38
+    100694: hexagon socket head cap screw_jis_PreviewCfg 39
+    100696: hexagon socket head cap screw_jis_PreviewCfg 4
+    100698: hexagon socket head cap screw_jis_PreviewCfg 40
+    100700: hexagon socket head cap screw_jis_PreviewCfg 41
+    100702: hexagon socket head cap screw_jis_PreviewCfg 42
+    100704: hexagon socket head cap screw_jis_PreviewCfg 43
+    100706: hexagon socket head cap screw_jis_PreviewCfg 44
+    100708: hexagon socket head cap screw_jis_PreviewCfg 45
+    100710: hexagon socket head cap screw_jis_PreviewCfg 46
+    100712: hexagon socket head cap screw_jis_PreviewCfg 47
+    100714: hexagon socket head cap screw_jis_PreviewCfg 5
+    100716: hexagon socket head cap screw_jis_PreviewCfg 6
+    100718: hexagon socket head cap screw_jis_PreviewCfg 7
+    100720: hexagon socket head cap screw_jis_PreviewCfg 8
+    100722: hexagon socket head cap screw_jis_PreviewCfg 9
+    100724: hexagon socket set screw cone point_jis_PreviewCfg
+    100726: hexagon socket set screw cone point_jis_PreviewCfg 1
+    100728: hexagon socket set screw cone point_jis_PreviewCfg 2
+    100730: hexagon socket set screw cone point_jis_PreviewCfg 3
+    100732: hexagon socket set screw cone point_jis_PreviewCfg 4
+    100734: hexagon socket set screw cone point_jis_PreviewCfg 5
+    100736: InnerRace
+    100738: InnerRace 1
+    100740: InnerRace-DC_Shell
+    100742: InnerRace-DC_Shell 1
+    100744: L420011M
+    100746: L420011M 1
+    100748: L420011M 2
+    100750: L420027M-805
+    100752: L420027M-805 1
+    100754: L420027M-805 2
+    100756: L420031
+    100758: L420031 1
+    100760: L420031 2
+    100762: L420041
+    100764: L420041 1
+    100766: L420041 2
+    100768: L420071
+    100770: L420071 1
+    100772: L420071 2
+    100774: L420091
+    100776: L420091 1
+    100778: L420091 2
+    100780: L420220
+    100782: L420220 1
+    100784: L420220 2
+    100786: L430016
+    100788: L430016 1
+    100790: L430016 2
+    100792: L430024
+    100794: L430024 1
+    100796: L430024 2
+    100798: L430035
+    100800: L430035 1
+    100802: L430035 2
+    100804: L430241
+    100806: L430241 1
+    100808: L430241 2
+    100810: L430271
+    100812: L430271 1
+    100814: L430271 2
+    100816: L450021
+    100818: L450021 1
+    100820: L450021 2
+    100822: L450093
+    100824: L450093 1
+    100826: L450093 2
+    100828: L824070
+    100830: L824070 1
+    100832: L824070 2
+    100834: L824070 3
+    100836: L824070 4
+    100838: L824070 5
+    100840: L824081
+    100842: L824081 1
+    100844: L824081 2
+    100846: L824081 3
+    100848: L824081 4
+    100850: L824081 5
+    100852: L824090-75
+    100854: L824090-75 1
+    100856: L824090-75 2
+    100858: L824090-75 3
+    100860: L824090-75 4
+    100862: L824090-75 5
+    100864: L824140
+    100866: L824140 1
+    100868: L824140 2
+    100870: L824140 3
+    100872: L824140 4
+    100874: L824140 5
+    100876: M16x2.0 1
+    100878: M16x2.0 1-DC_Shell
+    100880: M6x1.0 1
+    100882: M8x1.25 1
+    100884: M8x1.25 1 1
+    100886: M8x1.25 1 2
+    100888: M8x1.25 1-DC_Shell
+    100890: M8x1.25 1-DC_Shell 1
+    100892: M8x1.25 2
+    100894: NMRV050501292513200300NO--
+    100896: NMRV050501292513200300NO-- 1
+    100898: NONE
+    100900: NONE 1
+    100902: NONE 10
+    100904: NONE 11
+    100906: NONE 12
+    100908: NONE 13
+    100910: NONE 14
+    100912: NONE 15
+    100914: NONE 16
+    100916: NONE 17
+    100918: NONE 18
+    100920: NONE 19
+    100922: NONE 2
+    100924: NONE 20
+    100926: NONE 21
+    100928: NONE 22
+    100930: NONE 23
+    100932: NONE 24
+    100934: NONE 25
+    100936: NONE 26
+    100938: NONE 27
+    100940: NONE 28
+    100942: NONE 29
+    100944: NONE 3
+    100946: NONE 30
+    100948: NONE 31
+    100950: NONE 32
+    100952: NONE 33
+    100954: NONE 34
+    100956: NONE 35
+    100958: NONE 36
+    100960: NONE 37
+    100962: NONE 38
+    100964: NONE 39
+    100966: NONE 4
+    100968: NONE 40
+    100970: NONE 41
+    100972: NONE 42
+    100974: NONE 43
+    100976: NONE 44
+    100978: NONE 45
+    100980: NONE 46
+    100982: NONE 47
+    100984: NONE 48
+    100986: NONE 49
+    100988: NONE 5
+    100990: NONE 50
+    100992: NONE 51
+    100994: NONE 52
+    100996: NONE 53
+    100998: NONE 54
+    101000: NONE 55
+    101002: NONE 56
+    101004: NONE 57
+    101006: NONE 58
+    101008: NONE 59
+    101010: NONE 6
+    101012: NONE 60
+    101014: NONE 61
+    101016: NONE 62
+    101018: NONE 63
+    101020: NONE 64
+    101022: NONE 65
+    101024: NONE 66
+    101026: NONE 67
+    101028: NONE 68
+    101030: NONE 69
+    101032: NONE 7
+    101034: NONE 70
+    101036: NONE 71
+    101038: NONE 72
+    101040: NONE 73
+    101042: NONE 74
+    101044: NONE 75
+    101046: NONE 76
+    101048: NONE 77
+    101050: NONE 78
+    101052: NONE 79
+    101054: NONE 8
+    101056: NONE 80
+    101058: NONE 81
+    101060: NONE 82
+    101062: NONE 83
+    101064: NONE 84
+    101066: NONE 85
+    101068: NONE 86
+    101070: NONE 87
+    101072: NONE 9
+    101074: NONE-DC_Shell
+    101076: NONE-DC_Shell 1
+    101078: NONE-DC_Shell 10
+    101080: NONE-DC_Shell 11
+    101082: NONE-DC_Shell 12
+    101084: NONE-DC_Shell 13
+    101086: NONE-DC_Shell 14
+    101088: NONE-DC_Shell 15
+    101090: NONE-DC_Shell 16
+    101092: NONE-DC_Shell 17
+    101094: NONE-DC_Shell 18
+    101096: NONE-DC_Shell 19
+    101098: NONE-DC_Shell 2
+    101100: NONE-DC_Shell 20
+    101102: NONE-DC_Shell 21
+    101104: NONE-DC_Shell 22
+    101106: NONE-DC_Shell 23
+    101108: NONE-DC_Shell 24
+    101110: NONE-DC_Shell 25
+    101112: NONE-DC_Shell 26
+    101114: NONE-DC_Shell 27
+    101116: NONE-DC_Shell 28
+    101118: NONE-DC_Shell 29
+    101120: NONE-DC_Shell 3
+    101122: NONE-DC_Shell 30
+    101124: NONE-DC_Shell 31
+    101126: NONE-DC_Shell 32
+    101128: NONE-DC_Shell 33
+    101130: NONE-DC_Shell 34
+    101132: NONE-DC_Shell 35
+    101134: NONE-DC_Shell 36
+    101136: NONE-DC_Shell 37
+    101138: NONE-DC_Shell 38
+    101140: NONE-DC_Shell 39
+    101142: NONE-DC_Shell 4
+    101144: NONE-DC_Shell 40
+    101146: NONE-DC_Shell 41
+    101148: NONE-DC_Shell 42
+    101150: NONE-DC_Shell 43
+    101152: NONE-DC_Shell 44
+    101154: NONE-DC_Shell 45
+    101156: NONE-DC_Shell 46
+    101158: NONE-DC_Shell 47
+    101160: NONE-DC_Shell 48
+    101162: NONE-DC_Shell 49
+    101164: NONE-DC_Shell 5
+    101166: NONE-DC_Shell 50
+    101168: NONE-DC_Shell 51
+    101170: NONE-DC_Shell 52
+    101172: NONE-DC_Shell 53
+    101174: NONE-DC_Shell 54
+    101176: NONE-DC_Shell 55
+    101178: NONE-DC_Shell 56
+    101180: NONE-DC_Shell 57
+    101182: NONE-DC_Shell 58
+    101184: NONE-DC_Shell 59
+    101186: NONE-DC_Shell 6
+    101188: NONE-DC_Shell 60
+    101190: NONE-DC_Shell 7
+    101192: NONE-DC_Shell 8
+    101194: NONE-DC_Shell 9
+    101196: NUT-YSKM130-2P
+    101198: NUT-YSKM130-2P 1
+    101200: NUT-YSKM130-2P 2
+    101202: o
+    101204: o 1
+    101206: o 2
+    101208: o 3
+    101210: O-RING
+    101212: O-RING 1
+    101214: O-RING 2
+    101216: O-RING 3
+    101218: O-RING 4
+    101220: O-RING 5
+    101222: O10.0 (10) |1
+    101224: O10.0 (10) |1-DC_Shell
+    101226: O6.0 (6) |1
+    101228: O8.0 (8) |1
+    101230: O8.0 (8) |1 1
+    101232: p1
+    101234: p1 1
+    101236: p1 2
+    101238: p1-DC_Shell
+    101240: p1-DC_Shell 1
+    101242: radial ball bearing_68_jis_PreviewCfg
+    101244: radial ball bearing_68_jis_PreviewCfg 1
+    101246: radial ball bearing_68_jis_PreviewCfg 2
+    101248: sC1
+    101250: sC1-DC_Shell
+    101252: //RootNode
+    101254: taper roller bearing_jis_PreviewCfg
+    101256: taper roller bearing_jis_PreviewCfg 1
+    101258: taper roller bearing_jis_PreviewCfg 2
+    101260: taper roller bearing_jis_PreviewCfg 3
+    101262: taper roller bearing_jis_PreviewCfg 4
+    101264: taper roller bearing_jis_PreviewCfg 5
+    101266: USH50-40-6
+    101268: USH50-40-6 1
+    101270: USH50-40-6 2
+    101272: USH50-40-6 3
+    101274: USH50-40-6 4
+    101276: USH50-40-6 5
+    101278: VB 050-14 (14)
+    101280: VB 050-14 (14) 1
+    101282: VB 050-14 (14) 2
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  16'
+    400018: '  17'
+    400020: '  18'
+    400022: '  19'
+    400024: '  2'
+    400026: '  20'
+    400028: '  21'
+    400030: '  22'
+    400032: '  23'
+    400034: '  24'
+    400036: '  25'
+    400038: '  26'
+    400040: '  27'
+    400042: '  28'
+    400044: '  29'
+    400046: '  3'
+    400048: '  30'
+    400050: '  31'
+    400052: '  32'
+    400054: '  33'
+    400056: '  34'
+    400058: '  35'
+    400060: '  36'
+    400062: '  37'
+    400064: '  38'
+    400066: '  39'
+    400068: '  4'
+    400070: '  40'
+    400072: '  41'
+    400074: '  42'
+    400076: '  43'
+    400078: '  44'
+    400080: '  45'
+    400082: '  46'
+    400084: '  47'
+    400086: '  48'
+    400088: '  49'
+    400090: '  5'
+    400092: '  50'
+    400094: '  51'
+    400096: '  52'
+    400098: '  53'
+    400100: '  54'
+    400102: '  55'
+    400104: '  56'
+    400106: '  57'
+    400108: '  58'
+    400110: '  59'
+    400112: '  6'
+    400114: '  60'
+    400116: '  61'
+    400118: '  62'
+    400120: '  63'
+    400122: '  64'
+    400124: '  65'
+    400126: '  66'
+    400128: '  67'
+    400130: '  68'
+    400132: '  69'
+    400134: '  7'
+    400136: '  70'
+    400138: '  71'
+    400140: '  72'
+    400142: '  73'
+    400144: '  74'
+    400146: '  8'
+    400148: '  9'
+    400150: ' 1'
+    400152: ' 10'
+    400154: ' 11'
+    400156: ' 12'
+    400158: ' 13'
+    400160: ' 14'
+    400162: ' 15'
+    400164: ' 16'
+    400166: ' 17'
+    400168: ' 18'
+    400170: ' 19'
+    400172: ' 2'
+    400174: ' 20'
+    400176: ' 21'
+    400178: ' 22'
+    400180: ' 23'
+    400182: ' 24'
+    400184: ' 25'
+    400186: ' 26'
+    400188: ' 27'
+    400190: ' 28'
+    400192: ' 29'
+    400194: ' 3'
+    400196: ' 30'
+    400198: ' 31'
+    400200: ' 32'
+    400202: ' 33'
+    400204: ' 34'
+    400206: ' 35'
+    400208: ' 36'
+    400210: ' 37'
+    400212: ' 38'
+    400214: ' 39'
+    400216: ' 4'
+    400218: ' 40'
+    400220: ' 41'
+    400222: ' 42'
+    400224: ' 43'
+    400226: ' 44'
+    400228: ' 45'
+    400230: ' 46'
+    400232: ' 47'
+    400234: ' 48'
+    400236: ' 49'
+    400238: ' 5'
+    400240: ' 50'
+    400242: ' 51'
+    400244: ' 52'
+    400246: ' 53'
+    400248: ' 54'
+    400250: ' 55'
+    400252: ' 56'
+    400254: ' 57'
+    400256: ' 58'
+    400258: ' 59'
+    400260: ' 6'
+    400262: ' 60'
+    400264: ' 61'
+    400266: ' 62'
+    400268: ' 63'
+    400270: ' 64'
+    400272: ' 65'
+    400274: ' 66'
+    400276: ' 67'
+    400278: ' 68'
+    400280: ' 69'
+    400282: ' 7'
+    400284: ' 70'
+    400286: ' 71'
+    400288: ' 8'
+    400290: ' 9'
+    400292: -1
+    400294: -1 1
+    400296: -1 2
+    400298: -1 3
+    400300: -1-DC_Shell
+    400302: -1-DC_Shell 1
+    400304: -1-DC_Shell 2
+    400306: -1-DC_Shell 3
+    400308: -12
+    400310: -2
+    400312: -2-DC_Shell
+    400314: -9
+    400316: -9-DC_Shell
+    400318: 0.5HPF
+    400320: 0.5HPF 1
+    400322: 0.5HPF 2
+    400324: 050-25 (92)
+    400326: 050-25 (92) 1
+    400328: 050-25 (92) 2
+    400330: 1
+    400332: 1 1
+    400334: 1 10
+    400336: 1 11
+    400338: 1 12
+    400340: 1 13
+    400342: 1 14
+    400344: 1 15
+    400346: 1 2
+    400348: 1 3
+    400350: 1 4
+    400352: 1 5
+    400354: 1 6
+    400356: 1 7
+    400358: 1 8
+    400360: 1 9
+    400362: 1-DC_Shell
+    400364: 1-DC_Shell 1
+    400366: 1-DC_Shell 10
+    400368: 1-DC_Shell 11
+    400370: 1-DC_Shell 12
+    400372: 1-DC_Shell 13
+    400374: 1-DC_Shell 14
+    400376: 1-DC_Shell 2
+    400378: 1-DC_Shell 3
+    400380: 1-DC_Shell 4
+    400382: 1-DC_Shell 5
+    400384: 1-DC_Shell 6
+    400386: 1-DC_Shell 7
+    400388: 1-DC_Shell 8
+    400390: 1-DC_Shell 9
+    400392: 1/4 Rc 1
+    400394: 2
+    400396: 2 1
+    400398: 2 2
+    400400: 2 3
+    400402: 2 4
+    400404: 2-DC_Shell
+    400406: 2-DC_Shell 1
+    400408: 2-DC_Shell 2
+    400410: 2-DC_Shell 3
+    400412: 3
+    400414: 3-DC_Shell
+    400416: 5/8-18 1
+    400418: 50-71 B5
+    400420: 50-71 B5 1
+    400422: 50-71 B5 2
+    400424: AST5A113028 1
+    400426: b-250
+    400428: b-250 1
+    400430: BallsDetailed
+    400432: BallsDetailed-DC_Shell
+    400434: Body
+    400436: Body 1
+    400438: Body 2
+    400440: Body-DC_Shell
+    400442: Body-DC_Shell 1
+    400444: Body-DC_Shell 2
+    400446: c type hole use retaining ring_jis_PreviewCfg
+    400448: c type hole use retaining ring_jis_PreviewCfg 1
+    400450: c type hole use retaining ring_jis_PreviewCfg 2
+    400452: c type hole use retaining ring_jis_PreviewCfg 3
+    400454: c type hole use retaining ring_jis_PreviewCfg 4
+    400456: c type hole use retaining ring_jis_PreviewCfg 5
+    400458: c type shaft use retaining ring_jis_PreviewCfg
+    400460: c type shaft use retaining ring_jis_PreviewCfg 1
+    400462: c type shaft use retaining ring_jis_PreviewCfg 2
+    400464: D400081
+    400466: D400081 1
+    400468: D400081 2
+    400470: D400230
+    400472: D400230 1
+    400474: D400230 2
+    400476: D400240
+    400478: D400240 1
+    400480: D400240 2
+    400482: D400254
+    400484: D400254 1
+    400486: D400254 2
+    400488: D400280
+    400490: D400280 1
+    400492: D400280 2
+    400494: D900240
+    400496: D900240 1
+    400498: D900240 2
+    400500: DHD100N250
+    400502: DHD100N250 1
+    400504: DHD100N250-1
+    400506: DHD100N250-1 1
+    400508: DHD100N250-1 2
+    400510: DHD100N250-2
+    400512: DHD100N250-2 1
+    400514: DHD100N250-2 2
+    400516: dummyName
+    400518: dummyName 1
+    400520: F410082
+    400522: F410082 1
+    400524: F410082 2
+    400526: F410200
+    400528: F410200 1
+    400530: F410200 2
+    400532: F420030
+    400534: F420030 1
+    400536: F420030 2
+    400538: F420040
+    400540: F420040 1
+    400542: F420040 2
+    400544: FU 50FB
+    400546: FU 50FB 1
+    400548: FU 50FB 2
+    400550: Gear unit 50
+    400552: Gear unit 50 1
+    400554: Gear unit 50 2
+    400556: Hex
+    400558: Hex 1
+    400560: Hex 10
+    400562: Hex 11
+    400564: Hex 12
+    400566: Hex 13
+    400568: Hex 14
+    400570: Hex 15
+    400572: Hex 16
+    400574: Hex 17
+    400576: Hex 2
+    400578: Hex 3
+    400580: Hex 4
+    400582: Hex 5
+    400584: Hex 6
+    400586: Hex 7
+    400588: Hex 8
+    400590: Hex 9
+    400592: Hex-DC_Shell
+    400594: Hex-DC_Shell 1
+    400596: Hex-DC_Shell 10
+    400598: Hex-DC_Shell 11
+    400600: Hex-DC_Shell 12
+    400602: Hex-DC_Shell 13
+    400604: Hex-DC_Shell 14
+    400606: Hex-DC_Shell 15
+    400608: Hex-DC_Shell 16
+    400610: Hex-DC_Shell 17
+    400612: Hex-DC_Shell 2
+    400614: Hex-DC_Shell 3
+    400616: Hex-DC_Shell 4
+    400618: Hex-DC_Shell 5
+    400620: Hex-DC_Shell 6
+    400622: Hex-DC_Shell 7
+    400624: Hex-DC_Shell 8
+    400626: Hex-DC_Shell 9
+    400628: hexagon socket head cap screw_jis_PreviewCfg
+    400630: hexagon socket head cap screw_jis_PreviewCfg 1
+    400632: hexagon socket head cap screw_jis_PreviewCfg 10
+    400634: hexagon socket head cap screw_jis_PreviewCfg 11
+    400636: hexagon socket head cap screw_jis_PreviewCfg 12
+    400638: hexagon socket head cap screw_jis_PreviewCfg 13
+    400640: hexagon socket head cap screw_jis_PreviewCfg 14
+    400642: hexagon socket head cap screw_jis_PreviewCfg 15
+    400644: hexagon socket head cap screw_jis_PreviewCfg 16
+    400646: hexagon socket head cap screw_jis_PreviewCfg 17
+    400648: hexagon socket head cap screw_jis_PreviewCfg 18
+    400650: hexagon socket head cap screw_jis_PreviewCfg 19
+    400652: hexagon socket head cap screw_jis_PreviewCfg 2
+    400654: hexagon socket head cap screw_jis_PreviewCfg 20
+    400656: hexagon socket head cap screw_jis_PreviewCfg 21
+    400658: hexagon socket head cap screw_jis_PreviewCfg 22
+    400660: hexagon socket head cap screw_jis_PreviewCfg 23
+    400662: hexagon socket head cap screw_jis_PreviewCfg 24
+    400664: hexagon socket head cap screw_jis_PreviewCfg 25
+    400666: hexagon socket head cap screw_jis_PreviewCfg 26
+    400668: hexagon socket head cap screw_jis_PreviewCfg 27
+    400670: hexagon socket head cap screw_jis_PreviewCfg 28
+    400672: hexagon socket head cap screw_jis_PreviewCfg 29
+    400674: hexagon socket head cap screw_jis_PreviewCfg 3
+    400676: hexagon socket head cap screw_jis_PreviewCfg 30
+    400678: hexagon socket head cap screw_jis_PreviewCfg 31
+    400680: hexagon socket head cap screw_jis_PreviewCfg 32
+    400682: hexagon socket head cap screw_jis_PreviewCfg 33
+    400684: hexagon socket head cap screw_jis_PreviewCfg 34
+    400686: hexagon socket head cap screw_jis_PreviewCfg 35
+    400688: hexagon socket head cap screw_jis_PreviewCfg 36
+    400690: hexagon socket head cap screw_jis_PreviewCfg 37
+    400692: hexagon socket head cap screw_jis_PreviewCfg 38
+    400694: hexagon socket head cap screw_jis_PreviewCfg 39
+    400696: hexagon socket head cap screw_jis_PreviewCfg 4
+    400698: hexagon socket head cap screw_jis_PreviewCfg 40
+    400700: hexagon socket head cap screw_jis_PreviewCfg 41
+    400702: hexagon socket head cap screw_jis_PreviewCfg 42
+    400704: hexagon socket head cap screw_jis_PreviewCfg 43
+    400706: hexagon socket head cap screw_jis_PreviewCfg 44
+    400708: hexagon socket head cap screw_jis_PreviewCfg 45
+    400710: hexagon socket head cap screw_jis_PreviewCfg 46
+    400712: hexagon socket head cap screw_jis_PreviewCfg 47
+    400714: hexagon socket head cap screw_jis_PreviewCfg 5
+    400716: hexagon socket head cap screw_jis_PreviewCfg 6
+    400718: hexagon socket head cap screw_jis_PreviewCfg 7
+    400720: hexagon socket head cap screw_jis_PreviewCfg 8
+    400722: hexagon socket head cap screw_jis_PreviewCfg 9
+    400724: hexagon socket set screw cone point_jis_PreviewCfg
+    400726: hexagon socket set screw cone point_jis_PreviewCfg 1
+    400728: hexagon socket set screw cone point_jis_PreviewCfg 2
+    400730: hexagon socket set screw cone point_jis_PreviewCfg 3
+    400732: hexagon socket set screw cone point_jis_PreviewCfg 4
+    400734: hexagon socket set screw cone point_jis_PreviewCfg 5
+    400736: InnerRace
+    400738: InnerRace 1
+    400740: InnerRace-DC_Shell
+    400742: InnerRace-DC_Shell 1
+    400744: L420011M
+    400746: L420011M 1
+    400748: L420011M 2
+    400750: L420027M-805
+    400752: L420027M-805 1
+    400754: L420027M-805 2
+    400756: L420031
+    400758: L420031 1
+    400760: L420031 2
+    400762: L420041
+    400764: L420041 1
+    400766: L420041 2
+    400768: L420071
+    400770: L420071 1
+    400772: L420071 2
+    400774: L420091
+    400776: L420091 1
+    400778: L420091 2
+    400780: L420220
+    400782: L420220 1
+    400784: L420220 2
+    400786: L430016
+    400788: L430016 1
+    400790: L430016 2
+    400792: L430024
+    400794: L430024 1
+    400796: L430024 2
+    400798: L430035
+    400800: L430035 1
+    400802: L430035 2
+    400804: L430241
+    400806: L430241 1
+    400808: L430241 2
+    400810: L430271
+    400812: L430271 1
+    400814: L430271 2
+    400816: L450021
+    400818: L450021 1
+    400820: L450021 2
+    400822: L450093
+    400824: L450093 1
+    400826: L450093 2
+    400828: L824070
+    400830: L824070 1
+    400832: L824070 2
+    400834: L824070 3
+    400836: L824070 4
+    400838: L824070 5
+    400840: L824081
+    400842: L824081 1
+    400844: L824081 2
+    400846: L824081 3
+    400848: L824081 4
+    400850: L824081 5
+    400852: L824090-75
+    400854: L824090-75 1
+    400856: L824090-75 2
+    400858: L824090-75 3
+    400860: L824090-75 4
+    400862: L824090-75 5
+    400864: L824140
+    400866: L824140 1
+    400868: L824140 2
+    400870: L824140 3
+    400872: L824140 4
+    400874: L824140 5
+    400876: M16x2.0 1
+    400878: M16x2.0 1-DC_Shell
+    400880: M6x1.0 1
+    400882: M8x1.25 1
+    400884: M8x1.25 1 1
+    400886: M8x1.25 1 2
+    400888: M8x1.25 1-DC_Shell
+    400890: M8x1.25 1-DC_Shell 1
+    400892: M8x1.25 2
+    400894: NMRV050501292513200300NO--
+    400896: NMRV050501292513200300NO-- 1
+    400898: NONE
+    400900: NONE 1
+    400902: NONE 10
+    400904: NONE 11
+    400906: NONE 12
+    400908: NONE 13
+    400910: NONE 14
+    400912: NONE 15
+    400914: NONE 16
+    400916: NONE 17
+    400918: NONE 18
+    400920: NONE 19
+    400922: NONE 2
+    400924: NONE 20
+    400926: NONE 21
+    400928: NONE 22
+    400930: NONE 23
+    400932: NONE 24
+    400934: NONE 25
+    400936: NONE 26
+    400938: NONE 27
+    400940: NONE 28
+    400942: NONE 29
+    400944: NONE 3
+    400946: NONE 30
+    400948: NONE 31
+    400950: NONE 32
+    400952: NONE 33
+    400954: NONE 34
+    400956: NONE 35
+    400958: NONE 36
+    400960: NONE 37
+    400962: NONE 38
+    400964: NONE 39
+    400966: NONE 4
+    400968: NONE 40
+    400970: NONE 41
+    400972: NONE 42
+    400974: NONE 43
+    400976: NONE 44
+    400978: NONE 45
+    400980: NONE 46
+    400982: NONE 47
+    400984: NONE 48
+    400986: NONE 49
+    400988: NONE 5
+    400990: NONE 50
+    400992: NONE 51
+    400994: NONE 52
+    400996: NONE 53
+    400998: NONE 54
+    401000: NONE 55
+    401002: NONE 56
+    401004: NONE 57
+    401006: NONE 58
+    401008: NONE 59
+    401010: NONE 6
+    401012: NONE 60
+    401014: NONE 61
+    401016: NONE 62
+    401018: NONE 63
+    401020: NONE 64
+    401022: NONE 65
+    401024: NONE 66
+    401026: NONE 67
+    401028: NONE 68
+    401030: NONE 69
+    401032: NONE 7
+    401034: NONE 70
+    401036: NONE 71
+    401038: NONE 72
+    401040: NONE 73
+    401042: NONE 74
+    401044: NONE 75
+    401046: NONE 76
+    401048: NONE 77
+    401050: NONE 78
+    401052: NONE 79
+    401054: NONE 8
+    401056: NONE 80
+    401058: NONE 81
+    401060: NONE 82
+    401062: NONE 83
+    401064: NONE 84
+    401066: NONE 85
+    401068: NONE 86
+    401070: NONE 87
+    401072: NONE 9
+    401074: NONE-DC_Shell
+    401076: NONE-DC_Shell 1
+    401078: NONE-DC_Shell 10
+    401080: NONE-DC_Shell 11
+    401082: NONE-DC_Shell 12
+    401084: NONE-DC_Shell 13
+    401086: NONE-DC_Shell 14
+    401088: NONE-DC_Shell 15
+    401090: NONE-DC_Shell 16
+    401092: NONE-DC_Shell 17
+    401094: NONE-DC_Shell 18
+    401096: NONE-DC_Shell 19
+    401098: NONE-DC_Shell 2
+    401100: NONE-DC_Shell 20
+    401102: NONE-DC_Shell 21
+    401104: NONE-DC_Shell 22
+    401106: NONE-DC_Shell 23
+    401108: NONE-DC_Shell 24
+    401110: NONE-DC_Shell 25
+    401112: NONE-DC_Shell 26
+    401114: NONE-DC_Shell 27
+    401116: NONE-DC_Shell 28
+    401118: NONE-DC_Shell 29
+    401120: NONE-DC_Shell 3
+    401122: NONE-DC_Shell 30
+    401124: NONE-DC_Shell 31
+    401126: NONE-DC_Shell 32
+    401128: NONE-DC_Shell 33
+    401130: NONE-DC_Shell 34
+    401132: NONE-DC_Shell 35
+    401134: NONE-DC_Shell 36
+    401136: NONE-DC_Shell 37
+    401138: NONE-DC_Shell 38
+    401140: NONE-DC_Shell 39
+    401142: NONE-DC_Shell 4
+    401144: NONE-DC_Shell 40
+    401146: NONE-DC_Shell 41
+    401148: NONE-DC_Shell 42
+    401150: NONE-DC_Shell 43
+    401152: NONE-DC_Shell 44
+    401154: NONE-DC_Shell 45
+    401156: NONE-DC_Shell 46
+    401158: NONE-DC_Shell 47
+    401160: NONE-DC_Shell 48
+    401162: NONE-DC_Shell 49
+    401164: NONE-DC_Shell 5
+    401166: NONE-DC_Shell 50
+    401168: NONE-DC_Shell 51
+    401170: NONE-DC_Shell 52
+    401172: NONE-DC_Shell 53
+    401174: NONE-DC_Shell 54
+    401176: NONE-DC_Shell 55
+    401178: NONE-DC_Shell 56
+    401180: NONE-DC_Shell 57
+    401182: NONE-DC_Shell 58
+    401184: NONE-DC_Shell 59
+    401186: NONE-DC_Shell 6
+    401188: NONE-DC_Shell 60
+    401190: NONE-DC_Shell 7
+    401192: NONE-DC_Shell 8
+    401194: NONE-DC_Shell 9
+    401196: NUT-YSKM130-2P
+    401198: NUT-YSKM130-2P 1
+    401200: NUT-YSKM130-2P 2
+    401202: o
+    401204: o 1
+    401206: o 2
+    401208: o 3
+    401210: O-RING
+    401212: O-RING 1
+    401214: O-RING 2
+    401216: O-RING 3
+    401218: O-RING 4
+    401220: O-RING 5
+    401222: O10.0 (10) |1
+    401224: O10.0 (10) |1-DC_Shell
+    401226: O6.0 (6) |1
+    401228: O8.0 (8) |1
+    401230: O8.0 (8) |1 1
+    401232: p1
+    401234: p1 1
+    401236: p1 2
+    401238: p1-DC_Shell
+    401240: p1-DC_Shell 1
+    401242: radial ball bearing_68_jis_PreviewCfg
+    401244: radial ball bearing_68_jis_PreviewCfg 1
+    401246: radial ball bearing_68_jis_PreviewCfg 2
+    401248: sC1
+    401250: sC1-DC_Shell
+    401252: //RootNode
+    401254: taper roller bearing_jis_PreviewCfg
+    401256: taper roller bearing_jis_PreviewCfg 1
+    401258: taper roller bearing_jis_PreviewCfg 2
+    401260: taper roller bearing_jis_PreviewCfg 3
+    401262: taper roller bearing_jis_PreviewCfg 4
+    401264: taper roller bearing_jis_PreviewCfg 5
+    401266: USH50-40-6
+    401268: USH50-40-6 1
+    401270: USH50-40-6 2
+    401272: USH50-40-6 3
+    401274: USH50-40-6 4
+    401276: USH50-40-6 5
+    401278: VB 050-14 (14)
+    401280: VB 050-14 (14) 1
+    401282: VB 050-14 (14) 2
+    2300000: -1-DC_Shell
+    2300002: -1-DC_Shell 1
+    2300004: -1-DC_Shell 2
+    2300006: -1-DC_Shell 3
+    2300008: -2-DC_Shell
+    2300010: -9-DC_Shell
+    2300012: 1-DC_Shell
+    2300014: 1-DC_Shell 1
+    2300016: 1-DC_Shell 10
+    2300018: 1-DC_Shell 11
+    2300020: 1-DC_Shell 12
+    2300022: 1-DC_Shell 13
+    2300024: 1-DC_Shell 14
+    2300026: 1-DC_Shell 2
+    2300028: 1-DC_Shell 3
+    2300030: 1-DC_Shell 4
+    2300032: 1-DC_Shell 5
+    2300034: 1-DC_Shell 6
+    2300036: 1-DC_Shell 7
+    2300038: 1-DC_Shell 8
+    2300040: 1-DC_Shell 9
+    2300042: 2-DC_Shell
+    2300044: 2-DC_Shell 1
+    2300046: 2-DC_Shell 2
+    2300048: 2-DC_Shell 3
+    2300050: 3-DC_Shell
+    2300052: BallsDetailed-DC_Shell
+    2300054: Body-DC_Shell
+    2300056: Body-DC_Shell 1
+    2300058: Body-DC_Shell 2
+    2300060: Hex-DC_Shell
+    2300062: Hex-DC_Shell 1
+    2300064: Hex-DC_Shell 10
+    2300066: Hex-DC_Shell 11
+    2300068: Hex-DC_Shell 12
+    2300070: Hex-DC_Shell 13
+    2300072: Hex-DC_Shell 14
+    2300074: Hex-DC_Shell 15
+    2300076: Hex-DC_Shell 16
+    2300078: Hex-DC_Shell 17
+    2300080: Hex-DC_Shell 2
+    2300082: Hex-DC_Shell 3
+    2300084: Hex-DC_Shell 4
+    2300086: Hex-DC_Shell 5
+    2300088: Hex-DC_Shell 6
+    2300090: Hex-DC_Shell 7
+    2300092: Hex-DC_Shell 8
+    2300094: Hex-DC_Shell 9
+    2300096: InnerRace-DC_Shell
+    2300098: InnerRace-DC_Shell 1
+    2300100: M16x2.0 1-DC_Shell
+    2300102: M8x1.25 1-DC_Shell
+    2300104: M8x1.25 1-DC_Shell 1
+    2300106: NONE-DC_Shell
+    2300108: NONE-DC_Shell 1
+    2300110: NONE-DC_Shell 10
+    2300112: NONE-DC_Shell 11
+    2300114: NONE-DC_Shell 12
+    2300116: NONE-DC_Shell 13
+    2300118: NONE-DC_Shell 14
+    2300120: NONE-DC_Shell 15
+    2300122: NONE-DC_Shell 16
+    2300124: NONE-DC_Shell 17
+    2300126: NONE-DC_Shell 18
+    2300128: NONE-DC_Shell 19
+    2300130: NONE-DC_Shell 2
+    2300132: NONE-DC_Shell 20
+    2300134: NONE-DC_Shell 21
+    2300136: NONE-DC_Shell 22
+    2300138: NONE-DC_Shell 23
+    2300140: NONE-DC_Shell 24
+    2300142: NONE-DC_Shell 25
+    2300144: NONE-DC_Shell 26
+    2300146: NONE-DC_Shell 27
+    2300148: NONE-DC_Shell 28
+    2300150: NONE-DC_Shell 29
+    2300152: NONE-DC_Shell 3
+    2300154: NONE-DC_Shell 30
+    2300156: NONE-DC_Shell 31
+    2300158: NONE-DC_Shell 32
+    2300160: NONE-DC_Shell 33
+    2300162: NONE-DC_Shell 34
+    2300164: NONE-DC_Shell 35
+    2300166: NONE-DC_Shell 36
+    2300168: NONE-DC_Shell 37
+    2300170: NONE-DC_Shell 38
+    2300172: NONE-DC_Shell 39
+    2300174: NONE-DC_Shell 4
+    2300176: NONE-DC_Shell 40
+    2300178: NONE-DC_Shell 41
+    2300180: NONE-DC_Shell 42
+    2300182: NONE-DC_Shell 43
+    2300184: NONE-DC_Shell 44
+    2300186: NONE-DC_Shell 45
+    2300188: NONE-DC_Shell 46
+    2300190: NONE-DC_Shell 47
+    2300192: NONE-DC_Shell 48
+    2300194: NONE-DC_Shell 49
+    2300196: NONE-DC_Shell 5
+    2300198: NONE-DC_Shell 50
+    2300200: NONE-DC_Shell 51
+    2300202: NONE-DC_Shell 52
+    2300204: NONE-DC_Shell 53
+    2300206: NONE-DC_Shell 54
+    2300208: NONE-DC_Shell 55
+    2300210: NONE-DC_Shell 56
+    2300212: NONE-DC_Shell 57
+    2300214: NONE-DC_Shell 58
+    2300216: NONE-DC_Shell 59
+    2300218: NONE-DC_Shell 6
+    2300220: NONE-DC_Shell 60
+    2300222: NONE-DC_Shell 7
+    2300224: NONE-DC_Shell 8
+    2300226: NONE-DC_Shell 9
+    2300228: O10.0 (10) |1-DC_Shell
+    2300230: p1-DC_Shell
+    2300232: p1-DC_Shell 1
+    2300234: sC1-DC_Shell
+    3300000: -1-DC_Shell
+    3300002: -1-DC_Shell 1
+    3300004: -1-DC_Shell 2
+    3300006: -1-DC_Shell 3
+    3300008: -2-DC_Shell
+    3300010: -9-DC_Shell
+    3300012: 1-DC_Shell
+    3300014: 1-DC_Shell 1
+    3300016: 1-DC_Shell 10
+    3300018: 1-DC_Shell 11
+    3300020: 1-DC_Shell 12
+    3300022: 1-DC_Shell 13
+    3300024: 1-DC_Shell 14
+    3300026: 1-DC_Shell 2
+    3300028: 1-DC_Shell 3
+    3300030: 1-DC_Shell 4
+    3300032: 1-DC_Shell 5
+    3300034: 1-DC_Shell 6
+    3300036: 1-DC_Shell 7
+    3300038: 1-DC_Shell 8
+    3300040: 1-DC_Shell 9
+    3300042: 2-DC_Shell
+    3300044: 2-DC_Shell 1
+    3300046: 2-DC_Shell 2
+    3300048: 2-DC_Shell 3
+    3300050: 3-DC_Shell
+    3300052: BallsDetailed-DC_Shell
+    3300054: Body-DC_Shell
+    3300056: Body-DC_Shell 1
+    3300058: Body-DC_Shell 2
+    3300060: Hex-DC_Shell
+    3300062: Hex-DC_Shell 1
+    3300064: Hex-DC_Shell 10
+    3300066: Hex-DC_Shell 11
+    3300068: Hex-DC_Shell 12
+    3300070: Hex-DC_Shell 13
+    3300072: Hex-DC_Shell 14
+    3300074: Hex-DC_Shell 15
+    3300076: Hex-DC_Shell 16
+    3300078: Hex-DC_Shell 17
+    3300080: Hex-DC_Shell 2
+    3300082: Hex-DC_Shell 3
+    3300084: Hex-DC_Shell 4
+    3300086: Hex-DC_Shell 5
+    3300088: Hex-DC_Shell 6
+    3300090: Hex-DC_Shell 7
+    3300092: Hex-DC_Shell 8
+    3300094: Hex-DC_Shell 9
+    3300096: InnerRace-DC_Shell
+    3300098: InnerRace-DC_Shell 1
+    3300100: M16x2.0 1-DC_Shell
+    3300102: M8x1.25 1-DC_Shell
+    3300104: M8x1.25 1-DC_Shell 1
+    3300106: NONE-DC_Shell
+    3300108: NONE-DC_Shell 1
+    3300110: NONE-DC_Shell 10
+    3300112: NONE-DC_Shell 11
+    3300114: NONE-DC_Shell 12
+    3300116: NONE-DC_Shell 13
+    3300118: NONE-DC_Shell 14
+    3300120: NONE-DC_Shell 15
+    3300122: NONE-DC_Shell 16
+    3300124: NONE-DC_Shell 17
+    3300126: NONE-DC_Shell 18
+    3300128: NONE-DC_Shell 19
+    3300130: NONE-DC_Shell 2
+    3300132: NONE-DC_Shell 20
+    3300134: NONE-DC_Shell 21
+    3300136: NONE-DC_Shell 22
+    3300138: NONE-DC_Shell 23
+    3300140: NONE-DC_Shell 24
+    3300142: NONE-DC_Shell 25
+    3300144: NONE-DC_Shell 26
+    3300146: NONE-DC_Shell 27
+    3300148: NONE-DC_Shell 28
+    3300150: NONE-DC_Shell 29
+    3300152: NONE-DC_Shell 3
+    3300154: NONE-DC_Shell 30
+    3300156: NONE-DC_Shell 31
+    3300158: NONE-DC_Shell 32
+    3300160: NONE-DC_Shell 33
+    3300162: NONE-DC_Shell 34
+    3300164: NONE-DC_Shell 35
+    3300166: NONE-DC_Shell 36
+    3300168: NONE-DC_Shell 37
+    3300170: NONE-DC_Shell 38
+    3300172: NONE-DC_Shell 39
+    3300174: NONE-DC_Shell 4
+    3300176: NONE-DC_Shell 40
+    3300178: NONE-DC_Shell 41
+    3300180: NONE-DC_Shell 42
+    3300182: NONE-DC_Shell 43
+    3300184: NONE-DC_Shell 44
+    3300186: NONE-DC_Shell 45
+    3300188: NONE-DC_Shell 46
+    3300190: NONE-DC_Shell 47
+    3300192: NONE-DC_Shell 48
+    3300194: NONE-DC_Shell 49
+    3300196: NONE-DC_Shell 5
+    3300198: NONE-DC_Shell 50
+    3300200: NONE-DC_Shell 51
+    3300202: NONE-DC_Shell 52
+    3300204: NONE-DC_Shell 53
+    3300206: NONE-DC_Shell 54
+    3300208: NONE-DC_Shell 55
+    3300210: NONE-DC_Shell 56
+    3300212: NONE-DC_Shell 57
+    3300214: NONE-DC_Shell 58
+    3300216: NONE-DC_Shell 59
+    3300218: NONE-DC_Shell 6
+    3300220: NONE-DC_Shell 60
+    3300222: NONE-DC_Shell 7
+    3300224: NONE-DC_Shell 8
+    3300226: NONE-DC_Shell 9
+    3300228: O10.0 (10) |1-DC_Shell
+    3300230: p1-DC_Shell
+    3300232: p1-DC_Shell 1
+    3300234: sC1-DC_Shell
+    4300000: M16x2.0 1-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: NONE-DC_Shell
+    4300006: sC1-DC_Shell
+    4300008: Body-DC_Shell
+    4300010: BallsDetailed-DC_Shell
+    4300012: Body-DC_Shell
+    4300014: 1-DC_Shell
+    4300016: 1-DC_Shell
+    4300018: NONE-DC_Shell
+    4300020: NONE-DC_Shell
+    4300022: 1-DC_Shell
+    4300024: NONE-DC_Shell
+    4300026: NONE-DC_Shell
+    4300028: NONE-DC_Shell
+    4300030: p1-DC_Shell
+    4300032: InnerRace-DC_Shell
+    4300034: InnerRace-DC_Shell
+    4300036: Body-DC_Shell
+    4300038: Hex-DC_Shell
+    4300040: NONE-DC_Shell
+    4300042: NONE-DC_Shell
+    4300044: NONE-DC_Shell
+    4300046: NONE-DC_Shell
+    4300048: NONE-DC_Shell
+    4300050: NONE-DC_Shell
+    4300052: NONE-DC_Shell
+    4300054: NONE-DC_Shell
+    4300056: NONE-DC_Shell
+    4300058: NONE-DC_Shell
+    4300060: NONE-DC_Shell
+    4300062: NONE-DC_Shell
+    4300064: NONE-DC_Shell
+    4300066: NONE-DC_Shell
+    4300068: NONE-DC_Shell
+    4300070: NONE-DC_Shell
+    4300072: NONE-DC_Shell
+    4300074: NONE-DC_Shell
+    4300076: NONE-DC_Shell
+    4300078: NONE-DC_Shell
+    4300080: NONE-DC_Shell
+    4300082: NONE-DC_Shell
+    4300084: NONE-DC_Shell
+    4300086: NONE-DC_Shell
+    4300088: NONE-DC_Shell
+    4300090: NONE-DC_Shell
+    4300092: NONE-DC_Shell
+    4300094: NONE-DC_Shell
+    4300096: NONE-DC_Shell
+    4300098: NONE-DC_Shell
+    4300100: NONE-DC_Shell
+    4300102: NONE-DC_Shell
+    4300104: NONE-DC_Shell
+    4300106: Hex-DC_Shell
+    4300108: 1-DC_Shell
+    4300110: NONE-DC_Shell
+    4300112: NONE-DC_Shell
+    4300114: NONE-DC_Shell
+    4300116: NONE-DC_Shell
+    4300118: NONE-DC_Shell
+    4300120: NONE-DC_Shell
+    4300122: NONE-DC_Shell
+    4300124: NONE-DC_Shell
+    4300126: NONE-DC_Shell
+    4300128: NONE-DC_Shell
+    4300130: 1-DC_Shell
+    4300132: p1-DC_Shell
+    4300134: 1-DC_Shell
+    4300136: NONE-DC_Shell
+    4300138: NONE-DC_Shell
+    4300140: 2-DC_Shell
+    4300142: 1-DC_Shell
+    4300144: 3-DC_Shell
+    4300146: 1-DC_Shell
+    4300148: 2-DC_Shell
+    4300150: NONE-DC_Shell
+    4300152: NONE-DC_Shell
+    4300154: NONE-DC_Shell
+    4300156: NONE-DC_Shell
+    4300158: NONE-DC_Shell
+    4300160: NONE-DC_Shell
+    4300162: -1-DC_Shell
+    4300164: -9-DC_Shell
+    4300166: -1-DC_Shell
+    4300168: NONE-DC_Shell
+    4300170: O10.0 (10) |1-DC_Shell
+    4300172: NONE-DC_Shell
+    4300174: M8x1.25 1-DC_Shell
+    4300176: 2-DC_Shell
+    4300178: 1-DC_Shell
+    4300180: 1-DC_Shell
+    4300182: 1-DC_Shell
+    4300184: Hex-DC_Shell
+    4300186: Hex-DC_Shell
+    4300188: Hex-DC_Shell
+    4300190: Hex-DC_Shell
+    4300192: Hex-DC_Shell
+    4300194: Hex-DC_Shell
+    4300196: Hex-DC_Shell
+    4300198: Hex-DC_Shell
+    4300200: NONE-DC_Shell
+    4300202: M8x1.25 1-DC_Shell
+    4300204: 2-DC_Shell
+    4300206: 1-DC_Shell
+    4300208: 1-DC_Shell
+    4300210: 1-DC_Shell
+    4300212: Hex-DC_Shell
+    4300214: Hex-DC_Shell
+    4300216: Hex-DC_Shell
+    4300218: Hex-DC_Shell
+    4300220: Hex-DC_Shell
+    4300222: Hex-DC_Shell
+    4300224: Hex-DC_Shell
+    4300226: Hex-DC_Shell
+    4300228: -2-DC_Shell
+    4300230: -1-DC_Shell
+    4300232: -1-DC_Shell
+    4300234: 1-DC_Shell
+    7400000: explode
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AST5A113028 1
+        weight: 1
+      - path: 'AST5A113028 1/ '
+        weight: 1
+      - path: AST5A113028 1/ /dummyName
+        weight: 1
+      - path: AST5A113028 1/ /dummyName/dummyName 1
+        weight: 1
+      - path: AST5A113028 1/ /dummyName/dummyName 1/ 1
+        weight: 1
+      - path: AST5A113028 1/ /dummyName/dummyName 1/ 1/NONE 16
+        weight: 1
+      - path: AST5A113028 1/ /dummyName/dummyName 1/ 1/NONE 16/ 18
+        weight: 1
+      - path: AST5A113028 1/ /dummyName/dummyName 1/ 1/NONE 16/ 18/1 4
+        weight: 1
+      - path: AST5A113028 1/ /dummyName/dummyName 1/ 1/NONE 16/ 18/1 4/1-DC_Shell
+          3
+        weight: 1
+      - path: AST5A113028 1/  1
+        weight: 1
+      - path: AST5A113028 1/  1/L420071
+        weight: 1
+      - path: AST5A113028 1/  1/L420071/L420071 1
+        weight: 1
+      - path: AST5A113028 1/  1/L420071/L420071 1/L420071 2
+        weight: 1
+      - path: AST5A113028 1/  1/L420071/L420071 1/L420071 2/NONE 11
+        weight: 1
+      - path: AST5A113028 1/  1/L420071/L420071 1/L420071 2/NONE 11/ 13
+        weight: 1
+      - path: AST5A113028 1/  1/L420071/L420071 1/L420071 2/NONE 11/ 13/-2
+        weight: 1
+      - path: AST5A113028 1/  1/L420071/L420071 1/L420071 2/NONE 11/ 13/-2/-2-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  2
+        weight: 1
+      - path: AST5A113028 1/  2/L420011M
+        weight: 1
+      - path: AST5A113028 1/  2/L420011M/L420011M 1
+        weight: 1
+      - path: AST5A113028 1/  2/L420011M/L420011M 1/L420011M 2
+        weight: 1
+      - path: AST5A113028 1/  2/L420011M/L420011M 1/L420011M 2/NONE 7
+        weight: 1
+      - path: AST5A113028 1/  2/L420011M/L420011M 1/L420011M 2/NONE 7/ 9
+        weight: 1
+      - path: AST5A113028 1/  2/L420011M/L420011M 1/L420011M 2/NONE 7/ 9/1/4 Rc 1
+        weight: 1
+      - path: AST5A113028 1/  2/L420011M/L420011M 1/L420011M 2/NONE 7/ 9/1/4 Rc 1/NONE
+          23
+        weight: 1
+      - path: AST5A113028 1/  2/L420011M/L420011M 1/L420011M 2/NONE 7/ 9/1/4 Rc 1/NONE
+          23/NONE-DC_Shell 2
+        weight: 1
+      - path: AST5A113028 1/  3
+        weight: 1
+      - path: AST5A113028 1/  3/L420041
+        weight: 1
+      - path: AST5A113028 1/  3/L420041/L420041 1
+        weight: 1
+      - path: AST5A113028 1/  3/L420041/L420041 1/L420041 2
+        weight: 1
+      - path: AST5A113028 1/  3/L420041/L420041 1/L420041 2/NONE 10
+        weight: 1
+      - path: AST5A113028 1/  3/L420041/L420041 1/L420041 2/NONE 10/ 12
+        weight: 1
+      - path: AST5A113028 1/  3/L420041/L420041 1/L420041 2/NONE 10/ 12/1 3
+        weight: 1
+      - path: AST5A113028 1/  3/L420041/L420041 1/L420041 2/NONE 10/ 12/1 3/NONE 24
+        weight: 1
+      - path: AST5A113028 1/  3/L420041/L420041 1/L420041 2/NONE 10/ 12/1 3/NONE 24/NONE-DC_Shell
+          3
+        weight: 1
+      - path: AST5A113028 1/  4
+        weight: 1
+      - path: AST5A113028 1/  4/L420220
+        weight: 1
+      - path: AST5A113028 1/  4/L420220/L420220 1
+        weight: 1
+      - path: AST5A113028 1/  4/L420220/L420220 1/L420220 2
+        weight: 1
+      - path: AST5A113028 1/  4/L420220/L420220 1/L420220 2/NONE 13
+        weight: 1
+      - path: AST5A113028 1/  4/L420220/L420220 1/L420220 2/NONE 13/ 15
+        weight: 1
+      - path: AST5A113028 1/  4/L420220/L420220 1/L420220 2/NONE 13/ 15/-1 1
+        weight: 1
+      - path: AST5A113028 1/  4/L420220/L420220 1/L420220 2/NONE 13/ 15/-1 1/-1-DC_Shell
+          1
+        weight: 1
+      - path: AST5A113028 1/  5
+        weight: 1
+      - path: AST5A113028 1/  5/0.5HPF
+        weight: 1
+      - path: AST5A113028 1/  5/0.5HPF/0.5HPF 1
+        weight: 1
+      - path: AST5A113028 1/  5/0.5HPF/0.5HPF 1/0.5HPF 2
+        weight: 1
+      - path: AST5A113028 1/  5/0.5HPF/0.5HPF 1/0.5HPF 2/NONE
+        weight: 1
+      - path: AST5A113028 1/  5/0.5HPF/0.5HPF 1/0.5HPF 2/NONE/ 2
+        weight: 1
+      - path: AST5A113028 1/  5/0.5HPF/0.5HPF 1/0.5HPF 2/NONE/ 2/O10.0 (10) |1
+        weight: 1
+      - path: AST5A113028 1/  5/0.5HPF/0.5HPF 1/0.5HPF 2/NONE/ 2/O10.0 (10) |1/O10.0
+          (10) |1-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  6
+        weight: 1
+      - path: AST5A113028 1/  6/L420091
+        weight: 1
+      - path: AST5A113028 1/  6/L420091/L420091 1
+        weight: 1
+      - path: AST5A113028 1/  6/L420091/L420091 1/L420091 2
+        weight: 1
+      - path: AST5A113028 1/  6/L420091/L420091 1/L420091 2/NONE 12
+        weight: 1
+      - path: AST5A113028 1/  6/L420091/L420091 1/L420091 2/NONE 12/ 14
+        weight: 1
+      - path: AST5A113028 1/  6/L420091/L420091 1/L420091 2/NONE 12/ 14/-1
+        weight: 1
+      - path: AST5A113028 1/  6/L420091/L420091 1/L420091 2/NONE 12/ 14/-1/-1-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  7
+        weight: 1
+      - path: AST5A113028 1/  7/radial ball bearing_68_jis_PreviewCfg
+        weight: 1
+      - path: AST5A113028 1/  7/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 1
+        weight: 1
+      - path: AST5A113028 1/  7/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 1/radial ball bearing_68_jis_PreviewCfg 2
+        weight: 1
+      - path: AST5A113028 1/  7/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 1/radial ball bearing_68_jis_PreviewCfg 2/NONE
+          17
+        weight: 1
+      - path: AST5A113028 1/  7/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 1/radial ball bearing_68_jis_PreviewCfg 2/NONE
+          17/ 19
+        weight: 1
+      - path: AST5A113028 1/  7/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 1/radial ball bearing_68_jis_PreviewCfg 2/NONE
+          17/ 19/BallsDetailed
+        weight: 1
+      - path: AST5A113028 1/  7/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 1/radial ball bearing_68_jis_PreviewCfg 2/NONE
+          17/ 19/BallsDetailed/BallsDetailed-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  8
+        weight: 1
+      - path: AST5A113028 1/  8/D400280
+        weight: 1
+      - path: AST5A113028 1/  8/D400280/D400280 1
+        weight: 1
+      - path: AST5A113028 1/  8/D400280/D400280 1/D400280 2
+        weight: 1
+      - path: AST5A113028 1/  8/D400280/D400280 1/D400280 2/NONE 4
+        weight: 1
+      - path: AST5A113028 1/  8/D400280/D400280 1/D400280 2/NONE 4/ 6
+        weight: 1
+      - path: AST5A113028 1/  8/D400280/D400280 1/D400280 2/NONE 4/ 6/2
+        weight: 1
+      - path: AST5A113028 1/  8/D400280/D400280 1/D400280 2/NONE 4/ 6/2/2-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  9
+        weight: 1
+      - path: AST5A113028 1/  9/D400254
+        weight: 1
+      - path: AST5A113028 1/  9/D400254/D400254 1
+        weight: 1
+      - path: AST5A113028 1/  9/D400254/D400254 1/D400254 2
+        weight: 1
+      - path: AST5A113028 1/  9/D400254/D400254 1/D400254 2/NONE 3
+        weight: 1
+      - path: AST5A113028 1/  9/D400254/D400254 1/D400254 2/NONE 3/ 5
+        weight: 1
+      - path: AST5A113028 1/  9/D400254/D400254 1/D400254 2/NONE 3/ 5/O6.0 (6) |1
+        weight: 1
+      - path: AST5A113028 1/  9/D400254/D400254 1/D400254 2/NONE 3/ 5/O6.0 (6) |1/NONE
+          19
+        weight: 1
+      - path: AST5A113028 1/  9/D400254/D400254 1/D400254 2/NONE 3/ 5/O6.0 (6) |1/NONE
+          19/NONE-DC_Shell 1
+        weight: 1
+      - path: AST5A113028 1/  10
+        weight: 1
+      - path: AST5A113028 1/  10/L420031
+        weight: 1
+      - path: AST5A113028 1/  10/L420031/L420031 1
+        weight: 1
+      - path: AST5A113028 1/  10/L420031/L420031 1/L420031 2
+        weight: 1
+      - path: AST5A113028 1/  10/L420031/L420031 1/L420031 2/NONE 9
+        weight: 1
+      - path: AST5A113028 1/  10/L420031/L420031 1/L420031 2/NONE 9/ 11
+        weight: 1
+      - path: AST5A113028 1/  10/L420031/L420031 1/L420031 2/NONE 9/ 11/1 2
+        weight: 1
+      - path: AST5A113028 1/  10/L420031/L420031 1/L420031 2/NONE 9/ 11/1 2/1-DC_Shell
+          2
+        weight: 1
+      - path: AST5A113028 1/  11
+        weight: 1
+      - path: AST5A113028 1/  11/c type hole use retaining ring_jis_PreviewCfg
+        weight: 1
+      - path: AST5A113028 1/  11/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1
+        weight: 1
+      - path: AST5A113028 1/  11/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2
+        weight: 1
+      - path: AST5A113028 1/  11/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2/NONE 14
+        weight: 1
+      - path: AST5A113028 1/  11/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2/NONE 14/ 16
+        weight: 1
+      - path: AST5A113028 1/  11/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2/NONE 14/ 16/Body
+        weight: 1
+      - path: AST5A113028 1/  11/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 1/c type hole use retaining ring_jis_PreviewCfg
+          2/NONE 14/ 16/Body/Body-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  12
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  23
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  23/DHD100N250-1
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  23/DHD100N250-1/DHD100N250-1
+          1
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  23/DHD100N250-1/DHD100N250-1
+          1/DHD100N250-1 2
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  23/DHD100N250-1/DHD100N250-1
+          1/DHD100N250-1 2/NONE 21
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  23/DHD100N250-1/DHD100N250-1
+          1/DHD100N250-1 2/NONE 21/ 21
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  23/DHD100N250-1/DHD100N250-1
+          1/DHD100N250-1 2/NONE 21/ 21/3
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  23/DHD100N250-1/DHD100N250-1
+          1/DHD100N250-1 2/NONE 21/ 21/3/3-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  24
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  24/DHD100N250-2
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  24/DHD100N250-2/DHD100N250-2
+          1
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  24/DHD100N250-2/DHD100N250-2
+          1/DHD100N250-2 2
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  24/DHD100N250-2/DHD100N250-2
+          1/DHD100N250-2 2/NONE 22
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  24/DHD100N250-2/DHD100N250-2
+          1/DHD100N250-2 2/NONE 22/ 22
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  24/DHD100N250-2/DHD100N250-2
+          1/DHD100N250-2 2/NONE 22/ 22/1 5
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  24/DHD100N250-2/DHD100N250-2
+          1/DHD100N250-2 2/NONE 22/ 22/1 5/1-DC_Shell 4
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  25
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  25/D900240
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  25/D900240/D900240 1
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  25/D900240/D900240 1/D900240
+          2
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  25/D900240/D900240 1/D900240
+          2/NONE 20
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  25/D900240/D900240 1/D900240
+          2/NONE 20/ 20
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  25/D900240/D900240 1/D900240
+          2/NONE 20/ 20/2 1
+        weight: 1
+      - path: AST5A113028 1/  12/DHD100N250/DHD100N250 1/  25/D900240/D900240 1/D900240
+          2/NONE 20/ 20/2 1/2-DC_Shell 1
+        weight: 1
+      - path: AST5A113028 1/  13
+        weight: 1
+      - path: AST5A113028 1/  13/D400240
+        weight: 1
+      - path: AST5A113028 1/  13/D400240/D400240 1
+        weight: 1
+      - path: AST5A113028 1/  13/D400240/D400240 1/D400240 2
+        weight: 1
+      - path: AST5A113028 1/  13/D400240/D400240 1/D400240 2/NONE 2
+        weight: 1
+      - path: AST5A113028 1/  13/D400240/D400240 1/D400240 2/NONE 2/ 4
+        weight: 1
+      - path: AST5A113028 1/  13/D400240/D400240 1/D400240 2/NONE 2/ 4/5/8-18 1
+        weight: 1
+      - path: AST5A113028 1/  13/D400240/D400240 1/D400240 2/NONE 2/ 4/5/8-18 1/NONE
+          18
+        weight: 1
+      - path: AST5A113028 1/  13/D400240/D400240 1/D400240 2/NONE 2/ 4/5/8-18 1/NONE
+          18/NONE-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  14
+        weight: 1
+      - path: AST5A113028 1/  14/c type shaft use retaining ring_jis_PreviewCfg
+        weight: 1
+      - path: AST5A113028 1/  14/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 1
+        weight: 1
+      - path: AST5A113028 1/  14/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 1/c type shaft use retaining
+          ring_jis_PreviewCfg 2
+        weight: 1
+      - path: AST5A113028 1/  14/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 1/c type shaft use retaining
+          ring_jis_PreviewCfg 2/NONE 15
+        weight: 1
+      - path: AST5A113028 1/  14/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 1/c type shaft use retaining
+          ring_jis_PreviewCfg 2/NONE 15/ 17
+        weight: 1
+      - path: AST5A113028 1/  14/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 1/c type shaft use retaining
+          ring_jis_PreviewCfg 2/NONE 15/ 17/Body 1
+        weight: 1
+      - path: AST5A113028 1/  14/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 1/c type shaft use retaining
+          ring_jis_PreviewCfg 2/NONE 15/ 17/Body 1/Body-DC_Shell 1
+        weight: 1
+      - path: AST5A113028 1/  15
+        weight: 1
+      - path: AST5A113028 1/  15/F420040
+        weight: 1
+      - path: AST5A113028 1/  15/F420040/F420040 1
+        weight: 1
+      - path: AST5A113028 1/  15/F420040/F420040 1/F420040 2
+        weight: 1
+      - path: AST5A113028 1/  15/F420040/F420040 1/F420040 2/NONE 6
+        weight: 1
+      - path: AST5A113028 1/  15/F420040/F420040 1/F420040 2/NONE 6/ 8
+        weight: 1
+      - path: AST5A113028 1/  15/F420040/F420040 1/F420040 2/NONE 6/ 8/1 1
+        weight: 1
+      - path: AST5A113028 1/  15/F420040/F420040 1/F420040 2/NONE 6/ 8/1 1/1-DC_Shell
+          1
+        weight: 1
+      - path: AST5A113028 1/  16
+        weight: 1
+      - path: AST5A113028 1/  16/o
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54/L824090-75 1
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54/L824090-75 1/L824090-75 3
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54/L824090-75 1/L824090-75 3/L824090-75 4
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54/L824090-75 1/L824090-75 3/L824090-75 4/NONE
+          51
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54/L824090-75 1/L824090-75 3/L824090-75 4/NONE
+          51/ 48
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54/L824090-75 1/L824090-75 3/L824090-75 4/NONE
+          51/ 48/O8.0 (8) |1 1
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54/L824090-75 1/L824090-75 3/L824090-75 4/NONE
+          51/ 48/O8.0 (8) |1 1/NONE 81
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  54/L824090-75 1/L824090-75 3/L824090-75 4/NONE
+          51/ 48/O8.0 (8) |1 1/NONE 81/NONE-DC_Shell 12
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  55
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  55/L824081 1
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  55/L824081 1/L824081 3
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  55/L824081 1/L824081 3/L824081 5
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  55/L824081 1/L824081 3/L824081 5/NONE 49
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  55/L824081 1/L824081 3/L824081 5/NONE 49/
+          47
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  55/L824081 1/L824081 3/L824081 5/NONE 49/
+          47/M8x1.25 1 2
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  55/L824081 1/L824081 3/L824081 5/NONE 49/
+          47/M8x1.25 1 2/M8x1.25 1-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  56
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  56/L824070 1
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  56/L824070 1/L824070 3
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  56/L824070 1/L824070 3/L824070 4
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  56/L824070 1/L824070 3/L824070 4/NONE 46
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  56/L824070 1/L824070 3/L824070 4/NONE 46/
+          44
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  56/L824070 1/L824070 3/L824070 4/NONE 46/
+          44/2 4
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  56/L824070 1/L824070 3/L824070 4/NONE 46/
+          44/2 4/2-DC_Shell 3
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  57
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  57/L824140
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  57/L824140/L824140 2
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  57/L824140/L824140 2/L824140 4
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  57/L824140/L824140 2/L824140 4/NONE 52
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  57/L824140/L824140 2/L824140 4/NONE 52/ 50
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  57/L824140/L824140 2/L824140 4/NONE 52/ 50/1
+          10
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  57/L824140/L824140 2/L824140 4/NONE 52/ 50/1
+          10/1-DC_Shell 9
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  58
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  58/hexagon socket head cap screw_jis_PreviewCfg
+          2
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  58/hexagon socket head cap screw_jis_PreviewCfg
+          2/hexagon socket head cap screw_jis_PreviewCfg 27
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  58/hexagon socket head cap screw_jis_PreviewCfg
+          2/hexagon socket head cap screw_jis_PreviewCfg 27/hexagon socket head cap
+          screw_jis_PreviewCfg 46
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  58/hexagon socket head cap screw_jis_PreviewCfg
+          2/hexagon socket head cap screw_jis_PreviewCfg 27/hexagon socket head cap
+          screw_jis_PreviewCfg 46/NONE 63
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  58/hexagon socket head cap screw_jis_PreviewCfg
+          2/hexagon socket head cap screw_jis_PreviewCfg 27/hexagon socket head cap
+          screw_jis_PreviewCfg 46/NONE 63/ 67
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  58/hexagon socket head cap screw_jis_PreviewCfg
+          2/hexagon socket head cap screw_jis_PreviewCfg 27/hexagon socket head cap
+          screw_jis_PreviewCfg 46/NONE 63/ 67/Hex 17
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  58/hexagon socket head cap screw_jis_PreviewCfg
+          2/hexagon socket head cap screw_jis_PreviewCfg 27/hexagon socket head cap
+          screw_jis_PreviewCfg 46/NONE 63/ 67/Hex 17/Hex-DC_Shell 3
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  59
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  59/O-RING
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  59/O-RING/O-RING 2
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  59/O-RING/O-RING 2/O-RING 4
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  59/O-RING/O-RING 2/O-RING 4/NONE 54
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  59/O-RING/O-RING 2/O-RING 4/NONE 54/ 52
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  59/O-RING/O-RING 2/O-RING 4/NONE 54/ 52/1
+          12
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  59/O-RING/O-RING 2/O-RING 4/NONE 54/ 52/1
+          12/1-DC_Shell 11
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  60
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  60/hexagon socket head cap screw_jis_PreviewCfg
+          1
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  60/hexagon socket head cap screw_jis_PreviewCfg
+          1/hexagon socket head cap screw_jis_PreviewCfg 30
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  60/hexagon socket head cap screw_jis_PreviewCfg
+          1/hexagon socket head cap screw_jis_PreviewCfg 30/hexagon socket head cap
+          screw_jis_PreviewCfg 43
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  60/hexagon socket head cap screw_jis_PreviewCfg
+          1/hexagon socket head cap screw_jis_PreviewCfg 30/hexagon socket head cap
+          screw_jis_PreviewCfg 43/NONE 72
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  60/hexagon socket head cap screw_jis_PreviewCfg
+          1/hexagon socket head cap screw_jis_PreviewCfg 30/hexagon socket head cap
+          screw_jis_PreviewCfg 43/NONE 72/ 60
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  60/hexagon socket head cap screw_jis_PreviewCfg
+          1/hexagon socket head cap screw_jis_PreviewCfg 30/hexagon socket head cap
+          screw_jis_PreviewCfg 43/NONE 72/ 60/Hex 10
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  60/hexagon socket head cap screw_jis_PreviewCfg
+          1/hexagon socket head cap screw_jis_PreviewCfg 30/hexagon socket head cap
+          screw_jis_PreviewCfg 43/NONE 72/ 60/Hex 10/Hex-DC_Shell 13
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  61
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  61/USH50-40-6
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  61/USH50-40-6/USH50-40-6 2
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  61/USH50-40-6/USH50-40-6 2/USH50-40-6 4
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  61/USH50-40-6/USH50-40-6 2/USH50-40-6 4/NONE
+          57
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  61/USH50-40-6/USH50-40-6 2/USH50-40-6 4/NONE
+          57/ 55
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  61/USH50-40-6/USH50-40-6 2/USH50-40-6 4/NONE
+          57/ 55/1 14
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  61/USH50-40-6/USH50-40-6 2/USH50-40-6 4/NONE
+          57/ 55/1 14/1-DC_Shell 13
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  62
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  62/hexagon socket head cap screw_jis_PreviewCfg
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  62/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 31
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  62/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 31/hexagon socket head cap screw_jis_PreviewCfg
+          38
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  62/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 31/hexagon socket head cap screw_jis_PreviewCfg
+          38/NONE 67
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  62/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 31/hexagon socket head cap screw_jis_PreviewCfg
+          38/NONE 67/ 56
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  62/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 31/hexagon socket head cap screw_jis_PreviewCfg
+          38/NONE 67/ 56/Hex 16
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  62/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 31/hexagon socket head cap screw_jis_PreviewCfg
+          38/NONE 67/ 56/Hex 16/Hex-DC_Shell 9
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  63
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  63/hexagon socket head cap screw_jis_PreviewCfg
+          14
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  63/hexagon socket head cap screw_jis_PreviewCfg
+          14/hexagon socket head cap screw_jis_PreviewCfg 29
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  63/hexagon socket head cap screw_jis_PreviewCfg
+          14/hexagon socket head cap screw_jis_PreviewCfg 29/hexagon socket head cap
+          screw_jis_PreviewCfg 45
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  63/hexagon socket head cap screw_jis_PreviewCfg
+          14/hexagon socket head cap screw_jis_PreviewCfg 29/hexagon socket head cap
+          screw_jis_PreviewCfg 45/NONE 59
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  63/hexagon socket head cap screw_jis_PreviewCfg
+          14/hexagon socket head cap screw_jis_PreviewCfg 29/hexagon socket head cap
+          screw_jis_PreviewCfg 45/NONE 59/ 71
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  63/hexagon socket head cap screw_jis_PreviewCfg
+          14/hexagon socket head cap screw_jis_PreviewCfg 29/hexagon socket head cap
+          screw_jis_PreviewCfg 45/NONE 59/ 71/Hex 11
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  63/hexagon socket head cap screw_jis_PreviewCfg
+          14/hexagon socket head cap screw_jis_PreviewCfg 29/hexagon socket head cap
+          screw_jis_PreviewCfg 45/NONE 59/ 71/Hex 11/Hex-DC_Shell 14
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  64
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  64/hexagon socket head cap screw_jis_PreviewCfg
+          11
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  64/hexagon socket head cap screw_jis_PreviewCfg
+          11/hexagon socket head cap screw_jis_PreviewCfg 24
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  64/hexagon socket head cap screw_jis_PreviewCfg
+          11/hexagon socket head cap screw_jis_PreviewCfg 24/hexagon socket head cap
+          screw_jis_PreviewCfg 32
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  64/hexagon socket head cap screw_jis_PreviewCfg
+          11/hexagon socket head cap screw_jis_PreviewCfg 24/hexagon socket head cap
+          screw_jis_PreviewCfg 32/NONE 62
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  64/hexagon socket head cap screw_jis_PreviewCfg
+          11/hexagon socket head cap screw_jis_PreviewCfg 24/hexagon socket head cap
+          screw_jis_PreviewCfg 32/NONE 62/ 70
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  64/hexagon socket head cap screw_jis_PreviewCfg
+          11/hexagon socket head cap screw_jis_PreviewCfg 24/hexagon socket head cap
+          screw_jis_PreviewCfg 32/NONE 62/ 70/Hex 12
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  64/hexagon socket head cap screw_jis_PreviewCfg
+          11/hexagon socket head cap screw_jis_PreviewCfg 24/hexagon socket head cap
+          screw_jis_PreviewCfg 32/NONE 62/ 70/Hex 12/Hex-DC_Shell 8
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  65
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  65/hexagon socket head cap screw_jis_PreviewCfg
+          12
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  65/hexagon socket head cap screw_jis_PreviewCfg
+          12/hexagon socket head cap screw_jis_PreviewCfg 20
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  65/hexagon socket head cap screw_jis_PreviewCfg
+          12/hexagon socket head cap screw_jis_PreviewCfg 20/hexagon socket head cap
+          screw_jis_PreviewCfg 39
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  65/hexagon socket head cap screw_jis_PreviewCfg
+          12/hexagon socket head cap screw_jis_PreviewCfg 20/hexagon socket head cap
+          screw_jis_PreviewCfg 39/NONE 73
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  65/hexagon socket head cap screw_jis_PreviewCfg
+          12/hexagon socket head cap screw_jis_PreviewCfg 20/hexagon socket head cap
+          screw_jis_PreviewCfg 39/NONE 73/ 69
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  65/hexagon socket head cap screw_jis_PreviewCfg
+          12/hexagon socket head cap screw_jis_PreviewCfg 20/hexagon socket head cap
+          screw_jis_PreviewCfg 39/NONE 73/ 69/Hex 13
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  65/hexagon socket head cap screw_jis_PreviewCfg
+          12/hexagon socket head cap screw_jis_PreviewCfg 20/hexagon socket head cap
+          screw_jis_PreviewCfg 39/NONE 73/ 69/Hex 13/Hex-DC_Shell 10
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  66
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  66/hexagon socket head cap screw_jis_PreviewCfg
+          15
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  66/hexagon socket head cap screw_jis_PreviewCfg
+          15/hexagon socket head cap screw_jis_PreviewCfg 18
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  66/hexagon socket head cap screw_jis_PreviewCfg
+          15/hexagon socket head cap screw_jis_PreviewCfg 18/hexagon socket head cap
+          screw_jis_PreviewCfg 47
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  66/hexagon socket head cap screw_jis_PreviewCfg
+          15/hexagon socket head cap screw_jis_PreviewCfg 18/hexagon socket head cap
+          screw_jis_PreviewCfg 47/NONE 66
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  66/hexagon socket head cap screw_jis_PreviewCfg
+          15/hexagon socket head cap screw_jis_PreviewCfg 18/hexagon socket head cap
+          screw_jis_PreviewCfg 47/NONE 66/ 64
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  66/hexagon socket head cap screw_jis_PreviewCfg
+          15/hexagon socket head cap screw_jis_PreviewCfg 18/hexagon socket head cap
+          screw_jis_PreviewCfg 47/NONE 66/ 64/Hex 15
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  66/hexagon socket head cap screw_jis_PreviewCfg
+          15/hexagon socket head cap screw_jis_PreviewCfg 18/hexagon socket head cap
+          screw_jis_PreviewCfg 47/NONE 66/ 64/Hex 15/Hex-DC_Shell 15
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  67
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  67/hexagon socket head cap screw_jis_PreviewCfg
+          13
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  67/hexagon socket head cap screw_jis_PreviewCfg
+          13/hexagon socket head cap screw_jis_PreviewCfg 28
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  67/hexagon socket head cap screw_jis_PreviewCfg
+          13/hexagon socket head cap screw_jis_PreviewCfg 28/hexagon socket head cap
+          screw_jis_PreviewCfg 44
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  67/hexagon socket head cap screw_jis_PreviewCfg
+          13/hexagon socket head cap screw_jis_PreviewCfg 28/hexagon socket head cap
+          screw_jis_PreviewCfg 44/NONE 65
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  67/hexagon socket head cap screw_jis_PreviewCfg
+          13/hexagon socket head cap screw_jis_PreviewCfg 28/hexagon socket head cap
+          screw_jis_PreviewCfg 44/NONE 65/ 66
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  67/hexagon socket head cap screw_jis_PreviewCfg
+          13/hexagon socket head cap screw_jis_PreviewCfg 28/hexagon socket head cap
+          screw_jis_PreviewCfg 44/NONE 65/ 66/Hex 14
+        weight: 1
+      - path: AST5A113028 1/  16/o/o 2/  67/hexagon socket head cap screw_jis_PreviewCfg
+          13/hexagon socket head cap screw_jis_PreviewCfg 28/hexagon socket head cap
+          screw_jis_PreviewCfg 44/NONE 65/ 66/Hex 14/Hex-DC_Shell 17
+        weight: 1
+      - path: AST5A113028 1/  17
+        weight: 1
+      - path: AST5A113028 1/  17/D400230
+        weight: 1
+      - path: AST5A113028 1/  17/D400230/D400230 1
+        weight: 1
+      - path: AST5A113028 1/  17/D400230/D400230 1/D400230 2
+        weight: 1
+      - path: AST5A113028 1/  17/D400230/D400230 1/D400230 2/NONE 1
+        weight: 1
+      - path: AST5A113028 1/  17/D400230/D400230 1/D400230 2/NONE 1/ 3
+        weight: 1
+      - path: AST5A113028 1/  17/D400230/D400230 1/D400230 2/NONE 1/ 3/1
+        weight: 1
+      - path: AST5A113028 1/  17/D400230/D400230 1/D400230 2/NONE 1/ 3/1/1-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  18
+        weight: 1
+      - path: AST5A113028 1/  18/b-250
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  31
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  31/taper roller bearing_jis_PreviewCfg
+          1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  31/taper roller bearing_jis_PreviewCfg
+          1/taper roller bearing_jis_PreviewCfg 3
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  31/taper roller bearing_jis_PreviewCfg
+          1/taper roller bearing_jis_PreviewCfg 3/taper roller bearing_jis_PreviewCfg
+          5
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  31/taper roller bearing_jis_PreviewCfg
+          1/taper roller bearing_jis_PreviewCfg 3/taper roller bearing_jis_PreviewCfg
+          5/NONE 44
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  31/taper roller bearing_jis_PreviewCfg
+          1/taper roller bearing_jis_PreviewCfg 3/taper roller bearing_jis_PreviewCfg
+          5/NONE 44/ 42
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  31/taper roller bearing_jis_PreviewCfg
+          1/taper roller bearing_jis_PreviewCfg 3/taper roller bearing_jis_PreviewCfg
+          5/NONE 44/ 42/InnerRace
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  31/taper roller bearing_jis_PreviewCfg
+          1/taper roller bearing_jis_PreviewCfg 3/taper roller bearing_jis_PreviewCfg
+          5/NONE 44/ 42/InnerRace/InnerRace-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2/NONE
+          38
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2/NONE
+          38/ 36
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2/NONE
+          38/ 36/M6x1.0 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2/NONE
+          38/ 36/M6x1.0 1/NONE 79
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2/NONE
+          38/ 36/M6x1.0 1/NONE 79/NONE 86
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2/NONE
+          38/ 36/M6x1.0 1/NONE 79/NONE 86/NONE-DC_Shell 51
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2/NONE
+          38/ 36/M6x1.0 1/NONE 79/NONE 86/NONE-DC_Shell 52
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  32/L450021/L450021 1/L450021 2/NONE
+          38/ 36/M6x1.0 1/NONE 79/NONE 86/NONE-DC_Shell 53
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80/NONE 87
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80/NONE 87/NONE-DC_Shell 54
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80/NONE 87/NONE-DC_Shell 55
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80/NONE 87/NONE-DC_Shell 56
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80/NONE 87/NONE-DC_Shell 57
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80/NONE 87/NONE-DC_Shell 58
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80/NONE 87/NONE-DC_Shell 59
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  33/NUT-YSKM130-2P/NUT-YSKM130-2P
+          1/NUT-YSKM130-2P 2/NONE 40/ 38/M8x1.25 1/NONE 80/NONE 87/NONE-DC_Shell 60
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  34
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  34/c type hole use retaining ring_jis_PreviewCfg
+          3
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  34/c type hole use retaining ring_jis_PreviewCfg
+          3/c type hole use retaining ring_jis_PreviewCfg 4
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  34/c type hole use retaining ring_jis_PreviewCfg
+          3/c type hole use retaining ring_jis_PreviewCfg 4/c type hole use retaining
+          ring_jis_PreviewCfg 5
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  34/c type hole use retaining ring_jis_PreviewCfg
+          3/c type hole use retaining ring_jis_PreviewCfg 4/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 41
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  34/c type hole use retaining ring_jis_PreviewCfg
+          3/c type hole use retaining ring_jis_PreviewCfg 4/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 41/ 39
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  34/c type hole use retaining ring_jis_PreviewCfg
+          3/c type hole use retaining ring_jis_PreviewCfg 4/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 41/ 39/Body 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  34/c type hole use retaining ring_jis_PreviewCfg
+          3/c type hole use retaining ring_jis_PreviewCfg 4/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 41/ 39/Body 2/Body-DC_Shell 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  35
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  35/F410200
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  35/F410200/F410200 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  35/F410200/F410200 1/F410200 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  35/F410200/F410200 1/F410200 2/NONE
+          32
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  35/F410200/F410200 1/F410200 2/NONE
+          32/ 30
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  35/F410200/F410200 1/F410200 2/NONE
+          32/ 30/1 7
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  35/F410200/F410200 1/F410200 2/NONE
+          32/ 30/1 7/1-DC_Shell 6
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  36
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  36/L450093
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  36/L450093/L450093 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  36/L450093/L450093 1/L450093 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  36/L450093/L450093 1/L450093 2/NONE
+          39
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  36/L450093/L450093 1/L450093 2/NONE
+          39/ 37
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  36/L450093/L450093 1/L450093 2/NONE
+          39/ 37/1 9
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  36/L450093/L450093 1/L450093 2/NONE
+          39/ 37/1 9/1-DC_Shell 8
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  37
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  37/taper roller bearing_jis_PreviewCfg
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  37/taper roller bearing_jis_PreviewCfg/taper
+          roller bearing_jis_PreviewCfg 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  37/taper roller bearing_jis_PreviewCfg/taper
+          roller bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  37/taper roller bearing_jis_PreviewCfg/taper
+          roller bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4/NONE
+          45
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  37/taper roller bearing_jis_PreviewCfg/taper
+          roller bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4/NONE
+          45/ 43
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  37/taper roller bearing_jis_PreviewCfg/taper
+          roller bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4/NONE
+          45/ 43/InnerRace 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  37/taper roller bearing_jis_PreviewCfg/taper
+          roller bearing_jis_PreviewCfg 2/taper roller bearing_jis_PreviewCfg 4/NONE
+          45/ 43/InnerRace 1/InnerRace-DC_Shell 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  38
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  38/hexagon socket set screw cone
+          point_jis_PreviewCfg
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  38/hexagon socket set screw cone
+          point_jis_PreviewCfg/hexagon socket set screw cone point_jis_PreviewCfg
+          2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  38/hexagon socket set screw cone
+          point_jis_PreviewCfg/hexagon socket set screw cone point_jis_PreviewCfg
+          2/hexagon socket set screw cone point_jis_PreviewCfg 5
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  38/hexagon socket set screw cone
+          point_jis_PreviewCfg/hexagon socket set screw cone point_jis_PreviewCfg
+          2/hexagon socket set screw cone point_jis_PreviewCfg 5/NONE 43
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  38/hexagon socket set screw cone
+          point_jis_PreviewCfg/hexagon socket set screw cone point_jis_PreviewCfg
+          2/hexagon socket set screw cone point_jis_PreviewCfg 5/NONE 43/ 40
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  38/hexagon socket set screw cone
+          point_jis_PreviewCfg/hexagon socket set screw cone point_jis_PreviewCfg
+          2/hexagon socket set screw cone point_jis_PreviewCfg 5/NONE 43/ 40/Hex
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  38/hexagon socket set screw cone
+          point_jis_PreviewCfg/hexagon socket set screw cone point_jis_PreviewCfg
+          2/hexagon socket set screw cone point_jis_PreviewCfg 5/NONE 43/ 40/Hex/Hex-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  39
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  39/L430035
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  39/L430035/L430035 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  39/L430035/L430035 1/L430035 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  39/L430035/L430035 1/L430035 2/NONE
+          35
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  39/L430035/L430035 1/L430035 2/NONE
+          35/ 33
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  39/L430035/L430035 1/L430035 2/NONE
+          35/ 33/p1 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  39/L430035/L430035 1/L430035 2/NONE
+          35/ 33/p1 1/p1-DC_Shell 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 15
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 16
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 17
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 18
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 19
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 20
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 21
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 22
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 23
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 24
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 25
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 26
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 27
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 28
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 29
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 30
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 31
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 32
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 33
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 34
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 35
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 36
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 37
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 38
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 39
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 40
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 41
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 42
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 43
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 44
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 45
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 46
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  40/L430024/L430024 1/L430024 2/NONE
+          34/ 32/M8x1.25 2/NONE 77/NONE 84/NONE-DC_Shell 47
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  41
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  41/hexagon socket set screw cone
+          point_jis_PreviewCfg 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  41/hexagon socket set screw cone
+          point_jis_PreviewCfg 1/hexagon socket set screw cone point_jis_PreviewCfg
+          3
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  41/hexagon socket set screw cone
+          point_jis_PreviewCfg 1/hexagon socket set screw cone point_jis_PreviewCfg
+          3/hexagon socket set screw cone point_jis_PreviewCfg 4
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  41/hexagon socket set screw cone
+          point_jis_PreviewCfg 1/hexagon socket set screw cone point_jis_PreviewCfg
+          3/hexagon socket set screw cone point_jis_PreviewCfg 4/NONE 42
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  41/hexagon socket set screw cone
+          point_jis_PreviewCfg 1/hexagon socket set screw cone point_jis_PreviewCfg
+          3/hexagon socket set screw cone point_jis_PreviewCfg 4/NONE 42/ 41
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  41/hexagon socket set screw cone
+          point_jis_PreviewCfg 1/hexagon socket set screw cone point_jis_PreviewCfg
+          3/hexagon socket set screw cone point_jis_PreviewCfg 4/NONE 42/ 41/Hex 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  41/hexagon socket set screw cone
+          point_jis_PreviewCfg 1/hexagon socket set screw cone point_jis_PreviewCfg
+          3/hexagon socket set screw cone point_jis_PreviewCfg 4/NONE 42/ 41/Hex 1/Hex-DC_Shell
+          1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  42
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  42/L430016
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  42/L430016/L430016 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  42/L430016/L430016 1/L430016 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  42/L430016/L430016 1/L430016 2/NONE
+          33
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  42/L430016/L430016 1/L430016 2/NONE
+          33/ 31
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  42/L430016/L430016 1/L430016 2/NONE
+          33/ 31/p1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  42/L430016/L430016 1/L430016 2/NONE
+          33/ 31/p1/p1-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  43
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  43/L430271
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  43/L430271/L430271 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  43/L430271/L430271 1/L430271 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  43/L430271/L430271 1/L430271 2/NONE
+          37
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  43/L430271/L430271 1/L430271 2/NONE
+          37/ 35
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  43/L430271/L430271 1/L430271 2/NONE
+          37/ 35/1 8
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  43/L430271/L430271 1/L430271 2/NONE
+          37/ 35/1 8/1-DC_Shell 7
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1/D400081 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1/D400081 2/NONE
+          30
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1/D400081 2/NONE
+          30/ 28
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1/D400081 2/NONE
+          30/ 28/2 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1/D400081 2/NONE
+          30/ 28/2 2/NONE 76
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1/D400081 2/NONE
+          30/ 28/2 2/NONE 76/NONE 83
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1/D400081 2/NONE
+          30/ 28/2 2/NONE 76/NONE 83/NONE-DC_Shell 13
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  44/D400081/D400081 1/D400081 2/NONE
+          30/ 28/2 2/NONE 76/NONE 83/NONE-DC_Shell 14
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  45
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  45/F410082
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  45/F410082/F410082 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  45/F410082/F410082 1/F410082 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  45/F410082/F410082 1/F410082 2/NONE
+          31
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  45/F410082/F410082 1/F410082 2/NONE
+          31/ 29
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  45/F410082/F410082 1/F410082 2/NONE
+          31/ 29/1 6
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  45/F410082/F410082 1/F410082 2/NONE
+          31/ 29/1 6/1-DC_Shell 5
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2/NONE
+          36
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2/NONE
+          36/ 34
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2/NONE
+          36/ 34/p1 2
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2/NONE
+          36/ 34/p1 2/NONE 78
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2/NONE
+          36/ 34/p1 2/NONE 78/NONE 85
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2/NONE
+          36/ 34/p1 2/NONE 78/NONE 85/NONE-DC_Shell 48
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2/NONE
+          36/ 34/p1 2/NONE 78/NONE 85/NONE-DC_Shell 49
+        weight: 1
+      - path: AST5A113028 1/  18/b-250/b-250 1/  46/L430241/L430241 1/L430241 2/NONE
+          36/ 34/p1 2/NONE 78/NONE 85/NONE-DC_Shell 50
+        weight: 1
+      - path: AST5A113028 1/  19
+        weight: 1
+      - path: AST5A113028 1/  19/o 1
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  47
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  47/hexagon socket head cap screw_jis_PreviewCfg
+          5
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  47/hexagon socket head cap screw_jis_PreviewCfg
+          5/hexagon socket head cap screw_jis_PreviewCfg 23
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  47/hexagon socket head cap screw_jis_PreviewCfg
+          5/hexagon socket head cap screw_jis_PreviewCfg 23/hexagon socket head cap
+          screw_jis_PreviewCfg 41
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  47/hexagon socket head cap screw_jis_PreviewCfg
+          5/hexagon socket head cap screw_jis_PreviewCfg 23/hexagon socket head cap
+          screw_jis_PreviewCfg 41/NONE 71
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  47/hexagon socket head cap screw_jis_PreviewCfg
+          5/hexagon socket head cap screw_jis_PreviewCfg 23/hexagon socket head cap
+          screw_jis_PreviewCfg 41/NONE 71/ 65
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  47/hexagon socket head cap screw_jis_PreviewCfg
+          5/hexagon socket head cap screw_jis_PreviewCfg 23/hexagon socket head cap
+          screw_jis_PreviewCfg 41/NONE 71/ 65/Hex 8
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  47/hexagon socket head cap screw_jis_PreviewCfg
+          5/hexagon socket head cap screw_jis_PreviewCfg 23/hexagon socket head cap
+          screw_jis_PreviewCfg 41/NONE 71/ 65/Hex 8/Hex-DC_Shell 2
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  48
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  48/hexagon socket head cap screw_jis_PreviewCfg
+          6
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  48/hexagon socket head cap screw_jis_PreviewCfg
+          6/hexagon socket head cap screw_jis_PreviewCfg 22
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  48/hexagon socket head cap screw_jis_PreviewCfg
+          6/hexagon socket head cap screw_jis_PreviewCfg 22/hexagon socket head cap
+          screw_jis_PreviewCfg 40
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  48/hexagon socket head cap screw_jis_PreviewCfg
+          6/hexagon socket head cap screw_jis_PreviewCfg 22/hexagon socket head cap
+          screw_jis_PreviewCfg 40/NONE 61
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  48/hexagon socket head cap screw_jis_PreviewCfg
+          6/hexagon socket head cap screw_jis_PreviewCfg 22/hexagon socket head cap
+          screw_jis_PreviewCfg 40/NONE 61/ 63
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  48/hexagon socket head cap screw_jis_PreviewCfg
+          6/hexagon socket head cap screw_jis_PreviewCfg 22/hexagon socket head cap
+          screw_jis_PreviewCfg 40/NONE 61/ 63/Hex 7
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  48/hexagon socket head cap screw_jis_PreviewCfg
+          6/hexagon socket head cap screw_jis_PreviewCfg 22/hexagon socket head cap
+          screw_jis_PreviewCfg 40/NONE 61/ 63/Hex 7/Hex-DC_Shell 6
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  49
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  49/hexagon socket head cap screw_jis_PreviewCfg
+          7
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  49/hexagon socket head cap screw_jis_PreviewCfg
+          7/hexagon socket head cap screw_jis_PreviewCfg 21
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  49/hexagon socket head cap screw_jis_PreviewCfg
+          7/hexagon socket head cap screw_jis_PreviewCfg 21/hexagon socket head cap
+          screw_jis_PreviewCfg 37
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  49/hexagon socket head cap screw_jis_PreviewCfg
+          7/hexagon socket head cap screw_jis_PreviewCfg 21/hexagon socket head cap
+          screw_jis_PreviewCfg 37/NONE 60
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  49/hexagon socket head cap screw_jis_PreviewCfg
+          7/hexagon socket head cap screw_jis_PreviewCfg 21/hexagon socket head cap
+          screw_jis_PreviewCfg 37/NONE 60/ 59
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  49/hexagon socket head cap screw_jis_PreviewCfg
+          7/hexagon socket head cap screw_jis_PreviewCfg 21/hexagon socket head cap
+          screw_jis_PreviewCfg 37/NONE 60/ 59/Hex 6
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  49/hexagon socket head cap screw_jis_PreviewCfg
+          7/hexagon socket head cap screw_jis_PreviewCfg 21/hexagon socket head cap
+          screw_jis_PreviewCfg 37/NONE 60/ 59/Hex 6/Hex-DC_Shell 16
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  50
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  50/hexagon socket head cap screw_jis_PreviewCfg
+          8
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  50/hexagon socket head cap screw_jis_PreviewCfg
+          8/hexagon socket head cap screw_jis_PreviewCfg 19
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  50/hexagon socket head cap screw_jis_PreviewCfg
+          8/hexagon socket head cap screw_jis_PreviewCfg 19/hexagon socket head cap
+          screw_jis_PreviewCfg 36
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  50/hexagon socket head cap screw_jis_PreviewCfg
+          8/hexagon socket head cap screw_jis_PreviewCfg 19/hexagon socket head cap
+          screw_jis_PreviewCfg 36/NONE 70
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  50/hexagon socket head cap screw_jis_PreviewCfg
+          8/hexagon socket head cap screw_jis_PreviewCfg 19/hexagon socket head cap
+          screw_jis_PreviewCfg 36/NONE 70/ 62
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  50/hexagon socket head cap screw_jis_PreviewCfg
+          8/hexagon socket head cap screw_jis_PreviewCfg 19/hexagon socket head cap
+          screw_jis_PreviewCfg 36/NONE 70/ 62/Hex 5
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  50/hexagon socket head cap screw_jis_PreviewCfg
+          8/hexagon socket head cap screw_jis_PreviewCfg 19/hexagon socket head cap
+          screw_jis_PreviewCfg 36/NONE 70/ 62/Hex 5/Hex-DC_Shell 5
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  51
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  51/hexagon socket head cap screw_jis_PreviewCfg
+          9
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  51/hexagon socket head cap screw_jis_PreviewCfg
+          9/hexagon socket head cap screw_jis_PreviewCfg 17
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  51/hexagon socket head cap screw_jis_PreviewCfg
+          9/hexagon socket head cap screw_jis_PreviewCfg 17/hexagon socket head cap
+          screw_jis_PreviewCfg 35
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  51/hexagon socket head cap screw_jis_PreviewCfg
+          9/hexagon socket head cap screw_jis_PreviewCfg 17/hexagon socket head cap
+          screw_jis_PreviewCfg 35/NONE 64
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  51/hexagon socket head cap screw_jis_PreviewCfg
+          9/hexagon socket head cap screw_jis_PreviewCfg 17/hexagon socket head cap
+          screw_jis_PreviewCfg 35/NONE 64/ 58
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  51/hexagon socket head cap screw_jis_PreviewCfg
+          9/hexagon socket head cap screw_jis_PreviewCfg 17/hexagon socket head cap
+          screw_jis_PreviewCfg 35/NONE 64/ 58/Hex 4
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  51/hexagon socket head cap screw_jis_PreviewCfg
+          9/hexagon socket head cap screw_jis_PreviewCfg 17/hexagon socket head cap
+          screw_jis_PreviewCfg 35/NONE 64/ 58/Hex 4/Hex-DC_Shell 7
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  52
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  52/hexagon socket head cap screw_jis_PreviewCfg
+          10
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  52/hexagon socket head cap screw_jis_PreviewCfg
+          10/hexagon socket head cap screw_jis_PreviewCfg 16
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  52/hexagon socket head cap screw_jis_PreviewCfg
+          10/hexagon socket head cap screw_jis_PreviewCfg 16/hexagon socket head cap
+          screw_jis_PreviewCfg 33
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  52/hexagon socket head cap screw_jis_PreviewCfg
+          10/hexagon socket head cap screw_jis_PreviewCfg 16/hexagon socket head cap
+          screw_jis_PreviewCfg 33/NONE 68
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  52/hexagon socket head cap screw_jis_PreviewCfg
+          10/hexagon socket head cap screw_jis_PreviewCfg 16/hexagon socket head cap
+          screw_jis_PreviewCfg 33/NONE 68/ 57
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  52/hexagon socket head cap screw_jis_PreviewCfg
+          10/hexagon socket head cap screw_jis_PreviewCfg 16/hexagon socket head cap
+          screw_jis_PreviewCfg 33/NONE 68/ 57/Hex 3
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  52/hexagon socket head cap screw_jis_PreviewCfg
+          10/hexagon socket head cap screw_jis_PreviewCfg 16/hexagon socket head cap
+          screw_jis_PreviewCfg 33/NONE 68/ 57/Hex 3/Hex-DC_Shell 11
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  53
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  53/hexagon socket head cap screw_jis_PreviewCfg
+          3
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  53/hexagon socket head cap screw_jis_PreviewCfg
+          3/hexagon socket head cap screw_jis_PreviewCfg 25
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  53/hexagon socket head cap screw_jis_PreviewCfg
+          3/hexagon socket head cap screw_jis_PreviewCfg 25/hexagon socket head cap
+          screw_jis_PreviewCfg 34
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  53/hexagon socket head cap screw_jis_PreviewCfg
+          3/hexagon socket head cap screw_jis_PreviewCfg 25/hexagon socket head cap
+          screw_jis_PreviewCfg 34/NONE 58
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  53/hexagon socket head cap screw_jis_PreviewCfg
+          3/hexagon socket head cap screw_jis_PreviewCfg 25/hexagon socket head cap
+          screw_jis_PreviewCfg 34/NONE 58/ 61
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  53/hexagon socket head cap screw_jis_PreviewCfg
+          3/hexagon socket head cap screw_jis_PreviewCfg 25/hexagon socket head cap
+          screw_jis_PreviewCfg 34/NONE 58/ 61/Hex 2
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  53/hexagon socket head cap screw_jis_PreviewCfg
+          3/hexagon socket head cap screw_jis_PreviewCfg 25/hexagon socket head cap
+          screw_jis_PreviewCfg 34/NONE 58/ 61/Hex 2/Hex-DC_Shell 12
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  68
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  68/L824140 1
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  68/L824140 1/L824140 3
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  68/L824140 1/L824140 3/L824140 5
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  68/L824140 1/L824140 3/L824140 5/NONE 53
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  68/L824140 1/L824140 3/L824140 5/NONE 53/
+          51
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  68/L824140 1/L824140 3/L824140 5/NONE 53/
+          51/1 11
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  68/L824140 1/L824140 3/L824140 5/NONE 53/
+          51/1 11/1-DC_Shell 10
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  69
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  69/O-RING 1
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  69/O-RING 1/O-RING 3
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  69/O-RING 1/O-RING 3/O-RING 5
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  69/O-RING 1/O-RING 3/O-RING 5/NONE 55
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  69/O-RING 1/O-RING 3/O-RING 5/NONE 55/
+          53
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  69/O-RING 1/O-RING 3/O-RING 5/NONE 55/
+          53/1 13
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  69/O-RING 1/O-RING 3/O-RING 5/NONE 55/
+          53/1 13/1-DC_Shell 12
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  70
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  70/L824070
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  70/L824070/L824070 2
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  70/L824070/L824070 2/L824070 5
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  70/L824070/L824070 2/L824070 5/NONE 47
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  70/L824070/L824070 2/L824070 5/NONE 47/
+          45
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  70/L824070/L824070 2/L824070 5/NONE 47/
+          45/2 3
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  70/L824070/L824070 2/L824070 5/NONE 47/
+          45/2 3/2-DC_Shell 2
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  71
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  71/hexagon socket head cap screw_jis_PreviewCfg
+          4
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  71/hexagon socket head cap screw_jis_PreviewCfg
+          4/hexagon socket head cap screw_jis_PreviewCfg 26
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  71/hexagon socket head cap screw_jis_PreviewCfg
+          4/hexagon socket head cap screw_jis_PreviewCfg 26/hexagon socket head cap
+          screw_jis_PreviewCfg 42
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  71/hexagon socket head cap screw_jis_PreviewCfg
+          4/hexagon socket head cap screw_jis_PreviewCfg 26/hexagon socket head cap
+          screw_jis_PreviewCfg 42/NONE 69
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  71/hexagon socket head cap screw_jis_PreviewCfg
+          4/hexagon socket head cap screw_jis_PreviewCfg 26/hexagon socket head cap
+          screw_jis_PreviewCfg 42/NONE 69/ 68
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  71/hexagon socket head cap screw_jis_PreviewCfg
+          4/hexagon socket head cap screw_jis_PreviewCfg 26/hexagon socket head cap
+          screw_jis_PreviewCfg 42/NONE 69/ 68/Hex 9
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  71/hexagon socket head cap screw_jis_PreviewCfg
+          4/hexagon socket head cap screw_jis_PreviewCfg 26/hexagon socket head cap
+          screw_jis_PreviewCfg 42/NONE 69/ 68/Hex 9/Hex-DC_Shell 4
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  72
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  72/L824081
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  72/L824081/L824081 2
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  72/L824081/L824081 2/L824081 4
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  72/L824081/L824081 2/L824081 4/NONE 48
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  72/L824081/L824081 2/L824081 4/NONE 48/
+          46
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  72/L824081/L824081 2/L824081 4/NONE 48/
+          46/M8x1.25 1 1
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  72/L824081/L824081 2/L824081 4/NONE 48/
+          46/M8x1.25 1 1/M8x1.25 1-DC_Shell 1
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73/L824090-75
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73/L824090-75/L824090-75 2
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73/L824090-75/L824090-75 2/L824090-75 5
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73/L824090-75/L824090-75 2/L824090-75 5/NONE
+          50
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73/L824090-75/L824090-75 2/L824090-75 5/NONE
+          50/ 49
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73/L824090-75/L824090-75 2/L824090-75 5/NONE
+          50/ 49/O8.0 (8) |1
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73/L824090-75/L824090-75 2/L824090-75 5/NONE
+          50/ 49/O8.0 (8) |1/NONE 82
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  73/L824090-75/L824090-75 2/L824090-75 5/NONE
+          50/ 49/O8.0 (8) |1/NONE 82/NONE-DC_Shell 11
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  74
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  74/USH50-40-6 1
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  74/USH50-40-6 1/USH50-40-6 3
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  74/USH50-40-6 1/USH50-40-6 3/USH50-40-6
+          5
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  74/USH50-40-6 1/USH50-40-6 3/USH50-40-6
+          5/NONE 56
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  74/USH50-40-6 1/USH50-40-6 3/USH50-40-6
+          5/NONE 56/ 54
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  74/USH50-40-6 1/USH50-40-6 3/USH50-40-6
+          5/NONE 56/ 54/1 15
+        weight: 1
+      - path: AST5A113028 1/  19/o 1/o 3/  74/USH50-40-6 1/USH50-40-6 3/USH50-40-6
+          5/NONE 56/ 54/1 15/1-DC_Shell 14
+        weight: 1
+      - path: AST5A113028 1/  20
+        weight: 1
+      - path: AST5A113028 1/  20/F420030
+        weight: 1
+      - path: AST5A113028 1/  20/F420030/F420030 1
+        weight: 1
+      - path: AST5A113028 1/  20/F420030/F420030 1/F420030 2
+        weight: 1
+      - path: AST5A113028 1/  20/F420030/F420030 1/F420030 2/NONE 5
+        weight: 1
+      - path: AST5A113028 1/  20/F420030/F420030 1/F420030 2/NONE 5/ 7
+        weight: 1
+      - path: AST5A113028 1/  20/F420030/F420030 1/F420030 2/NONE 5/ 7/sC1
+        weight: 1
+      - path: AST5A113028 1/  20/F420030/F420030 1/F420030 2/NONE 5/ 7/sC1/sC1-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  21
+        weight: 1
+      - path: AST5A113028 1/  21/L420027M-805
+        weight: 1
+      - path: AST5A113028 1/  21/L420027M-805/L420027M-805 1
+        weight: 1
+      - path: AST5A113028 1/  21/L420027M-805/L420027M-805 1/L420027M-805 2
+        weight: 1
+      - path: AST5A113028 1/  21/L420027M-805/L420027M-805 1/L420027M-805 2/NONE 8
+        weight: 1
+      - path: AST5A113028 1/  21/L420027M-805/L420027M-805 1/L420027M-805 2/NONE 8/
+          10
+        weight: 1
+      - path: AST5A113028 1/  21/L420027M-805/L420027M-805 1/L420027M-805 2/NONE 8/
+          10/M16x2.0 1
+        weight: 1
+      - path: AST5A113028 1/  21/L420027M-805/L420027M-805 1/L420027M-805 2/NONE 8/
+          10/M16x2.0 1/M16x2.0 1-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  22
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26/50-71 B5
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26/50-71 B5/50-71 B5 1
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26/50-71 B5/50-71 B5 1/50-71 B5 2
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26/50-71 B5/50-71 B5 1/50-71 B5 2/NONE 26
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26/50-71 B5/50-71 B5 1/50-71 B5 2/NONE 26/ 24
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26/50-71 B5/50-71 B5 1/50-71 B5 2/NONE 26/ 24/-12
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26/50-71 B5/50-71 B5 1/50-71 B5 2/NONE 26/ 24/-12/NONE 75
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  26/50-71 B5/50-71 B5 1/50-71 B5 2/NONE 26/ 24/-12/NONE 75/NONE-DC_Shell
+          10
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  27
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  27/VB 050-14 (14)
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  27/VB 050-14 (14)/VB 050-14 (14) 1
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  27/VB 050-14 (14)/VB 050-14 (14) 1/VB 050-14 (14) 2
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  27/VB 050-14 (14)/VB 050-14 (14) 1/VB 050-14 (14) 2/NONE 29
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  27/VB 050-14 (14)/VB 050-14 (14) 1/VB 050-14 (14) 2/NONE 29/ 27
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  27/VB 050-14 (14)/VB 050-14 (14) 1/VB 050-14 (14) 2/NONE 29/ 27/-1 3
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  27/VB 050-14 (14)/VB 050-14 (14) 1/VB 050-14 (14) 2/NONE 29/ 27/-1 3/-1-DC_Shell
+          3
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  28
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  28/FU 50FB
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  28/FU 50FB/FU 50FB 1
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  28/FU 50FB/FU 50FB 1/FU 50FB 2
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  28/FU 50FB/FU 50FB 1/FU 50FB 2/NONE 27
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  28/FU 50FB/FU 50FB 1/FU 50FB 2/NONE 27/ 25
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  28/FU 50FB/FU 50FB 1/FU 50FB 2/NONE 27/ 25/-9
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  28/FU 50FB/FU 50FB 1/FU 50FB 2/NONE 27/ 25/-9/-9-DC_Shell
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  29
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  29/050-25 (92)
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  29/050-25 (92)/050-25 (92) 1
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  29/050-25 (92)/050-25 (92) 1/050-25 (92) 2
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  29/050-25 (92)/050-25 (92) 1/050-25 (92) 2/NONE 25
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  29/050-25 (92)/050-25 (92) 1/050-25 (92) 2/NONE 25/ 23
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  29/050-25 (92)/050-25 (92) 1/050-25 (92) 2/NONE 25/ 23/-1 2
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  29/050-25 (92)/050-25 (92) 1/050-25 (92) 2/NONE 25/ 23/-1 2/-1-DC_Shell
+          2
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28/ 26
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28/ 26/NONE 74
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28/ 26/NONE 74/NONE-DC_Shell
+          4
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28/ 26/NONE 74/NONE-DC_Shell
+          5
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28/ 26/NONE 74/NONE-DC_Shell
+          6
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28/ 26/NONE 74/NONE-DC_Shell
+          7
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28/ 26/NONE 74/NONE-DC_Shell
+          8
+        weight: 1
+      - path: AST5A113028 1/  22/NMRV050501292513200300NO--/NMRV050501292513200300NO--
+          1/  30/Gear unit 50/Gear unit 50 1/Gear unit 50 2/NONE 28/ 26/NONE 74/NONE-DC_Shell
+          9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 3b4586ebaf647ba46b8a8c57635d33f9
+timeCreated: 1463663762
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  2'
+    100006: '  3'
+    100008: '  4'
+    100010: '  5'
+    100012: '  6'
+    100014: '  7'
+    100016: '  8'
+    100018: ' 1'
+    100020: ' 2'
+    100022: ' 3'
+    100024: ' 4'
+    100026: ' 5'
+    100028: ' 6'
+    100030: ' 7'
+    100032: ' 8'
+    100034: ' 9'
+    100036: -DC_Brep
+    100038: -DC_Brep 1
+    100040: -DC_Brep 2
+    100042: -DC_Brep 3
+    100044: -DC_Brep 4
+    100046: -DC_Brep 5
+    100048: -DC_Brep 6
+    100050: -DC_Brep 7
+    100052: -DC_Brep 8
+    100054: 920016A1^HGW30CC
+    100056: 920016A1^HGW30CC 1
+    100058: 920016A1^HGW30CC 2
+    100060: 920016A1^HGW30CC 3
+    100062: AST79361628 1
+    100064: Block-HGW30CCZ0C^HGW30CC
+    100066: Block-HGW30CCZ0C^HGW30CC 1
+    100068: Bolt-HG30^HGW30CC
+    100070: Bolt-HG30^HGW30CC 1
+    100072: Bolt-HG30^HGW30CC 2
+    100074: Bolt-HG30^HGW30CC 3
+    100076: Bolt-HG30^HGW30CC 4
+    100078: Bolt-HG30^HGW30CC 5
+    100080: Bolt-HG30^HGW30CC 6
+    100082: Bolt-HG30^HGW30CC 7
+    100084: HG30-34320001^HGW30CC
+    100086: HG30-34320001^HGW30CC 1
+    100088: HG30-PlugScrew^HGW30CC
+    100090: HG30-PlugScrew^HGW30CC 1
+    100092: //RootNode
+    100094: NONE
+    100096: NONE 1
+    100098: NONE 2
+    100100: NONE 3
+    100102: NONE 4
+    100104: NONE 5
+    100106: NONE 6
+    100108: NONE 7
+    100110: NONE 8
+    400000: ' '
+    400002: '  1'
+    400004: '  2'
+    400006: '  3'
+    400008: '  4'
+    400010: '  5'
+    400012: '  6'
+    400014: '  7'
+    400016: '  8'
+    400018: ' 1'
+    400020: ' 2'
+    400022: ' 3'
+    400024: ' 4'
+    400026: ' 5'
+    400028: ' 6'
+    400030: ' 7'
+    400032: ' 8'
+    400034: ' 9'
+    400036: -DC_Brep
+    400038: -DC_Brep 1
+    400040: -DC_Brep 2
+    400042: -DC_Brep 3
+    400044: -DC_Brep 4
+    400046: -DC_Brep 5
+    400048: -DC_Brep 6
+    400050: -DC_Brep 7
+    400052: -DC_Brep 8
+    400054: 920016A1^HGW30CC
+    400056: 920016A1^HGW30CC 1
+    400058: 920016A1^HGW30CC 2
+    400060: 920016A1^HGW30CC 3
+    400062: AST79361628 1
+    400064: Block-HGW30CCZ0C^HGW30CC
+    400066: Block-HGW30CCZ0C^HGW30CC 1
+    400068: Bolt-HG30^HGW30CC
+    400070: Bolt-HG30^HGW30CC 1
+    400072: Bolt-HG30^HGW30CC 2
+    400074: Bolt-HG30^HGW30CC 3
+    400076: Bolt-HG30^HGW30CC 4
+    400078: Bolt-HG30^HGW30CC 5
+    400080: Bolt-HG30^HGW30CC 6
+    400082: Bolt-HG30^HGW30CC 7
+    400084: HG30-34320001^HGW30CC
+    400086: HG30-34320001^HGW30CC 1
+    400088: HG30-PlugScrew^HGW30CC
+    400090: HG30-PlugScrew^HGW30CC 1
+    400092: //RootNode
+    400094: NONE
+    400096: NONE 1
+    400098: NONE 2
+    400100: NONE 3
+    400102: NONE 4
+    400104: NONE 5
+    400106: NONE 6
+    400108: NONE 7
+    400110: NONE 8
+    2300000: -DC_Brep
+    2300002: -DC_Brep 1
+    2300004: -DC_Brep 2
+    2300006: -DC_Brep 3
+    2300008: -DC_Brep 4
+    2300010: -DC_Brep 5
+    2300012: -DC_Brep 6
+    2300014: -DC_Brep 7
+    2300016: -DC_Brep 8
+    3300000: -DC_Brep
+    3300002: -DC_Brep 1
+    3300004: -DC_Brep 2
+    3300006: -DC_Brep 3
+    3300008: -DC_Brep 4
+    3300010: -DC_Brep 5
+    3300012: -DC_Brep 6
+    3300014: -DC_Brep 7
+    3300016: -DC_Brep 8
+    4300000: -DC_Brep
+    4300002: -DC_Brep
+    4300004: -DC_Brep
+    4300006: -DC_Brep
+    4300008: -DC_Brep
+    4300010: -DC_Brep
+    4300012: -DC_Brep
+    4300014: -DC_Brep
+    4300016: -DC_Brep
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 1df86ac4fbc73cc43aab17defd9c987b
+timeCreated: 1463663727
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  2'
+    100006: '  3'
+    100008: '  4'
+    100010: ' 1'
+    100012: ' 2'
+    100014: ' 3'
+    100016: ' 4'
+    100018: ' 5'
+    100020: -1
+    100022: -1-DC_Shell
+    100024: -X1
+    100026: -X1 1
+    100028: -X1-DC_Shell
+    100030: -X1-DC_Shell 1
+    100032: 1
+    100034: 411000273
+    100036: 411000273 1
+    100038: 411000273 2
+    100040: AST5E642952 1
+    100042: B100181
+    100044: B100181 1
+    100046: B100181 2
+    100048: B100183
+    100050: B100183 1
+    100052: B100183 2
+    100054: EndChamfer
+    100056: EndChamfer-DC_Shell
+    100058: F140260
+    100060: F140260 1
+    100062: F140260 2
+    100064: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N
+    100066: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 1
+    100068: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 2
+    100070: NONE
+    100072: NONE 1
+    100074: NONE 2
+    100076: NONE 3
+    100078: NONE 4
+    100080: NONE 5
+    100082: NONE-DC_Shell
+    100084: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  2'
+    400006: '  3'
+    400008: '  4'
+    400010: ' 1'
+    400012: ' 2'
+    400014: ' 3'
+    400016: ' 4'
+    400018: ' 5'
+    400020: -1
+    400022: -1-DC_Shell
+    400024: -X1
+    400026: -X1 1
+    400028: -X1-DC_Shell
+    400030: -X1-DC_Shell 1
+    400032: 1
+    400034: 411000273
+    400036: 411000273 1
+    400038: 411000273 2
+    400040: AST5E642952 1
+    400042: B100181
+    400044: B100181 1
+    400046: B100181 2
+    400048: B100183
+    400050: B100183 1
+    400052: B100183 2
+    400054: EndChamfer
+    400056: EndChamfer-DC_Shell
+    400058: F140260
+    400060: F140260 1
+    400062: F140260 2
+    400064: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N
+    400066: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 1
+    400068: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 2
+    400070: NONE
+    400072: NONE 1
+    400074: NONE 2
+    400076: NONE 3
+    400078: NONE 4
+    400080: NONE 5
+    400082: NONE-DC_Shell
+    400084: //RootNode
+    2300000: -1-DC_Shell
+    2300002: -X1-DC_Shell
+    2300004: -X1-DC_Shell 1
+    2300006: EndChamfer-DC_Shell
+    2300008: NONE-DC_Shell
+    3300000: -1-DC_Shell
+    3300002: -X1-DC_Shell
+    3300004: -X1-DC_Shell 1
+    3300006: EndChamfer-DC_Shell
+    3300008: NONE-DC_Shell
+    4300000: -1-DC_Shell
+    4300002: -X1-DC_Shell
+    4300004: -X1-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: EndChamfer-DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 8d22f3c06e311b347a2913a5be6ebb45
+timeCreated: 1463663843
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  2'
+    100010: '  3'
+    100012: '  4'
+    100014: '  5'
+    100016: '  6'
+    100018: '  7'
+    100020: '  8'
+    100022: '  9'
+    100024: ' 1'
+    100026: ' 10'
+    100028: ' 11'
+    100030: ' 12'
+    100032: ' 2'
+    100034: ' 3'
+    100036: ' 4'
+    100038: ' 5'
+    100040: ' 6'
+    100042: ' 7'
+    100044: ' 8'
+    100046: ' 9'
+    100048: -DC_Brep
+    100050: -DC_Brep 1
+    100052: -DC_Brep 10
+    100054: -DC_Brep 11
+    100056: -DC_Brep 2
+    100058: -DC_Brep 3
+    100060: -DC_Brep 4
+    100062: -DC_Brep 5
+    100064: -DC_Brep 6
+    100066: -DC_Brep 7
+    100068: -DC_Brep 8
+    100070: -DC_Brep 9
+    100072: AST90EA1556 1
+    100074: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N
+    100076: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1
+    100078: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2
+    100080: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3
+    100082: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4
+    100084: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5
+    100086: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6
+    100088: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7
+    100090: NONE
+    100092: NONE 1
+    100094: NONE 10
+    100096: NONE 11
+    100098: NONE 2
+    100100: NONE 3
+    100102: NONE 4
+    100104: NONE 5
+    100106: NONE 6
+    100108: NONE 7
+    100110: NONE 8
+    100112: NONE 9
+    100114: spring lock washer_2_jis_JIS B 1251 No.2 12
+    100116: spring lock washer_2_jis_JIS B 1251 No.2 12 1
+    100118: spring lock washer_2_jis_JIS B 1251 No.2 12 2
+    100120: spring lock washer_2_jis_JIS B 1251 No.2 12 3
+    100122: spring lock washer_2_jis_JIS B 1251 No.2 12 4
+    100124: spring lock washer_2_jis_JIS B 1251 No.2 12 5
+    100126: spring lock washer_2_jis_JIS B 1251 No.2 12 6
+    100128: spring lock washer_2_jis_JIS B 1251 No.2 12 7
+    100130: taper pin_ab_jis_JIS B 1352 B 6x65
+    100132: taper pin_ab_jis_JIS B 1352 B 6x65 1
+    100134: taper pin_ab_jis_JIS B 1352 B 6x65 2
+    100136: taper pin_ab_jis_JIS B 1352 B 6x65 3
+    100138: //RootNode
+    100140: Z200100-80-1^Z200100-80
+    100142: Z200100-80-1^Z200100-80 1
+    100144: Z200100-80-2^Z200100-80
+    100146: Z200100-80-2^Z200100-80 1
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  2'
+    400010: '  3'
+    400012: '  4'
+    400014: '  5'
+    400016: '  6'
+    400018: '  7'
+    400020: '  8'
+    400022: '  9'
+    400024: ' 1'
+    400026: ' 10'
+    400028: ' 11'
+    400030: ' 12'
+    400032: ' 2'
+    400034: ' 3'
+    400036: ' 4'
+    400038: ' 5'
+    400040: ' 6'
+    400042: ' 7'
+    400044: ' 8'
+    400046: ' 9'
+    400048: -DC_Brep
+    400050: -DC_Brep 1
+    400052: -DC_Brep 10
+    400054: -DC_Brep 11
+    400056: -DC_Brep 2
+    400058: -DC_Brep 3
+    400060: -DC_Brep 4
+    400062: -DC_Brep 5
+    400064: -DC_Brep 6
+    400066: -DC_Brep 7
+    400068: -DC_Brep 8
+    400070: -DC_Brep 9
+    400072: AST90EA1556 1
+    400074: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N
+    400076: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1
+    400078: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2
+    400080: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3
+    400082: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4
+    400084: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5
+    400086: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6
+    400088: hexagon socket head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7
+    400090: NONE
+    400092: NONE 1
+    400094: NONE 10
+    400096: NONE 11
+    400098: NONE 2
+    400100: NONE 3
+    400102: NONE 4
+    400104: NONE 5
+    400106: NONE 6
+    400108: NONE 7
+    400110: NONE 8
+    400112: NONE 9
+    400114: spring lock washer_2_jis_JIS B 1251 No.2 12
+    400116: spring lock washer_2_jis_JIS B 1251 No.2 12 1
+    400118: spring lock washer_2_jis_JIS B 1251 No.2 12 2
+    400120: spring lock washer_2_jis_JIS B 1251 No.2 12 3
+    400122: spring lock washer_2_jis_JIS B 1251 No.2 12 4
+    400124: spring lock washer_2_jis_JIS B 1251 No.2 12 5
+    400126: spring lock washer_2_jis_JIS B 1251 No.2 12 6
+    400128: spring lock washer_2_jis_JIS B 1251 No.2 12 7
+    400130: taper pin_ab_jis_JIS B 1352 B 6x65
+    400132: taper pin_ab_jis_JIS B 1352 B 6x65 1
+    400134: taper pin_ab_jis_JIS B 1352 B 6x65 2
+    400136: taper pin_ab_jis_JIS B 1352 B 6x65 3
+    400138: //RootNode
+    400140: Z200100-80-1^Z200100-80
+    400142: Z200100-80-1^Z200100-80 1
+    400144: Z200100-80-2^Z200100-80
+    400146: Z200100-80-2^Z200100-80 1
+    2300000: -DC_Brep
+    2300002: -DC_Brep 1
+    2300004: -DC_Brep 10
+    2300006: -DC_Brep 11
+    2300008: -DC_Brep 2
+    2300010: -DC_Brep 3
+    2300012: -DC_Brep 4
+    2300014: -DC_Brep 5
+    2300016: -DC_Brep 6
+    2300018: -DC_Brep 7
+    2300020: -DC_Brep 8
+    2300022: -DC_Brep 9
+    3300000: -DC_Brep
+    3300002: -DC_Brep 1
+    3300004: -DC_Brep 10
+    3300006: -DC_Brep 11
+    3300008: -DC_Brep 2
+    3300010: -DC_Brep 3
+    3300012: -DC_Brep 4
+    3300014: -DC_Brep 5
+    3300016: -DC_Brep 6
+    3300018: -DC_Brep 7
+    3300020: -DC_Brep 8
+    3300022: -DC_Brep 9
+    4300000: -DC_Brep
+    4300002: -DC_Brep
+    4300004: -DC_Brep
+    4300006: -DC_Brep
+    4300008: -DC_Brep
+    4300010: -DC_Brep
+    4300012: -DC_Brep
+    4300014: -DC_Brep
+    4300016: -DC_Brep
+    4300018: -DC_Brep
+    4300020: -DC_Brep
+    4300022: -DC_Brep
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

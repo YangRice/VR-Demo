@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: d446a604b895f9e4fa9c3ce3139d0eba
+timeCreated: 1463664305
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  2'
+    100018: '  3'
+    100020: '  4'
+    100022: '  5'
+    100024: '  6'
+    100026: '  7'
+    100028: '  8'
+    100030: '  9'
+    100032: ' 1'
+    100034: ' 10'
+    100036: ' 11'
+    100038: ' 12'
+    100040: ' 13'
+    100042: ' 14'
+    100044: ' 15'
+    100046: ' 16'
+    100048: ' 2'
+    100050: ' 3'
+    100052: ' 4'
+    100054: ' 5'
+    100056: ' 6'
+    100058: ' 7'
+    100060: ' 8'
+    100062: ' 9'
+    100064: -6
+    100066: -6-DC_Shell
+    100068: -X1
+    100070: -X1 1
+    100072: -X1-DC_Shell
+    100074: -X1-DC_Shell 1
+    100076: 1
+    100078: 1 1
+    100080: 1 2
+    100082: 1 3
+    100084: 1 4
+    100086: 1 5
+    100088: 1-DC_Shell
+    100090: 1-DC_Shell 1
+    100092: 1-DC_Shell 2
+    100094: 1-DC_Shell 3
+    100096: 1-DC_Shell 4
+    100098: 1-DC_Shell 5
+    100100: 411000150
+    100102: 411000150 1
+    100104: 411000150 2
+    100106: 411000161
+    100108: 411000161 1
+    100110: 411000161 2
+    100112: 411000170
+    100114: 411000170 1
+    100116: 411000170 2
+    100118: 411000170 3
+    100120: 411000170 4
+    100122: 411000170 5
+    100124: 411000180
+    100126: 411000180 1
+    100128: 411000180 2
+    100130: 411000180 3
+    100132: 411000180 4
+    100134: 411000180 5
+    100136: 411000180-1
+    100138: 411000180-1 1
+    100140: 411000180-1 2
+    100142: 411000180-1 3
+    100144: 411000180-1 4
+    100146: 411000180-1 5
+    100148: 411000840
+    100150: 411000840 1
+    100152: 411000840 10
+    100154: 411000840 11
+    100156: 411000840 2
+    100158: 411000840 3
+    100160: 411000840 4
+    100162: 411000840 5
+    100164: 411000840 6
+    100166: 411000840 7
+    100168: 411000840 8
+    100170: 411000840 9
+    100172: ASTCEB43144 1
+    100174: EndChamfer
+    100176: EndChamfer 1
+    100178: EndChamfer 2
+    100180: EndChamfer 3
+    100182: EndChamfer-DC_Shell
+    100184: EndChamfer-DC_Shell 1
+    100186: EndChamfer-DC_Shell 2
+    100188: EndChamfer-DC_Shell 3
+    100190: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N
+    100192: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 1
+    100194: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 10
+    100196: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 11
+    100198: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 2
+    100200: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 3
+    100202: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 4
+    100204: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 5
+    100206: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 6
+    100208: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 7
+    100210: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 8
+    100212: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 9
+    100214: M16 1
+    100216: M16 1 1
+    100218: M8 1
+    100220: NONE
+    100222: NONE 1
+    100224: NONE 10
+    100226: NONE 11
+    100228: NONE 12
+    100230: NONE 13
+    100232: NONE 14
+    100234: NONE 15
+    100236: NONE 16
+    100238: NONE 17
+    100240: NONE 18
+    100242: NONE 2
+    100244: NONE 3
+    100246: NONE 4
+    100248: NONE 5
+    100250: NONE 6
+    100252: NONE 7
+    100254: NONE 8
+    100256: NONE 9
+    100258: NONE-DC_Shell
+    100260: NONE-DC_Shell 1
+    100262: NONE-DC_Shell 2
+    100264: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  2'
+    400018: '  3'
+    400020: '  4'
+    400022: '  5'
+    400024: '  6'
+    400026: '  7'
+    400028: '  8'
+    400030: '  9'
+    400032: ' 1'
+    400034: ' 10'
+    400036: ' 11'
+    400038: ' 12'
+    400040: ' 13'
+    400042: ' 14'
+    400044: ' 15'
+    400046: ' 16'
+    400048: ' 2'
+    400050: ' 3'
+    400052: ' 4'
+    400054: ' 5'
+    400056: ' 6'
+    400058: ' 7'
+    400060: ' 8'
+    400062: ' 9'
+    400064: -6
+    400066: -6-DC_Shell
+    400068: -X1
+    400070: -X1 1
+    400072: -X1-DC_Shell
+    400074: -X1-DC_Shell 1
+    400076: 1
+    400078: 1 1
+    400080: 1 2
+    400082: 1 3
+    400084: 1 4
+    400086: 1 5
+    400088: 1-DC_Shell
+    400090: 1-DC_Shell 1
+    400092: 1-DC_Shell 2
+    400094: 1-DC_Shell 3
+    400096: 1-DC_Shell 4
+    400098: 1-DC_Shell 5
+    400100: 411000150
+    400102: 411000150 1
+    400104: 411000150 2
+    400106: 411000161
+    400108: 411000161 1
+    400110: 411000161 2
+    400112: 411000170
+    400114: 411000170 1
+    400116: 411000170 2
+    400118: 411000170 3
+    400120: 411000170 4
+    400122: 411000170 5
+    400124: 411000180
+    400126: 411000180 1
+    400128: 411000180 2
+    400130: 411000180 3
+    400132: 411000180 4
+    400134: 411000180 5
+    400136: 411000180-1
+    400138: 411000180-1 1
+    400140: 411000180-1 2
+    400142: 411000180-1 3
+    400144: 411000180-1 4
+    400146: 411000180-1 5
+    400148: 411000840
+    400150: 411000840 1
+    400152: 411000840 10
+    400154: 411000840 11
+    400156: 411000840 2
+    400158: 411000840 3
+    400160: 411000840 4
+    400162: 411000840 5
+    400164: 411000840 6
+    400166: 411000840 7
+    400168: 411000840 8
+    400170: 411000840 9
+    400172: ASTCEB43144 1
+    400174: EndChamfer
+    400176: EndChamfer 1
+    400178: EndChamfer 2
+    400180: EndChamfer 3
+    400182: EndChamfer-DC_Shell
+    400184: EndChamfer-DC_Shell 1
+    400186: EndChamfer-DC_Shell 2
+    400188: EndChamfer-DC_Shell 3
+    400190: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N
+    400192: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 1
+    400194: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 10
+    400196: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 11
+    400198: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 2
+    400200: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 3
+    400202: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 4
+    400204: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 5
+    400206: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 6
+    400208: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 7
+    400210: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 8
+    400212: hex nut style 1 gradeab_iso_ISO - 4032 - M16 - D - N 9
+    400214: M16 1
+    400216: M16 1 1
+    400218: M8 1
+    400220: NONE
+    400222: NONE 1
+    400224: NONE 10
+    400226: NONE 11
+    400228: NONE 12
+    400230: NONE 13
+    400232: NONE 14
+    400234: NONE 15
+    400236: NONE 16
+    400238: NONE 17
+    400240: NONE 18
+    400242: NONE 2
+    400244: NONE 3
+    400246: NONE 4
+    400248: NONE 5
+    400250: NONE 6
+    400252: NONE 7
+    400254: NONE 8
+    400256: NONE 9
+    400258: NONE-DC_Shell
+    400260: NONE-DC_Shell 1
+    400262: NONE-DC_Shell 2
+    400264: //RootNode
+    2300000: -6-DC_Shell
+    2300002: -X1-DC_Shell
+    2300004: -X1-DC_Shell 1
+    2300006: 1-DC_Shell
+    2300008: 1-DC_Shell 1
+    2300010: 1-DC_Shell 2
+    2300012: 1-DC_Shell 3
+    2300014: 1-DC_Shell 4
+    2300016: 1-DC_Shell 5
+    2300018: EndChamfer-DC_Shell
+    2300020: EndChamfer-DC_Shell 1
+    2300022: EndChamfer-DC_Shell 2
+    2300024: EndChamfer-DC_Shell 3
+    2300026: NONE-DC_Shell
+    2300028: NONE-DC_Shell 1
+    2300030: NONE-DC_Shell 2
+    3300000: -6-DC_Shell
+    3300002: -X1-DC_Shell
+    3300004: -X1-DC_Shell 1
+    3300006: 1-DC_Shell
+    3300008: 1-DC_Shell 1
+    3300010: 1-DC_Shell 2
+    3300012: 1-DC_Shell 3
+    3300014: 1-DC_Shell 4
+    3300016: 1-DC_Shell 5
+    3300018: EndChamfer-DC_Shell
+    3300020: EndChamfer-DC_Shell 1
+    3300022: EndChamfer-DC_Shell 2
+    3300024: EndChamfer-DC_Shell 3
+    3300026: NONE-DC_Shell
+    3300028: NONE-DC_Shell 1
+    3300030: NONE-DC_Shell 2
+    4300000: NONE-DC_Shell
+    4300002: -6-DC_Shell
+    4300004: 1-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: -X1-DC_Shell
+    4300010: 1-DC_Shell
+    4300012: NONE-DC_Shell
+    4300014: -X1-DC_Shell
+    4300016: 1-DC_Shell
+    4300018: 1-DC_Shell
+    4300020: 1-DC_Shell
+    4300022: 1-DC_Shell
+    4300024: EndChamfer-DC_Shell
+    4300026: EndChamfer-DC_Shell
+    4300028: EndChamfer-DC_Shell
+    4300030: EndChamfer-DC_Shell
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
