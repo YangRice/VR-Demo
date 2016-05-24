@@ -1,8 +1,8 @@
-材質: 先套鐵灰色看看
+﻿材質: 先套鐵灰色看看
 part顯示方式: 選單(5)
-part說明: BOM表，爆炸後->hover會highlight
+part說明: 爆炸後->hover會highlight
 ARG794 <- 整機
-整機 -> 部分(5) -> list (BOM)
+整機 -> 部分(5)
 
 整機: 
 展示影片

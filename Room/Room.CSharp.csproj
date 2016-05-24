@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\ChangeMaterial.cs" />
+    <Compile Include="Assets\Script\ChangeScene.cs" />
     <Compile Include="Assets\Script\ContextButton.cs" />
     <Compile Include="Assets\Script\DropdownEvent.cs" />
     <Compile Include="Assets\Script\FeatureReader.cs" />
@@ -69,6 +70,7 @@
     <Compile Include="Assets\Script\MaterialButton.cs" />
     <Compile Include="Assets\Script\ModelButton.cs" />
     <Compile Include="Assets\Script\MouseControl.cs" />
+    <Compile Include="Assets\Script\MouseEvent.cs" />
     <Compile Include="Assets\Script\MoveToCamera.cs" />
     <Compile Include="Assets\Script\PlayMovie.cs" />
     <Compile Include="Assets\Script\explodeAinmate.cs" />
