@@ -40,9 +40,9 @@ public class MouseControl : MonoBehaviour
                 camera.position = camera.position.normalized * minDistance;
         }
 
-        speed *= momentum;
+        speed *= Mathf.Abs(momentum);
         if (Input.GetMouseButton(0) && !ignoreMouse)
-            speed += new Vector2(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y"));
+            speed += new Vector2(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y")) * Mathf.Sign(momentum);
 
         transform.Rotate(new Vector3(-speed.y, speed.x, 0));
 

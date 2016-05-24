@@ -61,8 +61,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Machines\original model\explodeAinmate.cs" />
+    <Compile Include="Assets\Script\ChangeMaterial.cs" />
     <Compile Include="Assets\Script\ContextButton.cs" />
+    <Compile Include="Assets\Script\DropdownEvent.cs" />
     <Compile Include="Assets\Script\FeatureReader.cs" />
     <Compile Include="Assets\Script\LookAtButton.cs" />
     <Compile Include="Assets\Script\MaterialButton.cs" />
@@ -70,6 +71,7 @@
     <Compile Include="Assets\Script\MouseControl.cs" />
     <Compile Include="Assets\Script\MoveToCamera.cs" />
     <Compile Include="Assets\Script\PlayMovie.cs" />
+    <Compile Include="Assets\Script\explodeAinmate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Machines\myMaterials\SimplePhysicalShader\SimplePhysicalShader.shader" />
