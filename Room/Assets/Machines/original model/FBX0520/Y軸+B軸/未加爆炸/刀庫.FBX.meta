@@ -1,0 +1,4694 @@
+fileFormatVersion: 2
+guid: e79a685d92690ca49b345382280840ab
+timeCreated: 1465912081
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  100'
+    100008: '  101'
+    100010: '  102'
+    100012: '  103'
+    100014: '  104'
+    100016: '  105'
+    100018: '  106'
+    100020: '  107'
+    100022: '  108'
+    100024: '  109'
+    100026: '  11'
+    100028: '  110'
+    100030: '  111'
+    100032: '  112'
+    100034: '  113'
+    100036: '  114'
+    100038: '  115'
+    100040: '  116'
+    100042: '  117'
+    100044: '  118'
+    100046: '  119'
+    100048: '  12'
+    100050: '  120'
+    100052: '  121'
+    100054: '  122'
+    100056: '  123'
+    100058: '  124'
+    100060: '  125'
+    100062: '  126'
+    100064: '  127'
+    100066: '  128'
+    100068: '  129'
+    100070: '  13'
+    100072: '  130'
+    100074: '  131'
+    100076: '  132'
+    100078: '  133'
+    100080: '  134'
+    100082: '  135'
+    100084: '  136'
+    100086: '  137'
+    100088: '  138'
+    100090: '  139'
+    100092: '  14'
+    100094: '  140'
+    100096: '  141'
+    100098: '  142'
+    100100: '  143'
+    100102: '  144'
+    100104: '  145'
+    100106: '  146'
+    100108: '  147'
+    100110: '  148'
+    100112: '  149'
+    100114: '  15'
+    100116: '  150'
+    100118: '  151'
+    100120: '  152'
+    100122: '  153'
+    100124: '  154'
+    100126: '  155'
+    100128: '  156'
+    100130: '  157'
+    100132: '  158'
+    100134: '  159'
+    100136: '  16'
+    100138: '  160'
+    100140: '  161'
+    100142: '  162'
+    100144: '  163'
+    100146: '  164'
+    100148: '  165'
+    100150: '  166'
+    100152: '  167'
+    100154: '  168'
+    100156: '  169'
+    100158: '  17'
+    100160: '  170'
+    100162: '  171'
+    100164: '  172'
+    100166: '  173'
+    100168: '  174'
+    100170: '  175'
+    100172: '  176'
+    100174: '  177'
+    100176: '  178'
+    100178: '  179'
+    100180: '  18'
+    100182: '  180'
+    100184: '  181'
+    100186: '  182'
+    100188: '  183'
+    100190: '  184'
+    100192: '  185'
+    100194: '  186'
+    100196: '  187'
+    100198: '  188'
+    100200: '  189'
+    100202: '  19'
+    100204: '  190'
+    100206: '  191'
+    100208: '  192'
+    100210: '  193'
+    100212: '  194'
+    100214: '  195'
+    100216: '  196'
+    100218: '  197'
+    100220: '  198'
+    100222: '  199'
+    100224: '  2'
+    100226: '  20'
+    100228: '  200'
+    100230: '  201'
+    100232: '  202'
+    100234: '  203'
+    100236: '  204'
+    100238: '  205'
+    100240: '  206'
+    100242: '  207'
+    100244: '  208'
+    100246: '  209'
+    100248: '  21'
+    100250: '  210'
+    100252: '  211'
+    100254: '  212'
+    100256: '  213'
+    100258: '  214'
+    100260: '  215'
+    100262: '  216'
+    100264: '  217'
+    100266: '  218'
+    100268: '  219'
+    100270: '  22'
+    100272: '  220'
+    100274: '  221'
+    100276: '  222'
+    100278: '  223'
+    100280: '  224'
+    100282: '  225'
+    100284: '  226'
+    100286: '  227'
+    100288: '  228'
+    100290: '  229'
+    100292: '  23'
+    100294: '  24'
+    100296: '  25'
+    100298: '  26'
+    100300: '  27'
+    100302: '  28'
+    100304: '  29'
+    100306: '  3'
+    100308: '  30'
+    100310: '  31'
+    100312: '  32'
+    100314: '  33'
+    100316: '  34'
+    100318: '  35'
+    100320: '  36'
+    100322: '  37'
+    100324: '  38'
+    100326: '  39'
+    100328: '  4'
+    100330: '  40'
+    100332: '  41'
+    100334: '  42'
+    100336: '  43'
+    100338: '  44'
+    100340: '  45'
+    100342: '  46'
+    100344: '  47'
+    100346: '  48'
+    100348: '  49'
+    100350: '  5'
+    100352: '  50'
+    100354: '  51'
+    100356: '  52'
+    100358: '  53'
+    100360: '  54'
+    100362: '  55'
+    100364: '  56'
+    100366: '  57'
+    100368: '  58'
+    100370: '  59'
+    100372: '  6'
+    100374: '  60'
+    100376: '  61'
+    100378: '  62'
+    100380: '  63'
+    100382: '  64'
+    100384: '  65'
+    100386: '  66'
+    100388: '  67'
+    100390: '  68'
+    100392: '  69'
+    100394: '  7'
+    100396: '  70'
+    100398: '  71'
+    100400: '  72'
+    100402: '  73'
+    100404: '  74'
+    100406: '  75'
+    100408: '  76'
+    100410: '  77'
+    100412: '  78'
+    100414: '  79'
+    100416: '  8'
+    100418: '  80'
+    100420: '  81'
+    100422: '  82'
+    100424: '  83'
+    100426: '  84'
+    100428: '  85'
+    100430: '  86'
+    100432: '  87'
+    100434: '  88'
+    100436: '  89'
+    100438: '  9'
+    100440: '  90'
+    100442: '  91'
+    100444: '  92'
+    100446: '  93'
+    100448: '  94'
+    100450: '  95'
+    100452: '  96'
+    100454: '  97'
+    100456: '  98'
+    100458: '  99'
+    100460: ' (4) |1'
+    100462: ' (4) |1-DC_Shell'
+    100464: ' 1'
+    100466: ' 10'
+    100468: ' 100'
+    100470: ' 101'
+    100472: ' 102'
+    100474: ' 103'
+    100476: ' 104'
+    100478: ' 105'
+    100480: ' 106'
+    100482: ' 107'
+    100484: ' 108'
+    100486: ' 109'
+    100488: ' 11'
+    100490: ' 110'
+    100492: ' 111'
+    100494: ' 112'
+    100496: ' 113'
+    100498: ' 114'
+    100500: ' 115'
+    100502: ' 116'
+    100504: ' 117'
+    100506: ' 118'
+    100508: ' 119'
+    100510: ' 12'
+    100512: ' 120'
+    100514: ' 121'
+    100516: ' 122'
+    100518: ' 123'
+    100520: ' 124'
+    100522: ' 125'
+    100524: ' 126'
+    100526: ' 127'
+    100528: ' 128'
+    100530: ' 129'
+    100532: ' 13'
+    100534: ' 130'
+    100536: ' 131'
+    100538: ' 132'
+    100540: ' 133'
+    100542: ' 134'
+    100544: ' 135'
+    100546: ' 136'
+    100548: ' 137'
+    100550: ' 138'
+    100552: ' 139'
+    100554: ' 14'
+    100556: ' 140'
+    100558: ' 141'
+    100560: ' 142'
+    100562: ' 143'
+    100564: ' 144'
+    100566: ' 145'
+    100568: ' 146'
+    100570: ' 147'
+    100572: ' 148'
+    100574: ' 149'
+    100576: ' 15'
+    100578: ' 150'
+    100580: ' 151'
+    100582: ' 152'
+    100584: ' 153'
+    100586: ' 154'
+    100588: ' 155'
+    100590: ' 156'
+    100592: ' 157'
+    100594: ' 158'
+    100596: ' 159'
+    100598: ' 16'
+    100600: ' 160'
+    100602: ' 161'
+    100604: ' 162'
+    100606: ' 163'
+    100608: ' 164'
+    100610: ' 165'
+    100612: ' 166'
+    100614: ' 167'
+    100616: ' 168'
+    100618: ' 169'
+    100620: ' 17'
+    100622: ' 170'
+    100624: ' 171'
+    100626: ' 172'
+    100628: ' 173'
+    100630: ' 174'
+    100632: ' 175'
+    100634: ' 176'
+    100636: ' 177'
+    100638: ' 178'
+    100640: ' 179'
+    100642: ' 18'
+    100644: ' 180'
+    100646: ' 181'
+    100648: ' 182'
+    100650: ' 183'
+    100652: ' 184'
+    100654: ' 185'
+    100656: ' 186'
+    100658: ' 187'
+    100660: ' 188'
+    100662: ' 189'
+    100664: ' 19'
+    100666: ' 190'
+    100668: ' 191'
+    100670: ' 192'
+    100672: ' 193'
+    100674: ' 194'
+    100676: ' 195'
+    100678: ' 196'
+    100680: ' 197'
+    100682: ' 198'
+    100684: ' 199'
+    100686: ' 2'
+    100688: ' 20'
+    100690: ' 200'
+    100692: ' 201'
+    100694: ' 202'
+    100696: ' 203'
+    100698: ' 204'
+    100700: ' 205'
+    100702: ' 206'
+    100704: ' 207'
+    100706: ' 208'
+    100708: ' 209'
+    100710: ' 21'
+    100712: ' 210'
+    100714: ' 211'
+    100716: ' 212'
+    100718: ' 213'
+    100720: ' 214'
+    100722: ' 215'
+    100724: ' 216'
+    100726: ' 217'
+    100728: ' 218'
+    100730: ' 219'
+    100732: ' 22'
+    100734: ' 220'
+    100736: ' 221'
+    100738: ' 222'
+    100740: ' 23'
+    100742: ' 24'
+    100744: ' 25'
+    100746: ' 26'
+    100748: ' 27'
+    100750: ' 28'
+    100752: ' 29'
+    100754: ' 3'
+    100756: ' 30'
+    100758: ' 31'
+    100760: ' 32'
+    100762: ' 33'
+    100764: ' 34'
+    100766: ' 35'
+    100768: ' 36'
+    100770: ' 37'
+    100772: ' 38'
+    100774: ' 39'
+    100776: ' 4'
+    100778: ' 40'
+    100780: ' 41'
+    100782: ' 42'
+    100784: ' 43'
+    100786: ' 44'
+    100788: ' 45'
+    100790: ' 46'
+    100792: ' 47'
+    100794: ' 48'
+    100796: ' 49'
+    100798: ' 5'
+    100800: ' 50'
+    100802: ' 51'
+    100804: ' 52'
+    100806: ' 53'
+    100808: ' 54'
+    100810: ' 55'
+    100812: ' 56'
+    100814: ' 57'
+    100816: ' 58'
+    100818: ' 59'
+    100820: ' 6'
+    100822: ' 60'
+    100824: ' 61'
+    100826: ' 62'
+    100828: ' 63'
+    100830: ' 64'
+    100832: ' 65'
+    100834: ' 66'
+    100836: ' 67'
+    100838: ' 68'
+    100840: ' 69'
+    100842: ' 7'
+    100844: ' 70'
+    100846: ' 71'
+    100848: ' 72'
+    100850: ' 73'
+    100852: ' 74'
+    100854: ' 75'
+    100856: ' 76'
+    100858: ' 77'
+    100860: ' 78'
+    100862: ' 79'
+    100864: ' 8'
+    100866: ' 80'
+    100868: ' 81'
+    100870: ' 82'
+    100872: ' 83'
+    100874: ' 84'
+    100876: ' 85'
+    100878: ' 86'
+    100880: ' 87'
+    100882: ' 88'
+    100884: ' 89'
+    100886: ' 9'
+    100888: ' 90'
+    100890: ' 91'
+    100892: ' 92'
+    100894: ' 93'
+    100896: ' 94'
+    100898: ' 95'
+    100900: ' 96'
+    100902: ' 97'
+    100904: ' 98'
+    100906: ' 99'
+    100908: -1
+    100910: -1 1
+    100912: -1 10
+    100914: -1 11
+    100916: -1 12
+    100918: -1 13
+    100920: -1 14
+    100922: -1 15
+    100924: -1 16
+    100926: -1 17
+    100928: -1 18
+    100930: -1 19
+    100932: -1 2
+    100934: -1 20
+    100936: -1 3
+    100938: -1 4
+    100940: -1 5
+    100942: -1 6
+    100944: -1 7
+    100946: -1 8
+    100948: -1 9
+    100950: -1-DC_Shell
+    100952: -1-DC_Shell 1
+    100954: -1-DC_Shell 10
+    100956: -1-DC_Shell 11
+    100958: -1-DC_Shell 12
+    100960: -1-DC_Shell 13
+    100962: -1-DC_Shell 14
+    100964: -1-DC_Shell 15
+    100966: -1-DC_Shell 16
+    100968: -1-DC_Shell 17
+    100970: -1-DC_Shell 18
+    100972: -1-DC_Shell 19
+    100974: -1-DC_Shell 2
+    100976: -1-DC_Shell 20
+    100978: -1-DC_Shell 3
+    100980: -1-DC_Shell 4
+    100982: -1-DC_Shell 5
+    100984: -1-DC_Shell 6
+    100986: -1-DC_Shell 7
+    100988: -1-DC_Shell 8
+    100990: -1-DC_Shell 9
+    100992: -2
+    100994: -2 1
+    100996: -2 2
+    100998: -2 3
+    101000: -2 4
+    101002: -2-DC_Shell
+    101004: -2-DC_Shell 1
+    101006: -2-DC_Shell 2
+    101008: -2-DC_Shell 3
+    101010: -2-DC_Shell 4
+    101012: -5
+    101014: -5 1
+    101016: -5 2
+    101018: -5 3
+    101020: -5-DC_Shell
+    101022: -5-DC_Shell 1
+    101024: -5-DC_Shell 2
+    101026: -5-DC_Shell 3
+    101028: -7
+    101030: -7 1
+    101032: -7 2
+    101034: -7 3
+    101036: -7 4
+    101038: -7 5
+    101040: -7 6
+    101042: -7 7
+    101044: -7-DC_Shell
+    101046: -7-DC_Shell 1
+    101048: -7-DC_Shell 2
+    101050: -7-DC_Shell 3
+    101052: -7-DC_Shell 4
+    101054: -7-DC_Shell 5
+    101056: -7-DC_Shell 6
+    101058: -7-DC_Shell 7
+    101060: 1
+    101062: 1 1
+    101064: 1 2
+    101066: 1 3
+    101068: 1-DC_Shell
+    101070: 1-DC_Shell 1
+    101072: 1-DC_Shell 2
+    101074: 2
+    101076: 2 1
+    101078: 2-DC_Shell
+    101080: 2-DC_Shell 1
+    101082: 3
+    101084: 3-DC_Shell
+    101086: 920016A1^ARHGW30CC
+    101088: 920016A1^ARHGW30CC 1
+    101090: 920016A1^ARHGW30CC 10
+    101092: 920016A1^ARHGW30CC 11
+    101094: 920016A1^ARHGW30CC 12
+    101096: 920016A1^ARHGW30CC 13
+    101098: 920016A1^ARHGW30CC 14
+    101100: 920016A1^ARHGW30CC 15
+    101102: 920016A1^ARHGW30CC 16
+    101104: 920016A1^ARHGW30CC 17
+    101106: 920016A1^ARHGW30CC 18
+    101108: 920016A1^ARHGW30CC 19
+    101110: 920016A1^ARHGW30CC 2
+    101112: 920016A1^ARHGW30CC 20
+    101114: 920016A1^ARHGW30CC 21
+    101116: 920016A1^ARHGW30CC 22
+    101118: 920016A1^ARHGW30CC 23
+    101120: 920016A1^ARHGW30CC 3
+    101122: 920016A1^ARHGW30CC 4
+    101124: 920016A1^ARHGW30CC 5
+    101126: 920016A1^ARHGW30CC 6
+    101128: 920016A1^ARHGW30CC 7
+    101130: 920016A1^ARHGW30CC 8
+    101132: 920016A1^ARHGW30CC 9
+    101134: ']1'
+    101136: ']1[1]'
+    101138: ']1[2]'
+    101140: ']2'
+    101142: ']2[1]'
+    101144: ']2[2]'
+    101146: AR52ST128-R90
+    101148: AR52ST128-R90 1
+    101150: AR52ST128-R90 2
+    101152: ARBENTIZHIJIA
+    101154: ARBENTIZHIJIA 1
+    101156: ARBENTIZHIJIA 2
+    101158: ARD130100
+    101160: ARD130100 1
+    101162: ARD130100 10
+    101164: ARD130100 11
+    101166: ARD130100 12
+    101168: ARD130100 13
+    101170: ARD130100 14
+    101172: ARD130100 15
+    101174: ARD130100 16
+    101176: ARD130100 17
+    101178: ARD130100 18
+    101180: ARD130100 19
+    101182: ARD130100 2
+    101184: ARD130100 20
+    101186: ARD130100 21
+    101188: ARD130100 22
+    101190: ARD130100 23
+    101192: ARD130100 24
+    101194: ARD130100 25
+    101196: ARD130100 26
+    101198: ARD130100 27
+    101200: ARD130100 28
+    101202: ARD130100 29
+    101204: ARD130100 3
+    101206: ARD130100 4
+    101208: ARD130100 5
+    101210: ARD130100 6
+    101212: ARD130100 7
+    101214: ARD130100 8
+    101216: ARD130100 9
+    101218: ARDAOBI
+    101220: ARDAOBI 1
+    101222: ARDAOBI 2
+    101224: ARDAOPAN_ASM
+    101226: ARDAOPAN_ASM 1
+    101228: ARDH0350-020LL002-06_LD73010-Cat50
+    101230: ARDH0350-020LL002-06_LD73010-Cat50 1
+    101232: ARDHB50N115_DHB50N515LA
+    101234: ARDHB50N115_DHB50N515LA 1
+    101236: ARDIANJI
+    101238: ARDIANJI 1
+    101240: ARDIANJI 2
+    101242: ARGAIBAN
+    101244: ARGAIBAN 1
+    101246: ARGAIBAN 2
+    101248: ARHGW30CC_THD-12B
+    101250: ARHGW30CC_THD-12B 1
+    101252: ARHGW30CC_THD-12B 2
+    101254: ARHGW30CC_THD-12B 3
+    101256: ARHGW30CC_THD-12B 4
+    101258: ARHGW30CC_THD-12B 5
+    101260: ARHGW30CC_THD-12B 6
+    101262: ARHGW30CC_THD-12B 7
+    101264: ARL331142
+    101266: ARL331142 1
+    101268: ARL331142 2
+    101270: ARL331900_w]<[u>
+    101272: ARL331900_w]<[u> 1
+    101274: ARL331900_w]<[u> 2
+    101276: ARL331910
+    101278: ARL331910 1
+    101280: ARL331910 2
+    101282: ARL331920
+    101284: ARL331920 1
+    101286: ARL331920 2
+    101288: ARL331930_w]<[u>
+    101290: ARL331930_w]<[u> 1
+    101292: ARL331930_w]<[u> 2
+    101294: ARL331950
+    101296: ARL331950 1
+    101298: ARL331950 2
+    101300: ARL331960
+    101302: ARL331960 1
+    101304: ARL331960 2
+    101306: ARL331970
+    101308: ARL331970 1
+    101310: ARL331970 2
+    101312: ARL730220
+    101314: ARL730220 1
+    101316: ARL730220 2
+    101318: ARL730230
+    101320: ARL730230 1
+    101322: ARL730230 2
+    101324: ARL730240
+    101326: ARL730240 1
+    101328: ARL730240 2
+    101330: ARMwwX
+    101332: ARMwwX 1
+    101334: ARORING-G_OR-G50*3.1
+    101336: ARORING-G_OR-G50*3.1 1
+    101338: ARORING-G_OR-G50*3.1 2
+    101340: ARORING-P_OR-P49*3.5
+    101342: ARORING-P_OR-P49*3.5 1
+    101344: ARORING-P_OR-P49*3.5 2
+    101346: ARos1_515
+    101348: ARos1_515 1
+    101350: ARos1_515 2
+    101352: ARos2_515
+    101354: ARos2_515 1
+    101356: ARos2_515 2
+    101358: ARs of THD_THD*820
+    101360: ARs of THD_THD*820 1
+    101362: ARs of THD_THD*820 2
+    101364: ARs of THD_THD*820 3
+    101366: ARs of THD_THD*820 4
+    101368: ARs of THD_THD*820 5
+    101370: ARUSH_USH30*40*6
+    101372: ARUSH_USH30*40*6 1
+    101374: ARUSH_USH30*40*6 2
+    101376: ARUSH_USH30*40*6 3
+    101378: ARUSH_USH30*40*6 4
+    101380: ARUSH_USH30*40*6 5
+    101382: ARWAIZHAO1
+    101384: ARWAIZHAO1 1
+    101386: ARWAIZHAO1 2
+    101388: ARWAIZHAO2
+    101390: ARWAIZHAO2 1
+    101392: ARWAIZHAO2 2
+    101394: ARWAIZHAO3
+    101396: ARWAIZHAO3 1
+    101398: ARWAIZHAO3 2
+    101400: ARWAIZHAO4
+    101402: ARWAIZHAO4 1
+    101404: ARWAIZHAO4 2
+    101406: ASTAE1C5052 1
+    101408: Block-HGW30CCZ0C^ARHGW30CC
+    101410: Block-HGW30CCZ0C^ARHGW30CC 1
+    101412: Block-HGW30CCZ0C^ARHGW30CC 10
+    101414: Block-HGW30CCZ0C^ARHGW30CC 11
+    101416: Block-HGW30CCZ0C^ARHGW30CC 2
+    101418: Block-HGW30CCZ0C^ARHGW30CC 3
+    101420: Block-HGW30CCZ0C^ARHGW30CC 4
+    101422: Block-HGW30CCZ0C^ARHGW30CC 5
+    101424: Block-HGW30CCZ0C^ARHGW30CC 6
+    101426: Block-HGW30CCZ0C^ARHGW30CC 7
+    101428: Block-HGW30CCZ0C^ARHGW30CC 8
+    101430: Block-HGW30CCZ0C^ARHGW30CC 9
+    101432: Body
+    101434: Body 1
+    101436: Body-DC_Shell
+    101438: Body-DC_Shell 1
+    101440: Bolt-HG30^ARHGW30CC
+    101442: Bolt-HG30^ARHGW30CC 1
+    101444: Bolt-HG30^ARHGW30CC 10
+    101446: Bolt-HG30^ARHGW30CC 11
+    101448: Bolt-HG30^ARHGW30CC 12
+    101450: Bolt-HG30^ARHGW30CC 13
+    101452: Bolt-HG30^ARHGW30CC 14
+    101454: Bolt-HG30^ARHGW30CC 15
+    101456: Bolt-HG30^ARHGW30CC 16
+    101458: Bolt-HG30^ARHGW30CC 17
+    101460: Bolt-HG30^ARHGW30CC 18
+    101462: Bolt-HG30^ARHGW30CC 19
+    101464: Bolt-HG30^ARHGW30CC 2
+    101466: Bolt-HG30^ARHGW30CC 20
+    101468: Bolt-HG30^ARHGW30CC 21
+    101470: Bolt-HG30^ARHGW30CC 22
+    101472: Bolt-HG30^ARHGW30CC 23
+    101474: Bolt-HG30^ARHGW30CC 24
+    101476: Bolt-HG30^ARHGW30CC 25
+    101478: Bolt-HG30^ARHGW30CC 26
+    101480: Bolt-HG30^ARHGW30CC 27
+    101482: Bolt-HG30^ARHGW30CC 28
+    101484: Bolt-HG30^ARHGW30CC 29
+    101486: Bolt-HG30^ARHGW30CC 3
+    101488: Bolt-HG30^ARHGW30CC 30
+    101490: Bolt-HG30^ARHGW30CC 31
+    101492: Bolt-HG30^ARHGW30CC 32
+    101494: Bolt-HG30^ARHGW30CC 33
+    101496: Bolt-HG30^ARHGW30CC 34
+    101498: Bolt-HG30^ARHGW30CC 35
+    101500: Bolt-HG30^ARHGW30CC 36
+    101502: Bolt-HG30^ARHGW30CC 37
+    101504: Bolt-HG30^ARHGW30CC 38
+    101506: Bolt-HG30^ARHGW30CC 39
+    101508: Bolt-HG30^ARHGW30CC 4
+    101510: Bolt-HG30^ARHGW30CC 40
+    101512: Bolt-HG30^ARHGW30CC 41
+    101514: Bolt-HG30^ARHGW30CC 42
+    101516: Bolt-HG30^ARHGW30CC 43
+    101518: Bolt-HG30^ARHGW30CC 44
+    101520: Bolt-HG30^ARHGW30CC 45
+    101522: Bolt-HG30^ARHGW30CC 46
+    101524: Bolt-HG30^ARHGW30CC 47
+    101526: Bolt-HG30^ARHGW30CC 5
+    101528: Bolt-HG30^ARHGW30CC 6
+    101530: Bolt-HG30^ARHGW30CC 7
+    101532: Bolt-HG30^ARHGW30CC 8
+    101534: Bolt-HG30^ARHGW30CC 9
+    101536: Chamfer1
+    101538: Chamfer1 1
+    101540: Chamfer1-DC_Shell
+    101542: Chamfer1-DC_Shell 1
+    101544: DAOTAO1
+    101546: DAOTAO1 1
+    101548: DAOTAO1 10
+    101550: DAOTAO1 11
+    101552: DAOTAO1 12
+    101554: DAOTAO1 13
+    101556: DAOTAO1 14
+    101558: DAOTAO1 15
+    101560: DAOTAO1 16
+    101562: DAOTAO1 17
+    101564: DAOTAO1 18
+    101566: DAOTAO1 19
+    101568: DAOTAO1 2
+    101570: DAOTAO1 20
+    101572: DAOTAO1 21
+    101574: DAOTAO1 22
+    101576: DAOTAO1 23
+    101578: DAOTAO1 24
+    101580: DAOTAO1 25
+    101582: DAOTAO1 26
+    101584: DAOTAO1 27
+    101586: DAOTAO1 28
+    101588: DAOTAO1 29
+    101590: DAOTAO1 3
+    101592: DAOTAO1 30
+    101594: DAOTAO1 31
+    101596: DAOTAO1 32
+    101598: DAOTAO1 33
+    101600: DAOTAO1 34
+    101602: DAOTAO1 35
+    101604: DAOTAO1 36
+    101606: DAOTAO1 37
+    101608: DAOTAO1 38
+    101610: DAOTAO1 39
+    101612: DAOTAO1 4
+    101614: DAOTAO1 40
+    101616: DAOTAO1 41
+    101618: DAOTAO1 42
+    101620: DAOTAO1 43
+    101622: DAOTAO1 44
+    101624: DAOTAO1 45
+    101626: DAOTAO1 46
+    101628: DAOTAO1 47
+    101630: DAOTAO1 48
+    101632: DAOTAO1 49
+    101634: DAOTAO1 5
+    101636: DAOTAO1 50
+    101638: DAOTAO1 51
+    101640: DAOTAO1 52
+    101642: DAOTAO1 53
+    101644: DAOTAO1 54
+    101646: DAOTAO1 55
+    101648: DAOTAO1 56
+    101650: DAOTAO1 57
+    101652: DAOTAO1 58
+    101654: DAOTAO1 59
+    101656: DAOTAO1 6
+    101658: DAOTAO1 7
+    101660: DAOTAO1 8
+    101662: DAOTAO1 9
+    101664: EndChamfer
+    101666: EndChamfer-DC_Shell
+    101668: Gap
+    101670: Gap 1
+    101672: Gap 10
+    101674: Gap 11
+    101676: Gap 12
+    101678: Gap 13
+    101680: Gap 14
+    101682: Gap 15
+    101684: Gap 16
+    101686: Gap 17
+    101688: Gap 18
+    101690: Gap 19
+    101692: Gap 2
+    101694: Gap 20
+    101696: Gap 21
+    101698: Gap 22
+    101700: Gap 23
+    101702: Gap 24
+    101704: Gap 25
+    101706: Gap 26
+    101708: Gap 27
+    101710: Gap 28
+    101712: Gap 29
+    101714: Gap 3
+    101716: Gap 30
+    101718: Gap 31
+    101720: Gap 32
+    101722: Gap 33
+    101724: Gap 34
+    101726: Gap 35
+    101728: Gap 36
+    101730: Gap 37
+    101732: Gap 38
+    101734: Gap 39
+    101736: Gap 4
+    101738: Gap 40
+    101740: Gap 41
+    101742: Gap 42
+    101744: Gap 43
+    101746: Gap 5
+    101748: Gap 6
+    101750: Gap 7
+    101752: Gap 8
+    101754: Gap 9
+    101756: Gap-DC_Shell
+    101758: Gap-DC_Shell 1
+    101760: Gap-DC_Shell 10
+    101762: Gap-DC_Shell 11
+    101764: Gap-DC_Shell 12
+    101766: Gap-DC_Shell 13
+    101768: Gap-DC_Shell 14
+    101770: Gap-DC_Shell 15
+    101772: Gap-DC_Shell 16
+    101774: Gap-DC_Shell 17
+    101776: Gap-DC_Shell 18
+    101778: Gap-DC_Shell 19
+    101780: Gap-DC_Shell 2
+    101782: Gap-DC_Shell 20
+    101784: Gap-DC_Shell 21
+    101786: Gap-DC_Shell 22
+    101788: Gap-DC_Shell 23
+    101790: Gap-DC_Shell 24
+    101792: Gap-DC_Shell 25
+    101794: Gap-DC_Shell 26
+    101796: Gap-DC_Shell 27
+    101798: Gap-DC_Shell 28
+    101800: Gap-DC_Shell 29
+    101802: Gap-DC_Shell 3
+    101804: Gap-DC_Shell 30
+    101806: Gap-DC_Shell 31
+    101808: Gap-DC_Shell 32
+    101810: Gap-DC_Shell 33
+    101812: Gap-DC_Shell 34
+    101814: Gap-DC_Shell 35
+    101816: Gap-DC_Shell 36
+    101818: Gap-DC_Shell 37
+    101820: Gap-DC_Shell 38
+    101822: Gap-DC_Shell 39
+    101824: Gap-DC_Shell 4
+    101826: Gap-DC_Shell 40
+    101828: Gap-DC_Shell 41
+    101830: Gap-DC_Shell 42
+    101832: Gap-DC_Shell 43
+    101834: Gap-DC_Shell 5
+    101836: Gap-DC_Shell 6
+    101838: Gap-DC_Shell 7
+    101840: Gap-DC_Shell 8
+    101842: Gap-DC_Shell 9
+    101844: Hex
+    101846: Hex 1
+    101848: Hex 10
+    101850: Hex 11
+    101852: Hex 12
+    101854: Hex 13
+    101856: Hex 14
+    101858: Hex 15
+    101860: Hex 16
+    101862: Hex 17
+    101864: Hex 18
+    101866: Hex 19
+    101868: Hex 2
+    101870: Hex 20
+    101872: Hex 21
+    101874: Hex 22
+    101876: Hex 23
+    101878: Hex 24
+    101880: Hex 25
+    101882: Hex 26
+    101884: Hex 27
+    101886: Hex 28
+    101888: Hex 29
+    101890: Hex 3
+    101892: Hex 30
+    101894: Hex 31
+    101896: Hex 32
+    101898: Hex 33
+    101900: Hex 34
+    101902: Hex 35
+    101904: Hex 36
+    101906: Hex 37
+    101908: Hex 38
+    101910: Hex 39
+    101912: Hex 4
+    101914: Hex 40
+    101916: Hex 41
+    101918: Hex 42
+    101920: Hex 43
+    101922: Hex 44
+    101924: Hex 45
+    101926: Hex 46
+    101928: Hex 47
+    101930: Hex 48
+    101932: Hex 49
+    101934: Hex 5
+    101936: Hex 50
+    101938: Hex 51
+    101940: Hex 52
+    101942: Hex 53
+    101944: Hex 54
+    101946: Hex 55
+    101948: Hex 56
+    101950: Hex 57
+    101952: Hex 58
+    101954: Hex 59
+    101956: Hex 6
+    101958: Hex 60
+    101960: Hex 61
+    101962: Hex 62
+    101964: Hex 63
+    101966: Hex 64
+    101968: Hex 65
+    101970: Hex 66
+    101972: Hex 67
+    101974: Hex 68
+    101976: Hex 69
+    101978: Hex 7
+    101980: Hex 70
+    101982: Hex 71
+    101984: Hex 72
+    101986: Hex 73
+    101988: Hex 74
+    101990: Hex 75
+    101992: Hex 76
+    101994: Hex 77
+    101996: Hex 8
+    101998: Hex 9
+    102000: Hex-DC_Shell
+    102002: Hex-DC_Shell 1
+    102004: Hex-DC_Shell 10
+    102006: Hex-DC_Shell 11
+    102008: Hex-DC_Shell 12
+    102010: Hex-DC_Shell 13
+    102012: Hex-DC_Shell 14
+    102014: Hex-DC_Shell 15
+    102016: Hex-DC_Shell 16
+    102018: Hex-DC_Shell 17
+    102020: Hex-DC_Shell 18
+    102022: Hex-DC_Shell 19
+    102024: Hex-DC_Shell 2
+    102026: Hex-DC_Shell 20
+    102028: Hex-DC_Shell 21
+    102030: Hex-DC_Shell 22
+    102032: Hex-DC_Shell 23
+    102034: Hex-DC_Shell 24
+    102036: Hex-DC_Shell 25
+    102038: Hex-DC_Shell 26
+    102040: Hex-DC_Shell 27
+    102042: Hex-DC_Shell 28
+    102044: Hex-DC_Shell 29
+    102046: Hex-DC_Shell 3
+    102048: Hex-DC_Shell 30
+    102050: Hex-DC_Shell 31
+    102052: Hex-DC_Shell 32
+    102054: Hex-DC_Shell 33
+    102056: Hex-DC_Shell 34
+    102058: Hex-DC_Shell 35
+    102060: Hex-DC_Shell 36
+    102062: Hex-DC_Shell 37
+    102064: Hex-DC_Shell 38
+    102066: Hex-DC_Shell 39
+    102068: Hex-DC_Shell 4
+    102070: Hex-DC_Shell 40
+    102072: Hex-DC_Shell 41
+    102074: Hex-DC_Shell 42
+    102076: Hex-DC_Shell 43
+    102078: Hex-DC_Shell 44
+    102080: Hex-DC_Shell 45
+    102082: Hex-DC_Shell 46
+    102084: Hex-DC_Shell 47
+    102086: Hex-DC_Shell 48
+    102088: Hex-DC_Shell 49
+    102090: Hex-DC_Shell 5
+    102092: Hex-DC_Shell 50
+    102094: Hex-DC_Shell 51
+    102096: Hex-DC_Shell 52
+    102098: Hex-DC_Shell 53
+    102100: Hex-DC_Shell 54
+    102102: Hex-DC_Shell 55
+    102104: Hex-DC_Shell 56
+    102106: Hex-DC_Shell 57
+    102108: Hex-DC_Shell 58
+    102110: Hex-DC_Shell 59
+    102112: Hex-DC_Shell 6
+    102114: Hex-DC_Shell 60
+    102116: Hex-DC_Shell 61
+    102118: Hex-DC_Shell 62
+    102120: Hex-DC_Shell 63
+    102122: Hex-DC_Shell 64
+    102124: Hex-DC_Shell 65
+    102126: Hex-DC_Shell 66
+    102128: Hex-DC_Shell 67
+    102130: Hex-DC_Shell 68
+    102132: Hex-DC_Shell 69
+    102134: Hex-DC_Shell 7
+    102136: Hex-DC_Shell 70
+    102138: Hex-DC_Shell 71
+    102140: Hex-DC_Shell 72
+    102142: Hex-DC_Shell 73
+    102144: Hex-DC_Shell 74
+    102146: Hex-DC_Shell 75
+    102148: Hex-DC_Shell 76
+    102150: Hex-DC_Shell 77
+    102152: Hex-DC_Shell 8
+    102154: Hex-DC_Shell 9
+    102156: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M22x1.5
+      --N
+    102158: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M22x1.5
+      --N 1
+    102160: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M22x1.5
+      --N 2
+    102162: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N
+    102164: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 1
+    102166: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 10
+    102168: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 11
+    102170: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 12
+    102172: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 13
+    102174: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 14
+    102176: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 2
+    102178: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 3
+    102180: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 4
+    102182: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 5
+    102184: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 6
+    102186: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 7
+    102188: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 8
+    102190: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 9
+    102192: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N
+    102194: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 1
+    102196: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 10
+    102198: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 11
+    102200: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 12
+    102202: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 13
+    102204: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 14
+    102206: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 15
+    102208: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 16
+    102210: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 17
+    102212: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 18
+    102214: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 19
+    102216: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 2
+    102218: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 20
+    102220: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 21
+    102222: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 22
+    102224: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 23
+    102226: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 24
+    102228: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 25
+    102230: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 26
+    102232: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 27
+    102234: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 28
+    102236: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 29
+    102238: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 3
+    102240: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 30
+    102242: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 31
+    102244: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 32
+    102246: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 33
+    102248: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 34
+    102250: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 35
+    102252: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 36
+    102254: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 37
+    102256: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 38
+    102258: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 39
+    102260: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 4
+    102262: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 40
+    102264: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 41
+    102266: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 42
+    102268: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 43
+    102270: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 44
+    102272: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 45
+    102274: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 46
+    102276: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 47
+    102278: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 48
+    102280: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 49
+    102282: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 5
+    102284: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 50
+    102286: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 51
+    102288: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 52
+    102290: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 53
+    102292: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 54
+    102294: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 55
+    102296: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 56
+    102298: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 57
+    102300: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 58
+    102302: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 59
+    102304: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 6
+    102306: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 60
+    102308: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 61
+    102310: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 62
+    102312: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 63
+    102314: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 64
+    102316: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 65
+    102318: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 66
+    102320: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 67
+    102322: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 68
+    102324: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 69
+    102326: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 7
+    102328: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 70
+    102330: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 71
+    102332: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 8
+    102334: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 9
+    102336: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N
+    102338: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 1
+    102340: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 10
+    102342: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 11
+    102344: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 2
+    102346: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 3
+    102348: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 4
+    102350: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 5
+    102352: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 6
+    102354: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 7
+    102356: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 8
+    102358: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 9
+    102360: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N
+    102362: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 1
+    102364: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 2
+    102366: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 3
+    102368: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 4
+    102370: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 5
+    102372: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N
+    102374: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 1
+    102376: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 10
+    102378: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 11
+    102380: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 12
+    102382: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 13
+    102384: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 14
+    102386: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 15
+    102388: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 16
+    102390: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 17
+    102392: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 18
+    102394: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 19
+    102396: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 2
+    102398: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 20
+    102400: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 21
+    102402: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 22
+    102404: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 23
+    102406: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 24
+    102408: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 25
+    102410: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 26
+    102412: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 27
+    102414: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 28
+    102416: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 29
+    102418: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 3
+    102420: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 4
+    102422: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 5
+    102424: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 6
+    102426: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 7
+    102428: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 8
+    102430: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 9
+    102432: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N
+    102434: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 1
+    102436: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 10
+    102438: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 11
+    102440: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 12
+    102442: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 13
+    102444: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 14
+    102446: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 15
+    102448: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 16
+    102450: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 17
+    102452: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 18
+    102454: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 19
+    102456: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 2
+    102458: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 20
+    102460: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 21
+    102462: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 22
+    102464: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 23
+    102466: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 24
+    102468: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 25
+    102470: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 26
+    102472: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 27
+    102474: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 28
+    102476: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 29
+    102478: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 3
+    102480: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 30
+    102482: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 31
+    102484: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 32
+    102486: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 33
+    102488: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 34
+    102490: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 35
+    102492: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 36
+    102494: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 37
+    102496: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 38
+    102498: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 39
+    102500: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 4
+    102502: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 40
+    102504: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 41
+    102506: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 42
+    102508: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 43
+    102510: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 44
+    102512: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 45
+    102514: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 46
+    102516: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 47
+    102518: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 48
+    102520: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 49
+    102522: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 5
+    102524: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 50
+    102526: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 51
+    102528: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 52
+    102530: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 53
+    102532: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 54
+    102534: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 55
+    102536: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 56
+    102538: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 57
+    102540: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 58
+    102542: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 59
+    102544: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 6
+    102546: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 60
+    102548: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 61
+    102550: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 62
+    102552: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 63
+    102554: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 64
+    102556: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 65
+    102558: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 7
+    102560: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 8
+    102562: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 9
+    102564: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N
+    102566: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 1
+    102568: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 10
+    102570: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 11
+    102572: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 12
+    102574: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 13
+    102576: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 14
+    102578: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 2
+    102580: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 3
+    102582: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 4
+    102584: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 5
+    102586: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 6
+    102588: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 7
+    102590: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 8
+    102592: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 9
+    102594: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N
+    102596: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 1
+    102598: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 10
+    102600: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 11
+    102602: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 12
+    102604: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 13
+    102606: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 14
+    102608: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 15
+    102610: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 16
+    102612: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 17
+    102614: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 2
+    102616: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 3
+    102618: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 4
+    102620: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 5
+    102622: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 6
+    102624: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 7
+    102626: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 8
+    102628: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 9
+    102630: HG30-34320001^ARHGW30CC
+    102632: HG30-34320001^ARHGW30CC 1
+    102634: HG30-34320001^ARHGW30CC 10
+    102636: HG30-34320001^ARHGW30CC 11
+    102638: HG30-34320001^ARHGW30CC 2
+    102640: HG30-34320001^ARHGW30CC 3
+    102642: HG30-34320001^ARHGW30CC 4
+    102644: HG30-34320001^ARHGW30CC 5
+    102646: HG30-34320001^ARHGW30CC 6
+    102648: HG30-34320001^ARHGW30CC 7
+    102650: HG30-34320001^ARHGW30CC 8
+    102652: HG30-34320001^ARHGW30CC 9
+    102654: HG30-PlugScrew^ARHGW30CC
+    102656: HG30-PlugScrew^ARHGW30CC 1
+    102658: HG30-PlugScrew^ARHGW30CC 10
+    102660: HG30-PlugScrew^ARHGW30CC 11
+    102662: HG30-PlugScrew^ARHGW30CC 2
+    102664: HG30-PlugScrew^ARHGW30CC 3
+    102666: HG30-PlugScrew^ARHGW30CC 4
+    102668: HG30-PlugScrew^ARHGW30CC 5
+    102670: HG30-PlugScrew^ARHGW30CC 6
+    102672: HG30-PlugScrew^ARHGW30CC 7
+    102674: HG30-PlugScrew^ARHGW30CC 8
+    102676: HG30-PlugScrew^ARHGW30CC 9
+    102678: J1
+    102680: J1 1
+    102682: J1 10
+    102684: J1 11
+    102686: J1 12
+    102688: J1 13
+    102690: J1 14
+    102692: J1 15
+    102694: J1 16
+    102696: J1 17
+    102698: J1 18
+    102700: J1 19
+    102702: J1 2
+    102704: J1 20
+    102706: J1 21
+    102708: J1 22
+    102710: J1 23
+    102712: J1 24
+    102714: J1 25
+    102716: J1 26
+    102718: J1 3
+    102720: J1 4
+    102722: J1 5
+    102724: J1 6
+    102726: J1 7
+    102728: J1 8
+    102730: J1 9
+    102732: J1-DC_Shell
+    102734: J1-DC_Shell 1
+    102736: J1-DC_Shell 10
+    102738: J1-DC_Shell 11
+    102740: J1-DC_Shell 12
+    102742: J1-DC_Shell 13
+    102744: J1-DC_Shell 14
+    102746: J1-DC_Shell 15
+    102748: J1-DC_Shell 16
+    102750: J1-DC_Shell 17
+    102752: J1-DC_Shell 18
+    102754: J1-DC_Shell 19
+    102756: J1-DC_Shell 2
+    102758: J1-DC_Shell 20
+    102760: J1-DC_Shell 21
+    102762: J1-DC_Shell 22
+    102764: J1-DC_Shell 23
+    102766: J1-DC_Shell 24
+    102768: J1-DC_Shell 25
+    102770: J1-DC_Shell 26
+    102772: J1-DC_Shell 3
+    102774: J1-DC_Shell 4
+    102776: J1-DC_Shell 5
+    102778: J1-DC_Shell 6
+    102780: J1-DC_Shell 7
+    102782: J1-DC_Shell 8
+    102784: J1-DC_Shell 9
+    102786: J18
+    102788: J18-DC_Shell
+    102790: J2
+    102792: J2 1
+    102794: J2 10
+    102796: J2 11
+    102798: J2 12
+    102800: J2 13
+    102802: J2 14
+    102804: J2 15
+    102806: J2 16
+    102808: J2 17
+    102810: J2 18
+    102812: J2 19
+    102814: J2 2
+    102816: J2 20
+    102818: J2 3
+    102820: J2 4
+    102822: J2 5
+    102824: J2 6
+    102826: J2 7
+    102828: J2 8
+    102830: J2 9
+    102832: J2-DC_Shell
+    102834: J2-DC_Shell 1
+    102836: J2-DC_Shell 10
+    102838: J2-DC_Shell 11
+    102840: J2-DC_Shell 12
+    102842: J2-DC_Shell 13
+    102844: J2-DC_Shell 14
+    102846: J2-DC_Shell 15
+    102848: J2-DC_Shell 16
+    102850: J2-DC_Shell 17
+    102852: J2-DC_Shell 18
+    102854: J2-DC_Shell 19
+    102856: J2-DC_Shell 2
+    102858: J2-DC_Shell 20
+    102860: J2-DC_Shell 3
+    102862: J2-DC_Shell 4
+    102864: J2-DC_Shell 5
+    102866: J2-DC_Shell 6
+    102868: J2-DC_Shell 7
+    102870: J2-DC_Shell 8
+    102872: J2-DC_Shell 9
+    102874: M10 l1
+    102876: M10 l1-DC_Shell
+    102878: M10 l3
+    102880: M10x1.5 1[2]
+    102882: M10x1.5 1[2]-DC_Shell
+    102884: M12x1.75 1
+    102886: M12x1.75 1-DC_Shell
+    102888: M5 YvW1
+    102890: M5 YvW1 1
+    102892: M5 YvW1 2
+    102894: M5 YvW1 3
+    102896: M5 YvW1 4
+    102898: M5 YvW1 5
+    102900: M5 YvW1 6
+    102902: M5 YvW1 7
+    102904: M5 YvW1 8
+    102906: M5 YvW1 9
+    102908: M5 YvW1-DC_Shell
+    102910: M5 YvW1-DC_Shell 1
+    102912: M5 YvW1-DC_Shell 2
+    102914: M5 YvW1-DC_Shell 3
+    102916: M5 YvW1-DC_Shell 4
+    102918: M5 YvW1-DC_Shell 5
+    102920: M5 YvW1-DC_Shell 6
+    102922: M5 YvW1-DC_Shell 7
+    102924: M5 YvW1-DC_Shell 8
+    102926: M5 YvW1-DC_Shell 9
+    102928: M5x0.8 1
+    102930: M5x0.8 1-DC_Shell
+    102932: M8 l1
+    102934: M8 l1-DC_Shell
+    102936: M8x1.25 4
+    102938: M8x1.25 4-DC_Shell
+    102940: NONE
+    102942: NONE 1
+    102944: NONE 10
+    102946: NONE 100
+    102948: NONE 101
+    102950: NONE 102
+    102952: NONE 103
+    102954: NONE 104
+    102956: NONE 105
+    102958: NONE 106
+    102960: NONE 107
+    102962: NONE 108
+    102964: NONE 109
+    102966: NONE 11
+    102968: NONE 110
+    102970: NONE 111
+    102972: NONE 112
+    102974: NONE 113
+    102976: NONE 114
+    102978: NONE 115
+    102980: NONE 116
+    102982: NONE 117
+    102984: NONE 118
+    102986: NONE 119
+    102988: NONE 12
+    102990: NONE 120
+    102992: NONE 121
+    102994: NONE 122
+    102996: NONE 123
+    102998: NONE 124
+    103000: NONE 125
+    103002: NONE 126
+    103004: NONE 127
+    103006: NONE 128
+    103008: NONE 129
+    103010: NONE 13
+    103012: NONE 130
+    103014: NONE 131
+    103016: NONE 132
+    103018: NONE 133
+    103020: NONE 134
+    103022: NONE 135
+    103024: NONE 136
+    103026: NONE 137
+    103028: NONE 138
+    103030: NONE 139
+    103032: NONE 14
+    103034: NONE 140
+    103036: NONE 141
+    103038: NONE 142
+    103040: NONE 143
+    103042: NONE 144
+    103044: NONE 145
+    103046: NONE 146
+    103048: NONE 147
+    103050: NONE 148
+    103052: NONE 149
+    103054: NONE 15
+    103056: NONE 150
+    103058: NONE 151
+    103060: NONE 152
+    103062: NONE 153
+    103064: NONE 154
+    103066: NONE 155
+    103068: NONE 156
+    103070: NONE 157
+    103072: NONE 158
+    103074: NONE 159
+    103076: NONE 16
+    103078: NONE 160
+    103080: NONE 161
+    103082: NONE 162
+    103084: NONE 163
+    103086: NONE 164
+    103088: NONE 165
+    103090: NONE 166
+    103092: NONE 167
+    103094: NONE 168
+    103096: NONE 169
+    103098: NONE 17
+    103100: NONE 170
+    103102: NONE 171
+    103104: NONE 172
+    103106: NONE 173
+    103108: NONE 174
+    103110: NONE 175
+    103112: NONE 176
+    103114: NONE 177
+    103116: NONE 178
+    103118: NONE 179
+    103120: NONE 18
+    103122: NONE 180
+    103124: NONE 181
+    103126: NONE 182
+    103128: NONE 183
+    103130: NONE 184
+    103132: NONE 185
+    103134: NONE 186
+    103136: NONE 187
+    103138: NONE 188
+    103140: NONE 189
+    103142: NONE 19
+    103144: NONE 190
+    103146: NONE 191
+    103148: NONE 192
+    103150: NONE 193
+    103152: NONE 194
+    103154: NONE 195
+    103156: NONE 196
+    103158: NONE 197
+    103160: NONE 198
+    103162: NONE 199
+    103164: NONE 2
+    103166: NONE 20
+    103168: NONE 200
+    103170: NONE 201
+    103172: NONE 202
+    103174: NONE 203
+    103176: NONE 204
+    103178: NONE 205
+    103180: NONE 206
+    103182: NONE 207
+    103184: NONE 208
+    103186: NONE 209
+    103188: NONE 21
+    103190: NONE 210
+    103192: NONE 211
+    103194: NONE 212
+    103196: NONE 213
+    103198: NONE 214
+    103200: NONE 215
+    103202: NONE 216
+    103204: NONE 217
+    103206: NONE 218
+    103208: NONE 219
+    103210: NONE 22
+    103212: NONE 220
+    103214: NONE 221
+    103216: NONE 222
+    103218: NONE 223
+    103220: NONE 224
+    103222: NONE 225
+    103224: NONE 226
+    103226: NONE 227
+    103228: NONE 228
+    103230: NONE 229
+    103232: NONE 23
+    103234: NONE 230
+    103236: NONE 231
+    103238: NONE 232
+    103240: NONE 233
+    103242: NONE 234
+    103244: NONE 235
+    103246: NONE 236
+    103248: NONE 237
+    103250: NONE 24
+    103252: NONE 25
+    103254: NONE 26
+    103256: NONE 27
+    103258: NONE 28
+    103260: NONE 29
+    103262: NONE 3
+    103264: NONE 30
+    103266: NONE 31
+    103268: NONE 32
+    103270: NONE 33
+    103272: NONE 34
+    103274: NONE 35
+    103276: NONE 36
+    103278: NONE 37
+    103280: NONE 38
+    103282: NONE 39
+    103284: NONE 4
+    103286: NONE 40
+    103288: NONE 41
+    103290: NONE 42
+    103292: NONE 43
+    103294: NONE 44
+    103296: NONE 45
+    103298: NONE 46
+    103300: NONE 47
+    103302: NONE 48
+    103304: NONE 49
+    103306: NONE 5
+    103308: NONE 50
+    103310: NONE 51
+    103312: NONE 52
+    103314: NONE 53
+    103316: NONE 54
+    103318: NONE 55
+    103320: NONE 56
+    103322: NONE 57
+    103324: NONE 58
+    103326: NONE 59
+    103328: NONE 6
+    103330: NONE 60
+    103332: NONE 61
+    103334: NONE 62
+    103336: NONE 63
+    103338: NONE 64
+    103340: NONE 65
+    103342: NONE 66
+    103344: NONE 67
+    103346: NONE 68
+    103348: NONE 69
+    103350: NONE 7
+    103352: NONE 70
+    103354: NONE 71
+    103356: NONE 72
+    103358: NONE 73
+    103360: NONE 74
+    103362: NONE 75
+    103364: NONE 76
+    103366: NONE 77
+    103368: NONE 78
+    103370: NONE 79
+    103372: NONE 8
+    103374: NONE 80
+    103376: NONE 81
+    103378: NONE 82
+    103380: NONE 83
+    103382: NONE 84
+    103384: NONE 85
+    103386: NONE 86
+    103388: NONE 87
+    103390: NONE 88
+    103392: NONE 89
+    103394: NONE 9
+    103396: NONE 90
+    103398: NONE 91
+    103400: NONE 92
+    103402: NONE 93
+    103404: NONE 94
+    103406: NONE 95
+    103408: NONE 96
+    103410: NONE 97
+    103412: NONE 98
+    103414: NONE 99
+    103416: NONE-DC_Shell
+    103418: NONE-DC_Shell 1
+    103420: NONE-DC_Shell 10
+    103422: NONE-DC_Shell 11
+    103424: NONE-DC_Shell 12
+    103426: NONE-DC_Shell 13
+    103428: NONE-DC_Shell 14
+    103430: NONE-DC_Shell 15
+    103432: NONE-DC_Shell 16
+    103434: NONE-DC_Shell 17
+    103436: NONE-DC_Shell 18
+    103438: NONE-DC_Shell 19
+    103440: NONE-DC_Shell 2
+    103442: NONE-DC_Shell 20
+    103444: NONE-DC_Shell 21
+    103446: NONE-DC_Shell 22
+    103448: NONE-DC_Shell 23
+    103450: NONE-DC_Shell 24
+    103452: NONE-DC_Shell 25
+    103454: NONE-DC_Shell 26
+    103456: NONE-DC_Shell 27
+    103458: NONE-DC_Shell 28
+    103460: NONE-DC_Shell 3
+    103462: NONE-DC_Shell 4
+    103464: NONE-DC_Shell 5
+    103466: NONE-DC_Shell 6
+    103468: NONE-DC_Shell 7
+    103470: NONE-DC_Shell 8
+    103472: NONE-DC_Shell 9
+    103474: O6.0mm w1({t)
+    103476: O6.0mm w1({t)-DC_Shell
+    103478: O8.0mm w1
+    103480: O8.0mm w1-DC_Shell
+    103482: parallel key jis 1301_JIS B 1301 20x12x80-A
+    103484: parallel key jis 1301_JIS B 1301 20x12x80-A 1
+    103486: parallel key jis 1301_JIS B 1301 20x12x80-A 2
+    103488: parallel key jis 1301_JIS B 1301 20x12x80-A 3
+    103490: parallel key jis 1301_JIS B 1301 20x12x80-A 4
+    103492: parallel key jis 1301_JIS B 1301 20x12x80-A 5
+    103494: s1^ARDH0350-020LL002-06
+    103496: s1^ARDH0350-020LL002-06 1
+    103498: s1^ARDH0350-020LL002-06 2
+    103500: spring lock washer_2_jis_JIS B 1251 No.2 10
+    103502: spring lock washer_2_jis_JIS B 1251 No.2 10 1
+    103504: spring lock washer_2_jis_JIS B 1251 No.2 10 10
+    103506: spring lock washer_2_jis_JIS B 1251 No.2 10 11
+    103508: spring lock washer_2_jis_JIS B 1251 No.2 10 12
+    103510: spring lock washer_2_jis_JIS B 1251 No.2 10 13
+    103512: spring lock washer_2_jis_JIS B 1251 No.2 10 14
+    103514: spring lock washer_2_jis_JIS B 1251 No.2 10 15
+    103516: spring lock washer_2_jis_JIS B 1251 No.2 10 16
+    103518: spring lock washer_2_jis_JIS B 1251 No.2 10 17
+    103520: spring lock washer_2_jis_JIS B 1251 No.2 10 18
+    103522: spring lock washer_2_jis_JIS B 1251 No.2 10 19
+    103524: spring lock washer_2_jis_JIS B 1251 No.2 10 2
+    103526: spring lock washer_2_jis_JIS B 1251 No.2 10 20
+    103528: spring lock washer_2_jis_JIS B 1251 No.2 10 21
+    103530: spring lock washer_2_jis_JIS B 1251 No.2 10 22
+    103532: spring lock washer_2_jis_JIS B 1251 No.2 10 23
+    103534: spring lock washer_2_jis_JIS B 1251 No.2 10 24
+    103536: spring lock washer_2_jis_JIS B 1251 No.2 10 25
+    103538: spring lock washer_2_jis_JIS B 1251 No.2 10 26
+    103540: spring lock washer_2_jis_JIS B 1251 No.2 10 27
+    103542: spring lock washer_2_jis_JIS B 1251 No.2 10 28
+    103544: spring lock washer_2_jis_JIS B 1251 No.2 10 29
+    103546: spring lock washer_2_jis_JIS B 1251 No.2 10 3
+    103548: spring lock washer_2_jis_JIS B 1251 No.2 10 30
+    103550: spring lock washer_2_jis_JIS B 1251 No.2 10 31
+    103552: spring lock washer_2_jis_JIS B 1251 No.2 10 32
+    103554: spring lock washer_2_jis_JIS B 1251 No.2 10 33
+    103556: spring lock washer_2_jis_JIS B 1251 No.2 10 34
+    103558: spring lock washer_2_jis_JIS B 1251 No.2 10 35
+    103560: spring lock washer_2_jis_JIS B 1251 No.2 10 36
+    103562: spring lock washer_2_jis_JIS B 1251 No.2 10 37
+    103564: spring lock washer_2_jis_JIS B 1251 No.2 10 38
+    103566: spring lock washer_2_jis_JIS B 1251 No.2 10 39
+    103568: spring lock washer_2_jis_JIS B 1251 No.2 10 4
+    103570: spring lock washer_2_jis_JIS B 1251 No.2 10 40
+    103572: spring lock washer_2_jis_JIS B 1251 No.2 10 41
+    103574: spring lock washer_2_jis_JIS B 1251 No.2 10 42
+    103576: spring lock washer_2_jis_JIS B 1251 No.2 10 43
+    103578: spring lock washer_2_jis_JIS B 1251 No.2 10 44
+    103580: spring lock washer_2_jis_JIS B 1251 No.2 10 45
+    103582: spring lock washer_2_jis_JIS B 1251 No.2 10 46
+    103584: spring lock washer_2_jis_JIS B 1251 No.2 10 47
+    103586: spring lock washer_2_jis_JIS B 1251 No.2 10 48
+    103588: spring lock washer_2_jis_JIS B 1251 No.2 10 49
+    103590: spring lock washer_2_jis_JIS B 1251 No.2 10 5
+    103592: spring lock washer_2_jis_JIS B 1251 No.2 10 50
+    103594: spring lock washer_2_jis_JIS B 1251 No.2 10 51
+    103596: spring lock washer_2_jis_JIS B 1251 No.2 10 52
+    103598: spring lock washer_2_jis_JIS B 1251 No.2 10 53
+    103600: spring lock washer_2_jis_JIS B 1251 No.2 10 54
+    103602: spring lock washer_2_jis_JIS B 1251 No.2 10 55
+    103604: spring lock washer_2_jis_JIS B 1251 No.2 10 56
+    103606: spring lock washer_2_jis_JIS B 1251 No.2 10 57
+    103608: spring lock washer_2_jis_JIS B 1251 No.2 10 58
+    103610: spring lock washer_2_jis_JIS B 1251 No.2 10 59
+    103612: spring lock washer_2_jis_JIS B 1251 No.2 10 6
+    103614: spring lock washer_2_jis_JIS B 1251 No.2 10 60
+    103616: spring lock washer_2_jis_JIS B 1251 No.2 10 61
+    103618: spring lock washer_2_jis_JIS B 1251 No.2 10 62
+    103620: spring lock washer_2_jis_JIS B 1251 No.2 10 63
+    103622: spring lock washer_2_jis_JIS B 1251 No.2 10 64
+    103624: spring lock washer_2_jis_JIS B 1251 No.2 10 65
+    103626: spring lock washer_2_jis_JIS B 1251 No.2 10 66
+    103628: spring lock washer_2_jis_JIS B 1251 No.2 10 67
+    103630: spring lock washer_2_jis_JIS B 1251 No.2 10 68
+    103632: spring lock washer_2_jis_JIS B 1251 No.2 10 69
+    103634: spring lock washer_2_jis_JIS B 1251 No.2 10 7
+    103636: spring lock washer_2_jis_JIS B 1251 No.2 10 70
+    103638: spring lock washer_2_jis_JIS B 1251 No.2 10 71
+    103640: spring lock washer_2_jis_JIS B 1251 No.2 10 72
+    103642: spring lock washer_2_jis_JIS B 1251 No.2 10 73
+    103644: spring lock washer_2_jis_JIS B 1251 No.2 10 74
+    103646: spring lock washer_2_jis_JIS B 1251 No.2 10 75
+    103648: spring lock washer_2_jis_JIS B 1251 No.2 10 76
+    103650: spring lock washer_2_jis_JIS B 1251 No.2 10 77
+    103652: spring lock washer_2_jis_JIS B 1251 No.2 10 78
+    103654: spring lock washer_2_jis_JIS B 1251 No.2 10 79
+    103656: spring lock washer_2_jis_JIS B 1251 No.2 10 8
+    103658: spring lock washer_2_jis_JIS B 1251 No.2 10 80
+    103660: spring lock washer_2_jis_JIS B 1251 No.2 10 81
+    103662: spring lock washer_2_jis_JIS B 1251 No.2 10 82
+    103664: spring lock washer_2_jis_JIS B 1251 No.2 10 83
+    103666: spring lock washer_2_jis_JIS B 1251 No.2 10 84
+    103668: spring lock washer_2_jis_JIS B 1251 No.2 10 85
+    103670: spring lock washer_2_jis_JIS B 1251 No.2 10 86
+    103672: spring lock washer_2_jis_JIS B 1251 No.2 10 87
+    103674: spring lock washer_2_jis_JIS B 1251 No.2 10 88
+    103676: spring lock washer_2_jis_JIS B 1251 No.2 10 89
+    103678: spring lock washer_2_jis_JIS B 1251 No.2 10 9
+    103680: spring lock washer_2_jis_JIS B 1251 No.2 10 90
+    103682: spring lock washer_2_jis_JIS B 1251 No.2 10 91
+    103684: spring lock washer_2_jis_JIS B 1251 No.2 10 92
+    103686: spring lock washer_2_jis_JIS B 1251 No.2 10 93
+    103688: spring lock washer_2_jis_JIS B 1251 No.2 10 94
+    103690: spring lock washer_2_jis_JIS B 1251 No.2 10 95
+    103692: spring lock washer_2_jis_JIS B 1251 No.2 10 96
+    103694: spring lock washer_2_jis_JIS B 1251 No.2 10 97
+    103696: spring lock washer_2_jis_JIS B 1251 No.2 10 98
+    103698: spring lock washer_2_jis_JIS B 1251 No.2 8
+    103700: spring lock washer_2_jis_JIS B 1251 No.2 8 1
+    103702: spring lock washer_2_jis_JIS B 1251 No.2 8 10
+    103704: spring lock washer_2_jis_JIS B 1251 No.2 8 11
+    103706: spring lock washer_2_jis_JIS B 1251 No.2 8 12
+    103708: spring lock washer_2_jis_JIS B 1251 No.2 8 13
+    103710: spring lock washer_2_jis_JIS B 1251 No.2 8 14
+    103712: spring lock washer_2_jis_JIS B 1251 No.2 8 15
+    103714: spring lock washer_2_jis_JIS B 1251 No.2 8 16
+    103716: spring lock washer_2_jis_JIS B 1251 No.2 8 17
+    103718: spring lock washer_2_jis_JIS B 1251 No.2 8 18
+    103720: spring lock washer_2_jis_JIS B 1251 No.2 8 19
+    103722: spring lock washer_2_jis_JIS B 1251 No.2 8 2
+    103724: spring lock washer_2_jis_JIS B 1251 No.2 8 20
+    103726: spring lock washer_2_jis_JIS B 1251 No.2 8 21
+    103728: spring lock washer_2_jis_JIS B 1251 No.2 8 22
+    103730: spring lock washer_2_jis_JIS B 1251 No.2 8 23
+    103732: spring lock washer_2_jis_JIS B 1251 No.2 8 24
+    103734: spring lock washer_2_jis_JIS B 1251 No.2 8 25
+    103736: spring lock washer_2_jis_JIS B 1251 No.2 8 26
+    103738: spring lock washer_2_jis_JIS B 1251 No.2 8 27
+    103740: spring lock washer_2_jis_JIS B 1251 No.2 8 28
+    103742: spring lock washer_2_jis_JIS B 1251 No.2 8 29
+    103744: spring lock washer_2_jis_JIS B 1251 No.2 8 3
+    103746: spring lock washer_2_jis_JIS B 1251 No.2 8 30
+    103748: spring lock washer_2_jis_JIS B 1251 No.2 8 31
+    103750: spring lock washer_2_jis_JIS B 1251 No.2 8 32
+    103752: spring lock washer_2_jis_JIS B 1251 No.2 8 4
+    103754: spring lock washer_2_jis_JIS B 1251 No.2 8 5
+    103756: spring lock washer_2_jis_JIS B 1251 No.2 8 6
+    103758: spring lock washer_2_jis_JIS B 1251 No.2 8 7
+    103760: spring lock washer_2_jis_JIS B 1251 No.2 8 8
+    103762: spring lock washer_2_jis_JIS B 1251 No.2 8 9
+    103764: taper pin_ab_jis_JIS B 1352 B 6x65
+    103766: taper pin_ab_jis_JIS B 1352 B 6x65 1
+    103768: taper pin_ab_jis_JIS B 1352 B 6x65 2
+    103770: taper pin_ab_jis_JIS B 1352 B 6x65 3
+    103772: taper pin_ab_jis_JIS B 1352 B 6x65 4
+    103774: taper pin_ab_jis_JIS B 1352 B 6x65 5
+    103776: usC1
+    103778: usC1 1
+    103780: usC1-DC_Shell
+    103782: usC1-DC_Shell 1
+    103784: X1
+    103786: X1 1
+    103788: X1 2
+    103790: X1-DC_Shell
+    103792: X1-DC_Shell 1
+    103794: X1-DC_Shell 2
+    103796: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  100'
+    400008: '  101'
+    400010: '  102'
+    400012: '  103'
+    400014: '  104'
+    400016: '  105'
+    400018: '  106'
+    400020: '  107'
+    400022: '  108'
+    400024: '  109'
+    400026: '  11'
+    400028: '  110'
+    400030: '  111'
+    400032: '  112'
+    400034: '  113'
+    400036: '  114'
+    400038: '  115'
+    400040: '  116'
+    400042: '  117'
+    400044: '  118'
+    400046: '  119'
+    400048: '  12'
+    400050: '  120'
+    400052: '  121'
+    400054: '  122'
+    400056: '  123'
+    400058: '  124'
+    400060: '  125'
+    400062: '  126'
+    400064: '  127'
+    400066: '  128'
+    400068: '  129'
+    400070: '  13'
+    400072: '  130'
+    400074: '  131'
+    400076: '  132'
+    400078: '  133'
+    400080: '  134'
+    400082: '  135'
+    400084: '  136'
+    400086: '  137'
+    400088: '  138'
+    400090: '  139'
+    400092: '  14'
+    400094: '  140'
+    400096: '  141'
+    400098: '  142'
+    400100: '  143'
+    400102: '  144'
+    400104: '  145'
+    400106: '  146'
+    400108: '  147'
+    400110: '  148'
+    400112: '  149'
+    400114: '  15'
+    400116: '  150'
+    400118: '  151'
+    400120: '  152'
+    400122: '  153'
+    400124: '  154'
+    400126: '  155'
+    400128: '  156'
+    400130: '  157'
+    400132: '  158'
+    400134: '  159'
+    400136: '  16'
+    400138: '  160'
+    400140: '  161'
+    400142: '  162'
+    400144: '  163'
+    400146: '  164'
+    400148: '  165'
+    400150: '  166'
+    400152: '  167'
+    400154: '  168'
+    400156: '  169'
+    400158: '  17'
+    400160: '  170'
+    400162: '  171'
+    400164: '  172'
+    400166: '  173'
+    400168: '  174'
+    400170: '  175'
+    400172: '  176'
+    400174: '  177'
+    400176: '  178'
+    400178: '  179'
+    400180: '  18'
+    400182: '  180'
+    400184: '  181'
+    400186: '  182'
+    400188: '  183'
+    400190: '  184'
+    400192: '  185'
+    400194: '  186'
+    400196: '  187'
+    400198: '  188'
+    400200: '  189'
+    400202: '  19'
+    400204: '  190'
+    400206: '  191'
+    400208: '  192'
+    400210: '  193'
+    400212: '  194'
+    400214: '  195'
+    400216: '  196'
+    400218: '  197'
+    400220: '  198'
+    400222: '  199'
+    400224: '  2'
+    400226: '  20'
+    400228: '  200'
+    400230: '  201'
+    400232: '  202'
+    400234: '  203'
+    400236: '  204'
+    400238: '  205'
+    400240: '  206'
+    400242: '  207'
+    400244: '  208'
+    400246: '  209'
+    400248: '  21'
+    400250: '  210'
+    400252: '  211'
+    400254: '  212'
+    400256: '  213'
+    400258: '  214'
+    400260: '  215'
+    400262: '  216'
+    400264: '  217'
+    400266: '  218'
+    400268: '  219'
+    400270: '  22'
+    400272: '  220'
+    400274: '  221'
+    400276: '  222'
+    400278: '  223'
+    400280: '  224'
+    400282: '  225'
+    400284: '  226'
+    400286: '  227'
+    400288: '  228'
+    400290: '  229'
+    400292: '  23'
+    400294: '  24'
+    400296: '  25'
+    400298: '  26'
+    400300: '  27'
+    400302: '  28'
+    400304: '  29'
+    400306: '  3'
+    400308: '  30'
+    400310: '  31'
+    400312: '  32'
+    400314: '  33'
+    400316: '  34'
+    400318: '  35'
+    400320: '  36'
+    400322: '  37'
+    400324: '  38'
+    400326: '  39'
+    400328: '  4'
+    400330: '  40'
+    400332: '  41'
+    400334: '  42'
+    400336: '  43'
+    400338: '  44'
+    400340: '  45'
+    400342: '  46'
+    400344: '  47'
+    400346: '  48'
+    400348: '  49'
+    400350: '  5'
+    400352: '  50'
+    400354: '  51'
+    400356: '  52'
+    400358: '  53'
+    400360: '  54'
+    400362: '  55'
+    400364: '  56'
+    400366: '  57'
+    400368: '  58'
+    400370: '  59'
+    400372: '  6'
+    400374: '  60'
+    400376: '  61'
+    400378: '  62'
+    400380: '  63'
+    400382: '  64'
+    400384: '  65'
+    400386: '  66'
+    400388: '  67'
+    400390: '  68'
+    400392: '  69'
+    400394: '  7'
+    400396: '  70'
+    400398: '  71'
+    400400: '  72'
+    400402: '  73'
+    400404: '  74'
+    400406: '  75'
+    400408: '  76'
+    400410: '  77'
+    400412: '  78'
+    400414: '  79'
+    400416: '  8'
+    400418: '  80'
+    400420: '  81'
+    400422: '  82'
+    400424: '  83'
+    400426: '  84'
+    400428: '  85'
+    400430: '  86'
+    400432: '  87'
+    400434: '  88'
+    400436: '  89'
+    400438: '  9'
+    400440: '  90'
+    400442: '  91'
+    400444: '  92'
+    400446: '  93'
+    400448: '  94'
+    400450: '  95'
+    400452: '  96'
+    400454: '  97'
+    400456: '  98'
+    400458: '  99'
+    400460: ' (4) |1'
+    400462: ' (4) |1-DC_Shell'
+    400464: ' 1'
+    400466: ' 10'
+    400468: ' 100'
+    400470: ' 101'
+    400472: ' 102'
+    400474: ' 103'
+    400476: ' 104'
+    400478: ' 105'
+    400480: ' 106'
+    400482: ' 107'
+    400484: ' 108'
+    400486: ' 109'
+    400488: ' 11'
+    400490: ' 110'
+    400492: ' 111'
+    400494: ' 112'
+    400496: ' 113'
+    400498: ' 114'
+    400500: ' 115'
+    400502: ' 116'
+    400504: ' 117'
+    400506: ' 118'
+    400508: ' 119'
+    400510: ' 12'
+    400512: ' 120'
+    400514: ' 121'
+    400516: ' 122'
+    400518: ' 123'
+    400520: ' 124'
+    400522: ' 125'
+    400524: ' 126'
+    400526: ' 127'
+    400528: ' 128'
+    400530: ' 129'
+    400532: ' 13'
+    400534: ' 130'
+    400536: ' 131'
+    400538: ' 132'
+    400540: ' 133'
+    400542: ' 134'
+    400544: ' 135'
+    400546: ' 136'
+    400548: ' 137'
+    400550: ' 138'
+    400552: ' 139'
+    400554: ' 14'
+    400556: ' 140'
+    400558: ' 141'
+    400560: ' 142'
+    400562: ' 143'
+    400564: ' 144'
+    400566: ' 145'
+    400568: ' 146'
+    400570: ' 147'
+    400572: ' 148'
+    400574: ' 149'
+    400576: ' 15'
+    400578: ' 150'
+    400580: ' 151'
+    400582: ' 152'
+    400584: ' 153'
+    400586: ' 154'
+    400588: ' 155'
+    400590: ' 156'
+    400592: ' 157'
+    400594: ' 158'
+    400596: ' 159'
+    400598: ' 16'
+    400600: ' 160'
+    400602: ' 161'
+    400604: ' 162'
+    400606: ' 163'
+    400608: ' 164'
+    400610: ' 165'
+    400612: ' 166'
+    400614: ' 167'
+    400616: ' 168'
+    400618: ' 169'
+    400620: ' 17'
+    400622: ' 170'
+    400624: ' 171'
+    400626: ' 172'
+    400628: ' 173'
+    400630: ' 174'
+    400632: ' 175'
+    400634: ' 176'
+    400636: ' 177'
+    400638: ' 178'
+    400640: ' 179'
+    400642: ' 18'
+    400644: ' 180'
+    400646: ' 181'
+    400648: ' 182'
+    400650: ' 183'
+    400652: ' 184'
+    400654: ' 185'
+    400656: ' 186'
+    400658: ' 187'
+    400660: ' 188'
+    400662: ' 189'
+    400664: ' 19'
+    400666: ' 190'
+    400668: ' 191'
+    400670: ' 192'
+    400672: ' 193'
+    400674: ' 194'
+    400676: ' 195'
+    400678: ' 196'
+    400680: ' 197'
+    400682: ' 198'
+    400684: ' 199'
+    400686: ' 2'
+    400688: ' 20'
+    400690: ' 200'
+    400692: ' 201'
+    400694: ' 202'
+    400696: ' 203'
+    400698: ' 204'
+    400700: ' 205'
+    400702: ' 206'
+    400704: ' 207'
+    400706: ' 208'
+    400708: ' 209'
+    400710: ' 21'
+    400712: ' 210'
+    400714: ' 211'
+    400716: ' 212'
+    400718: ' 213'
+    400720: ' 214'
+    400722: ' 215'
+    400724: ' 216'
+    400726: ' 217'
+    400728: ' 218'
+    400730: ' 219'
+    400732: ' 22'
+    400734: ' 220'
+    400736: ' 221'
+    400738: ' 222'
+    400740: ' 23'
+    400742: ' 24'
+    400744: ' 25'
+    400746: ' 26'
+    400748: ' 27'
+    400750: ' 28'
+    400752: ' 29'
+    400754: ' 3'
+    400756: ' 30'
+    400758: ' 31'
+    400760: ' 32'
+    400762: ' 33'
+    400764: ' 34'
+    400766: ' 35'
+    400768: ' 36'
+    400770: ' 37'
+    400772: ' 38'
+    400774: ' 39'
+    400776: ' 4'
+    400778: ' 40'
+    400780: ' 41'
+    400782: ' 42'
+    400784: ' 43'
+    400786: ' 44'
+    400788: ' 45'
+    400790: ' 46'
+    400792: ' 47'
+    400794: ' 48'
+    400796: ' 49'
+    400798: ' 5'
+    400800: ' 50'
+    400802: ' 51'
+    400804: ' 52'
+    400806: ' 53'
+    400808: ' 54'
+    400810: ' 55'
+    400812: ' 56'
+    400814: ' 57'
+    400816: ' 58'
+    400818: ' 59'
+    400820: ' 6'
+    400822: ' 60'
+    400824: ' 61'
+    400826: ' 62'
+    400828: ' 63'
+    400830: ' 64'
+    400832: ' 65'
+    400834: ' 66'
+    400836: ' 67'
+    400838: ' 68'
+    400840: ' 69'
+    400842: ' 7'
+    400844: ' 70'
+    400846: ' 71'
+    400848: ' 72'
+    400850: ' 73'
+    400852: ' 74'
+    400854: ' 75'
+    400856: ' 76'
+    400858: ' 77'
+    400860: ' 78'
+    400862: ' 79'
+    400864: ' 8'
+    400866: ' 80'
+    400868: ' 81'
+    400870: ' 82'
+    400872: ' 83'
+    400874: ' 84'
+    400876: ' 85'
+    400878: ' 86'
+    400880: ' 87'
+    400882: ' 88'
+    400884: ' 89'
+    400886: ' 9'
+    400888: ' 90'
+    400890: ' 91'
+    400892: ' 92'
+    400894: ' 93'
+    400896: ' 94'
+    400898: ' 95'
+    400900: ' 96'
+    400902: ' 97'
+    400904: ' 98'
+    400906: ' 99'
+    400908: -1
+    400910: -1 1
+    400912: -1 10
+    400914: -1 11
+    400916: -1 12
+    400918: -1 13
+    400920: -1 14
+    400922: -1 15
+    400924: -1 16
+    400926: -1 17
+    400928: -1 18
+    400930: -1 19
+    400932: -1 2
+    400934: -1 20
+    400936: -1 3
+    400938: -1 4
+    400940: -1 5
+    400942: -1 6
+    400944: -1 7
+    400946: -1 8
+    400948: -1 9
+    400950: -1-DC_Shell
+    400952: -1-DC_Shell 1
+    400954: -1-DC_Shell 10
+    400956: -1-DC_Shell 11
+    400958: -1-DC_Shell 12
+    400960: -1-DC_Shell 13
+    400962: -1-DC_Shell 14
+    400964: -1-DC_Shell 15
+    400966: -1-DC_Shell 16
+    400968: -1-DC_Shell 17
+    400970: -1-DC_Shell 18
+    400972: -1-DC_Shell 19
+    400974: -1-DC_Shell 2
+    400976: -1-DC_Shell 20
+    400978: -1-DC_Shell 3
+    400980: -1-DC_Shell 4
+    400982: -1-DC_Shell 5
+    400984: -1-DC_Shell 6
+    400986: -1-DC_Shell 7
+    400988: -1-DC_Shell 8
+    400990: -1-DC_Shell 9
+    400992: -2
+    400994: -2 1
+    400996: -2 2
+    400998: -2 3
+    401000: -2 4
+    401002: -2-DC_Shell
+    401004: -2-DC_Shell 1
+    401006: -2-DC_Shell 2
+    401008: -2-DC_Shell 3
+    401010: -2-DC_Shell 4
+    401012: -5
+    401014: -5 1
+    401016: -5 2
+    401018: -5 3
+    401020: -5-DC_Shell
+    401022: -5-DC_Shell 1
+    401024: -5-DC_Shell 2
+    401026: -5-DC_Shell 3
+    401028: -7
+    401030: -7 1
+    401032: -7 2
+    401034: -7 3
+    401036: -7 4
+    401038: -7 5
+    401040: -7 6
+    401042: -7 7
+    401044: -7-DC_Shell
+    401046: -7-DC_Shell 1
+    401048: -7-DC_Shell 2
+    401050: -7-DC_Shell 3
+    401052: -7-DC_Shell 4
+    401054: -7-DC_Shell 5
+    401056: -7-DC_Shell 6
+    401058: -7-DC_Shell 7
+    401060: 1
+    401062: 1 1
+    401064: 1 2
+    401066: 1 3
+    401068: 1-DC_Shell
+    401070: 1-DC_Shell 1
+    401072: 1-DC_Shell 2
+    401074: 2
+    401076: 2 1
+    401078: 2-DC_Shell
+    401080: 2-DC_Shell 1
+    401082: 3
+    401084: 3-DC_Shell
+    401086: 920016A1^ARHGW30CC
+    401088: 920016A1^ARHGW30CC 1
+    401090: 920016A1^ARHGW30CC 10
+    401092: 920016A1^ARHGW30CC 11
+    401094: 920016A1^ARHGW30CC 12
+    401096: 920016A1^ARHGW30CC 13
+    401098: 920016A1^ARHGW30CC 14
+    401100: 920016A1^ARHGW30CC 15
+    401102: 920016A1^ARHGW30CC 16
+    401104: 920016A1^ARHGW30CC 17
+    401106: 920016A1^ARHGW30CC 18
+    401108: 920016A1^ARHGW30CC 19
+    401110: 920016A1^ARHGW30CC 2
+    401112: 920016A1^ARHGW30CC 20
+    401114: 920016A1^ARHGW30CC 21
+    401116: 920016A1^ARHGW30CC 22
+    401118: 920016A1^ARHGW30CC 23
+    401120: 920016A1^ARHGW30CC 3
+    401122: 920016A1^ARHGW30CC 4
+    401124: 920016A1^ARHGW30CC 5
+    401126: 920016A1^ARHGW30CC 6
+    401128: 920016A1^ARHGW30CC 7
+    401130: 920016A1^ARHGW30CC 8
+    401132: 920016A1^ARHGW30CC 9
+    401134: ']1'
+    401136: ']1[1]'
+    401138: ']1[2]'
+    401140: ']2'
+    401142: ']2[1]'
+    401144: ']2[2]'
+    401146: AR52ST128-R90
+    401148: AR52ST128-R90 1
+    401150: AR52ST128-R90 2
+    401152: ARBENTIZHIJIA
+    401154: ARBENTIZHIJIA 1
+    401156: ARBENTIZHIJIA 2
+    401158: ARD130100
+    401160: ARD130100 1
+    401162: ARD130100 10
+    401164: ARD130100 11
+    401166: ARD130100 12
+    401168: ARD130100 13
+    401170: ARD130100 14
+    401172: ARD130100 15
+    401174: ARD130100 16
+    401176: ARD130100 17
+    401178: ARD130100 18
+    401180: ARD130100 19
+    401182: ARD130100 2
+    401184: ARD130100 20
+    401186: ARD130100 21
+    401188: ARD130100 22
+    401190: ARD130100 23
+    401192: ARD130100 24
+    401194: ARD130100 25
+    401196: ARD130100 26
+    401198: ARD130100 27
+    401200: ARD130100 28
+    401202: ARD130100 29
+    401204: ARD130100 3
+    401206: ARD130100 4
+    401208: ARD130100 5
+    401210: ARD130100 6
+    401212: ARD130100 7
+    401214: ARD130100 8
+    401216: ARD130100 9
+    401218: ARDAOBI
+    401220: ARDAOBI 1
+    401222: ARDAOBI 2
+    401224: ARDAOPAN_ASM
+    401226: ARDAOPAN_ASM 1
+    401228: ARDH0350-020LL002-06_LD73010-Cat50
+    401230: ARDH0350-020LL002-06_LD73010-Cat50 1
+    401232: ARDHB50N115_DHB50N515LA
+    401234: ARDHB50N115_DHB50N515LA 1
+    401236: ARDIANJI
+    401238: ARDIANJI 1
+    401240: ARDIANJI 2
+    401242: ARGAIBAN
+    401244: ARGAIBAN 1
+    401246: ARGAIBAN 2
+    401248: ARHGW30CC_THD-12B
+    401250: ARHGW30CC_THD-12B 1
+    401252: ARHGW30CC_THD-12B 2
+    401254: ARHGW30CC_THD-12B 3
+    401256: ARHGW30CC_THD-12B 4
+    401258: ARHGW30CC_THD-12B 5
+    401260: ARHGW30CC_THD-12B 6
+    401262: ARHGW30CC_THD-12B 7
+    401264: ARL331142
+    401266: ARL331142 1
+    401268: ARL331142 2
+    401270: ARL331900_w]<[u>
+    401272: ARL331900_w]<[u> 1
+    401274: ARL331900_w]<[u> 2
+    401276: ARL331910
+    401278: ARL331910 1
+    401280: ARL331910 2
+    401282: ARL331920
+    401284: ARL331920 1
+    401286: ARL331920 2
+    401288: ARL331930_w]<[u>
+    401290: ARL331930_w]<[u> 1
+    401292: ARL331930_w]<[u> 2
+    401294: ARL331950
+    401296: ARL331950 1
+    401298: ARL331950 2
+    401300: ARL331960
+    401302: ARL331960 1
+    401304: ARL331960 2
+    401306: ARL331970
+    401308: ARL331970 1
+    401310: ARL331970 2
+    401312: ARL730220
+    401314: ARL730220 1
+    401316: ARL730220 2
+    401318: ARL730230
+    401320: ARL730230 1
+    401322: ARL730230 2
+    401324: ARL730240
+    401326: ARL730240 1
+    401328: ARL730240 2
+    401330: ARMwwX
+    401332: ARMwwX 1
+    401334: ARORING-G_OR-G50*3.1
+    401336: ARORING-G_OR-G50*3.1 1
+    401338: ARORING-G_OR-G50*3.1 2
+    401340: ARORING-P_OR-P49*3.5
+    401342: ARORING-P_OR-P49*3.5 1
+    401344: ARORING-P_OR-P49*3.5 2
+    401346: ARos1_515
+    401348: ARos1_515 1
+    401350: ARos1_515 2
+    401352: ARos2_515
+    401354: ARos2_515 1
+    401356: ARos2_515 2
+    401358: ARs of THD_THD*820
+    401360: ARs of THD_THD*820 1
+    401362: ARs of THD_THD*820 2
+    401364: ARs of THD_THD*820 3
+    401366: ARs of THD_THD*820 4
+    401368: ARs of THD_THD*820 5
+    401370: ARUSH_USH30*40*6
+    401372: ARUSH_USH30*40*6 1
+    401374: ARUSH_USH30*40*6 2
+    401376: ARUSH_USH30*40*6 3
+    401378: ARUSH_USH30*40*6 4
+    401380: ARUSH_USH30*40*6 5
+    401382: ARWAIZHAO1
+    401384: ARWAIZHAO1 1
+    401386: ARWAIZHAO1 2
+    401388: ARWAIZHAO2
+    401390: ARWAIZHAO2 1
+    401392: ARWAIZHAO2 2
+    401394: ARWAIZHAO3
+    401396: ARWAIZHAO3 1
+    401398: ARWAIZHAO3 2
+    401400: ARWAIZHAO4
+    401402: ARWAIZHAO4 1
+    401404: ARWAIZHAO4 2
+    401406: ASTAE1C5052 1
+    401408: Block-HGW30CCZ0C^ARHGW30CC
+    401410: Block-HGW30CCZ0C^ARHGW30CC 1
+    401412: Block-HGW30CCZ0C^ARHGW30CC 10
+    401414: Block-HGW30CCZ0C^ARHGW30CC 11
+    401416: Block-HGW30CCZ0C^ARHGW30CC 2
+    401418: Block-HGW30CCZ0C^ARHGW30CC 3
+    401420: Block-HGW30CCZ0C^ARHGW30CC 4
+    401422: Block-HGW30CCZ0C^ARHGW30CC 5
+    401424: Block-HGW30CCZ0C^ARHGW30CC 6
+    401426: Block-HGW30CCZ0C^ARHGW30CC 7
+    401428: Block-HGW30CCZ0C^ARHGW30CC 8
+    401430: Block-HGW30CCZ0C^ARHGW30CC 9
+    401432: Body
+    401434: Body 1
+    401436: Body-DC_Shell
+    401438: Body-DC_Shell 1
+    401440: Bolt-HG30^ARHGW30CC
+    401442: Bolt-HG30^ARHGW30CC 1
+    401444: Bolt-HG30^ARHGW30CC 10
+    401446: Bolt-HG30^ARHGW30CC 11
+    401448: Bolt-HG30^ARHGW30CC 12
+    401450: Bolt-HG30^ARHGW30CC 13
+    401452: Bolt-HG30^ARHGW30CC 14
+    401454: Bolt-HG30^ARHGW30CC 15
+    401456: Bolt-HG30^ARHGW30CC 16
+    401458: Bolt-HG30^ARHGW30CC 17
+    401460: Bolt-HG30^ARHGW30CC 18
+    401462: Bolt-HG30^ARHGW30CC 19
+    401464: Bolt-HG30^ARHGW30CC 2
+    401466: Bolt-HG30^ARHGW30CC 20
+    401468: Bolt-HG30^ARHGW30CC 21
+    401470: Bolt-HG30^ARHGW30CC 22
+    401472: Bolt-HG30^ARHGW30CC 23
+    401474: Bolt-HG30^ARHGW30CC 24
+    401476: Bolt-HG30^ARHGW30CC 25
+    401478: Bolt-HG30^ARHGW30CC 26
+    401480: Bolt-HG30^ARHGW30CC 27
+    401482: Bolt-HG30^ARHGW30CC 28
+    401484: Bolt-HG30^ARHGW30CC 29
+    401486: Bolt-HG30^ARHGW30CC 3
+    401488: Bolt-HG30^ARHGW30CC 30
+    401490: Bolt-HG30^ARHGW30CC 31
+    401492: Bolt-HG30^ARHGW30CC 32
+    401494: Bolt-HG30^ARHGW30CC 33
+    401496: Bolt-HG30^ARHGW30CC 34
+    401498: Bolt-HG30^ARHGW30CC 35
+    401500: Bolt-HG30^ARHGW30CC 36
+    401502: Bolt-HG30^ARHGW30CC 37
+    401504: Bolt-HG30^ARHGW30CC 38
+    401506: Bolt-HG30^ARHGW30CC 39
+    401508: Bolt-HG30^ARHGW30CC 4
+    401510: Bolt-HG30^ARHGW30CC 40
+    401512: Bolt-HG30^ARHGW30CC 41
+    401514: Bolt-HG30^ARHGW30CC 42
+    401516: Bolt-HG30^ARHGW30CC 43
+    401518: Bolt-HG30^ARHGW30CC 44
+    401520: Bolt-HG30^ARHGW30CC 45
+    401522: Bolt-HG30^ARHGW30CC 46
+    401524: Bolt-HG30^ARHGW30CC 47
+    401526: Bolt-HG30^ARHGW30CC 5
+    401528: Bolt-HG30^ARHGW30CC 6
+    401530: Bolt-HG30^ARHGW30CC 7
+    401532: Bolt-HG30^ARHGW30CC 8
+    401534: Bolt-HG30^ARHGW30CC 9
+    401536: Chamfer1
+    401538: Chamfer1 1
+    401540: Chamfer1-DC_Shell
+    401542: Chamfer1-DC_Shell 1
+    401544: DAOTAO1
+    401546: DAOTAO1 1
+    401548: DAOTAO1 10
+    401550: DAOTAO1 11
+    401552: DAOTAO1 12
+    401554: DAOTAO1 13
+    401556: DAOTAO1 14
+    401558: DAOTAO1 15
+    401560: DAOTAO1 16
+    401562: DAOTAO1 17
+    401564: DAOTAO1 18
+    401566: DAOTAO1 19
+    401568: DAOTAO1 2
+    401570: DAOTAO1 20
+    401572: DAOTAO1 21
+    401574: DAOTAO1 22
+    401576: DAOTAO1 23
+    401578: DAOTAO1 24
+    401580: DAOTAO1 25
+    401582: DAOTAO1 26
+    401584: DAOTAO1 27
+    401586: DAOTAO1 28
+    401588: DAOTAO1 29
+    401590: DAOTAO1 3
+    401592: DAOTAO1 30
+    401594: DAOTAO1 31
+    401596: DAOTAO1 32
+    401598: DAOTAO1 33
+    401600: DAOTAO1 34
+    401602: DAOTAO1 35
+    401604: DAOTAO1 36
+    401606: DAOTAO1 37
+    401608: DAOTAO1 38
+    401610: DAOTAO1 39
+    401612: DAOTAO1 4
+    401614: DAOTAO1 40
+    401616: DAOTAO1 41
+    401618: DAOTAO1 42
+    401620: DAOTAO1 43
+    401622: DAOTAO1 44
+    401624: DAOTAO1 45
+    401626: DAOTAO1 46
+    401628: DAOTAO1 47
+    401630: DAOTAO1 48
+    401632: DAOTAO1 49
+    401634: DAOTAO1 5
+    401636: DAOTAO1 50
+    401638: DAOTAO1 51
+    401640: DAOTAO1 52
+    401642: DAOTAO1 53
+    401644: DAOTAO1 54
+    401646: DAOTAO1 55
+    401648: DAOTAO1 56
+    401650: DAOTAO1 57
+    401652: DAOTAO1 58
+    401654: DAOTAO1 59
+    401656: DAOTAO1 6
+    401658: DAOTAO1 7
+    401660: DAOTAO1 8
+    401662: DAOTAO1 9
+    401664: EndChamfer
+    401666: EndChamfer-DC_Shell
+    401668: Gap
+    401670: Gap 1
+    401672: Gap 10
+    401674: Gap 11
+    401676: Gap 12
+    401678: Gap 13
+    401680: Gap 14
+    401682: Gap 15
+    401684: Gap 16
+    401686: Gap 17
+    401688: Gap 18
+    401690: Gap 19
+    401692: Gap 2
+    401694: Gap 20
+    401696: Gap 21
+    401698: Gap 22
+    401700: Gap 23
+    401702: Gap 24
+    401704: Gap 25
+    401706: Gap 26
+    401708: Gap 27
+    401710: Gap 28
+    401712: Gap 29
+    401714: Gap 3
+    401716: Gap 30
+    401718: Gap 31
+    401720: Gap 32
+    401722: Gap 33
+    401724: Gap 34
+    401726: Gap 35
+    401728: Gap 36
+    401730: Gap 37
+    401732: Gap 38
+    401734: Gap 39
+    401736: Gap 4
+    401738: Gap 40
+    401740: Gap 41
+    401742: Gap 42
+    401744: Gap 43
+    401746: Gap 5
+    401748: Gap 6
+    401750: Gap 7
+    401752: Gap 8
+    401754: Gap 9
+    401756: Gap-DC_Shell
+    401758: Gap-DC_Shell 1
+    401760: Gap-DC_Shell 10
+    401762: Gap-DC_Shell 11
+    401764: Gap-DC_Shell 12
+    401766: Gap-DC_Shell 13
+    401768: Gap-DC_Shell 14
+    401770: Gap-DC_Shell 15
+    401772: Gap-DC_Shell 16
+    401774: Gap-DC_Shell 17
+    401776: Gap-DC_Shell 18
+    401778: Gap-DC_Shell 19
+    401780: Gap-DC_Shell 2
+    401782: Gap-DC_Shell 20
+    401784: Gap-DC_Shell 21
+    401786: Gap-DC_Shell 22
+    401788: Gap-DC_Shell 23
+    401790: Gap-DC_Shell 24
+    401792: Gap-DC_Shell 25
+    401794: Gap-DC_Shell 26
+    401796: Gap-DC_Shell 27
+    401798: Gap-DC_Shell 28
+    401800: Gap-DC_Shell 29
+    401802: Gap-DC_Shell 3
+    401804: Gap-DC_Shell 30
+    401806: Gap-DC_Shell 31
+    401808: Gap-DC_Shell 32
+    401810: Gap-DC_Shell 33
+    401812: Gap-DC_Shell 34
+    401814: Gap-DC_Shell 35
+    401816: Gap-DC_Shell 36
+    401818: Gap-DC_Shell 37
+    401820: Gap-DC_Shell 38
+    401822: Gap-DC_Shell 39
+    401824: Gap-DC_Shell 4
+    401826: Gap-DC_Shell 40
+    401828: Gap-DC_Shell 41
+    401830: Gap-DC_Shell 42
+    401832: Gap-DC_Shell 43
+    401834: Gap-DC_Shell 5
+    401836: Gap-DC_Shell 6
+    401838: Gap-DC_Shell 7
+    401840: Gap-DC_Shell 8
+    401842: Gap-DC_Shell 9
+    401844: Hex
+    401846: Hex 1
+    401848: Hex 10
+    401850: Hex 11
+    401852: Hex 12
+    401854: Hex 13
+    401856: Hex 14
+    401858: Hex 15
+    401860: Hex 16
+    401862: Hex 17
+    401864: Hex 18
+    401866: Hex 19
+    401868: Hex 2
+    401870: Hex 20
+    401872: Hex 21
+    401874: Hex 22
+    401876: Hex 23
+    401878: Hex 24
+    401880: Hex 25
+    401882: Hex 26
+    401884: Hex 27
+    401886: Hex 28
+    401888: Hex 29
+    401890: Hex 3
+    401892: Hex 30
+    401894: Hex 31
+    401896: Hex 32
+    401898: Hex 33
+    401900: Hex 34
+    401902: Hex 35
+    401904: Hex 36
+    401906: Hex 37
+    401908: Hex 38
+    401910: Hex 39
+    401912: Hex 4
+    401914: Hex 40
+    401916: Hex 41
+    401918: Hex 42
+    401920: Hex 43
+    401922: Hex 44
+    401924: Hex 45
+    401926: Hex 46
+    401928: Hex 47
+    401930: Hex 48
+    401932: Hex 49
+    401934: Hex 5
+    401936: Hex 50
+    401938: Hex 51
+    401940: Hex 52
+    401942: Hex 53
+    401944: Hex 54
+    401946: Hex 55
+    401948: Hex 56
+    401950: Hex 57
+    401952: Hex 58
+    401954: Hex 59
+    401956: Hex 6
+    401958: Hex 60
+    401960: Hex 61
+    401962: Hex 62
+    401964: Hex 63
+    401966: Hex 64
+    401968: Hex 65
+    401970: Hex 66
+    401972: Hex 67
+    401974: Hex 68
+    401976: Hex 69
+    401978: Hex 7
+    401980: Hex 70
+    401982: Hex 71
+    401984: Hex 72
+    401986: Hex 73
+    401988: Hex 74
+    401990: Hex 75
+    401992: Hex 76
+    401994: Hex 77
+    401996: Hex 8
+    401998: Hex 9
+    402000: Hex-DC_Shell
+    402002: Hex-DC_Shell 1
+    402004: Hex-DC_Shell 10
+    402006: Hex-DC_Shell 11
+    402008: Hex-DC_Shell 12
+    402010: Hex-DC_Shell 13
+    402012: Hex-DC_Shell 14
+    402014: Hex-DC_Shell 15
+    402016: Hex-DC_Shell 16
+    402018: Hex-DC_Shell 17
+    402020: Hex-DC_Shell 18
+    402022: Hex-DC_Shell 19
+    402024: Hex-DC_Shell 2
+    402026: Hex-DC_Shell 20
+    402028: Hex-DC_Shell 21
+    402030: Hex-DC_Shell 22
+    402032: Hex-DC_Shell 23
+    402034: Hex-DC_Shell 24
+    402036: Hex-DC_Shell 25
+    402038: Hex-DC_Shell 26
+    402040: Hex-DC_Shell 27
+    402042: Hex-DC_Shell 28
+    402044: Hex-DC_Shell 29
+    402046: Hex-DC_Shell 3
+    402048: Hex-DC_Shell 30
+    402050: Hex-DC_Shell 31
+    402052: Hex-DC_Shell 32
+    402054: Hex-DC_Shell 33
+    402056: Hex-DC_Shell 34
+    402058: Hex-DC_Shell 35
+    402060: Hex-DC_Shell 36
+    402062: Hex-DC_Shell 37
+    402064: Hex-DC_Shell 38
+    402066: Hex-DC_Shell 39
+    402068: Hex-DC_Shell 4
+    402070: Hex-DC_Shell 40
+    402072: Hex-DC_Shell 41
+    402074: Hex-DC_Shell 42
+    402076: Hex-DC_Shell 43
+    402078: Hex-DC_Shell 44
+    402080: Hex-DC_Shell 45
+    402082: Hex-DC_Shell 46
+    402084: Hex-DC_Shell 47
+    402086: Hex-DC_Shell 48
+    402088: Hex-DC_Shell 49
+    402090: Hex-DC_Shell 5
+    402092: Hex-DC_Shell 50
+    402094: Hex-DC_Shell 51
+    402096: Hex-DC_Shell 52
+    402098: Hex-DC_Shell 53
+    402100: Hex-DC_Shell 54
+    402102: Hex-DC_Shell 55
+    402104: Hex-DC_Shell 56
+    402106: Hex-DC_Shell 57
+    402108: Hex-DC_Shell 58
+    402110: Hex-DC_Shell 59
+    402112: Hex-DC_Shell 6
+    402114: Hex-DC_Shell 60
+    402116: Hex-DC_Shell 61
+    402118: Hex-DC_Shell 62
+    402120: Hex-DC_Shell 63
+    402122: Hex-DC_Shell 64
+    402124: Hex-DC_Shell 65
+    402126: Hex-DC_Shell 66
+    402128: Hex-DC_Shell 67
+    402130: Hex-DC_Shell 68
+    402132: Hex-DC_Shell 69
+    402134: Hex-DC_Shell 7
+    402136: Hex-DC_Shell 70
+    402138: Hex-DC_Shell 71
+    402140: Hex-DC_Shell 72
+    402142: Hex-DC_Shell 73
+    402144: Hex-DC_Shell 74
+    402146: Hex-DC_Shell 75
+    402148: Hex-DC_Shell 76
+    402150: Hex-DC_Shell 77
+    402152: Hex-DC_Shell 8
+    402154: Hex-DC_Shell 9
+    402156: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M22x1.5
+      --N
+    402158: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M22x1.5
+      --N 1
+    402160: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M22x1.5
+      --N 2
+    402162: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N
+    402164: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 1
+    402166: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 10
+    402168: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 11
+    402170: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 12
+    402172: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 13
+    402174: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 14
+    402176: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 2
+    402178: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 3
+    402180: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 4
+    402182: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 5
+    402184: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 6
+    402186: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 7
+    402188: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 8
+    402190: hexagon socket head cap screw_jis_JIS B 1176 M10 x 35 (35) --N 9
+    402192: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N
+    402194: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 1
+    402196: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 10
+    402198: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 11
+    402200: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 12
+    402202: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 13
+    402204: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 14
+    402206: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 15
+    402208: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 16
+    402210: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 17
+    402212: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 18
+    402214: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 19
+    402216: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 2
+    402218: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 20
+    402220: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 21
+    402222: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 22
+    402224: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 23
+    402226: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 24
+    402228: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 25
+    402230: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 26
+    402232: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 27
+    402234: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 28
+    402236: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 29
+    402238: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 3
+    402240: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 30
+    402242: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 31
+    402244: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 32
+    402246: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 33
+    402248: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 34
+    402250: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 35
+    402252: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 36
+    402254: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 37
+    402256: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 38
+    402258: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 39
+    402260: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 4
+    402262: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 40
+    402264: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 41
+    402266: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 42
+    402268: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 43
+    402270: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 44
+    402272: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 45
+    402274: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 46
+    402276: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 47
+    402278: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 48
+    402280: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 49
+    402282: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 5
+    402284: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 50
+    402286: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 51
+    402288: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 52
+    402290: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 53
+    402292: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 54
+    402294: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 55
+    402296: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 56
+    402298: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 57
+    402300: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 58
+    402302: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 59
+    402304: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 6
+    402306: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 60
+    402308: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 61
+    402310: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 62
+    402312: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 63
+    402314: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 64
+    402316: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 65
+    402318: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 66
+    402320: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 67
+    402322: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 68
+    402324: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 69
+    402326: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 7
+    402328: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 70
+    402330: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 71
+    402332: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 8
+    402334: hexagon socket head cap screw_jis_JIS B 1176 M10 x 40 (40) --N 9
+    402336: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N
+    402338: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 1
+    402340: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 10
+    402342: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 11
+    402344: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 2
+    402346: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 3
+    402348: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 4
+    402350: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 5
+    402352: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 6
+    402354: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 7
+    402356: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 8
+    402358: hexagon socket head cap screw_jis_JIS B 1176 M10 x 50 (32) --N 9
+    402360: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N
+    402362: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 1
+    402364: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 2
+    402366: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 3
+    402368: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 4
+    402370: hexagon socket head cap screw_jis_JIS B 1176 M10 x 55 (32) --N 5
+    402372: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N
+    402374: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 1
+    402376: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 10
+    402378: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 11
+    402380: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 12
+    402382: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 13
+    402384: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 14
+    402386: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 15
+    402388: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 16
+    402390: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 17
+    402392: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 18
+    402394: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 19
+    402396: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 2
+    402398: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 20
+    402400: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 21
+    402402: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 22
+    402404: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 23
+    402406: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 24
+    402408: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 25
+    402410: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 26
+    402412: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 27
+    402414: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 28
+    402416: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 29
+    402418: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 3
+    402420: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 4
+    402422: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 5
+    402424: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 6
+    402426: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 7
+    402428: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 8
+    402430: hexagon socket head cap screw_jis_JIS B 1176 M5 x 20 (20) --N 9
+    402432: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N
+    402434: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 1
+    402436: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 10
+    402438: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 11
+    402440: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 12
+    402442: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 13
+    402444: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 14
+    402446: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 15
+    402448: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 16
+    402450: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 17
+    402452: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 18
+    402454: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 19
+    402456: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 2
+    402458: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 20
+    402460: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 21
+    402462: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 22
+    402464: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 23
+    402466: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 24
+    402468: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 25
+    402470: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 26
+    402472: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 27
+    402474: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 28
+    402476: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 29
+    402478: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 3
+    402480: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 30
+    402482: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 31
+    402484: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 32
+    402486: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 33
+    402488: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 34
+    402490: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 35
+    402492: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 36
+    402494: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 37
+    402496: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 38
+    402498: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 39
+    402500: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 4
+    402502: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 40
+    402504: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 41
+    402506: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 42
+    402508: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 43
+    402510: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 44
+    402512: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 45
+    402514: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 46
+    402516: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 47
+    402518: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 48
+    402520: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 49
+    402522: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 5
+    402524: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 50
+    402526: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 51
+    402528: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 52
+    402530: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 53
+    402532: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 54
+    402534: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 55
+    402536: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 56
+    402538: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 57
+    402540: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 58
+    402542: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 59
+    402544: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 6
+    402546: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 60
+    402548: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 61
+    402550: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 62
+    402552: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 63
+    402554: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 64
+    402556: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 65
+    402558: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 7
+    402560: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 8
+    402562: hexagon socket head cap screw_jis_JIS B 1176 M8 x 30 (30) --N 9
+    402564: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N
+    402566: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 1
+    402568: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 10
+    402570: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 11
+    402572: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 12
+    402574: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 13
+    402576: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 14
+    402578: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 2
+    402580: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 3
+    402582: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 4
+    402584: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 5
+    402586: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 6
+    402588: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 7
+    402590: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 8
+    402592: hexagon socket head cap screw_jis_JIS B 1176 M8 x 40 (28) --N 9
+    402594: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N
+    402596: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 1
+    402598: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 10
+    402600: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 11
+    402602: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 12
+    402604: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 13
+    402606: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 14
+    402608: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 15
+    402610: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 16
+    402612: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 17
+    402614: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 2
+    402616: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 3
+    402618: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 4
+    402620: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 5
+    402622: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 6
+    402624: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 7
+    402626: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 8
+    402628: hexagon socket head cap screw_jis_JIS B 1176 M8 x 45 (28) --N 9
+    402630: HG30-34320001^ARHGW30CC
+    402632: HG30-34320001^ARHGW30CC 1
+    402634: HG30-34320001^ARHGW30CC 10
+    402636: HG30-34320001^ARHGW30CC 11
+    402638: HG30-34320001^ARHGW30CC 2
+    402640: HG30-34320001^ARHGW30CC 3
+    402642: HG30-34320001^ARHGW30CC 4
+    402644: HG30-34320001^ARHGW30CC 5
+    402646: HG30-34320001^ARHGW30CC 6
+    402648: HG30-34320001^ARHGW30CC 7
+    402650: HG30-34320001^ARHGW30CC 8
+    402652: HG30-34320001^ARHGW30CC 9
+    402654: HG30-PlugScrew^ARHGW30CC
+    402656: HG30-PlugScrew^ARHGW30CC 1
+    402658: HG30-PlugScrew^ARHGW30CC 10
+    402660: HG30-PlugScrew^ARHGW30CC 11
+    402662: HG30-PlugScrew^ARHGW30CC 2
+    402664: HG30-PlugScrew^ARHGW30CC 3
+    402666: HG30-PlugScrew^ARHGW30CC 4
+    402668: HG30-PlugScrew^ARHGW30CC 5
+    402670: HG30-PlugScrew^ARHGW30CC 6
+    402672: HG30-PlugScrew^ARHGW30CC 7
+    402674: HG30-PlugScrew^ARHGW30CC 8
+    402676: HG30-PlugScrew^ARHGW30CC 9
+    402678: J1
+    402680: J1 1
+    402682: J1 10
+    402684: J1 11
+    402686: J1 12
+    402688: J1 13
+    402690: J1 14
+    402692: J1 15
+    402694: J1 16
+    402696: J1 17
+    402698: J1 18
+    402700: J1 19
+    402702: J1 2
+    402704: J1 20
+    402706: J1 21
+    402708: J1 22
+    402710: J1 23
+    402712: J1 24
+    402714: J1 25
+    402716: J1 26
+    402718: J1 3
+    402720: J1 4
+    402722: J1 5
+    402724: J1 6
+    402726: J1 7
+    402728: J1 8
+    402730: J1 9
+    402732: J1-DC_Shell
+    402734: J1-DC_Shell 1
+    402736: J1-DC_Shell 10
+    402738: J1-DC_Shell 11
+    402740: J1-DC_Shell 12
+    402742: J1-DC_Shell 13
+    402744: J1-DC_Shell 14
+    402746: J1-DC_Shell 15
+    402748: J1-DC_Shell 16
+    402750: J1-DC_Shell 17
+    402752: J1-DC_Shell 18
+    402754: J1-DC_Shell 19
+    402756: J1-DC_Shell 2
+    402758: J1-DC_Shell 20
+    402760: J1-DC_Shell 21
+    402762: J1-DC_Shell 22
+    402764: J1-DC_Shell 23
+    402766: J1-DC_Shell 24
+    402768: J1-DC_Shell 25
+    402770: J1-DC_Shell 26
+    402772: J1-DC_Shell 3
+    402774: J1-DC_Shell 4
+    402776: J1-DC_Shell 5
+    402778: J1-DC_Shell 6
+    402780: J1-DC_Shell 7
+    402782: J1-DC_Shell 8
+    402784: J1-DC_Shell 9
+    402786: J18
+    402788: J18-DC_Shell
+    402790: J2
+    402792: J2 1
+    402794: J2 10
+    402796: J2 11
+    402798: J2 12
+    402800: J2 13
+    402802: J2 14
+    402804: J2 15
+    402806: J2 16
+    402808: J2 17
+    402810: J2 18
+    402812: J2 19
+    402814: J2 2
+    402816: J2 20
+    402818: J2 3
+    402820: J2 4
+    402822: J2 5
+    402824: J2 6
+    402826: J2 7
+    402828: J2 8
+    402830: J2 9
+    402832: J2-DC_Shell
+    402834: J2-DC_Shell 1
+    402836: J2-DC_Shell 10
+    402838: J2-DC_Shell 11
+    402840: J2-DC_Shell 12
+    402842: J2-DC_Shell 13
+    402844: J2-DC_Shell 14
+    402846: J2-DC_Shell 15
+    402848: J2-DC_Shell 16
+    402850: J2-DC_Shell 17
+    402852: J2-DC_Shell 18
+    402854: J2-DC_Shell 19
+    402856: J2-DC_Shell 2
+    402858: J2-DC_Shell 20
+    402860: J2-DC_Shell 3
+    402862: J2-DC_Shell 4
+    402864: J2-DC_Shell 5
+    402866: J2-DC_Shell 6
+    402868: J2-DC_Shell 7
+    402870: J2-DC_Shell 8
+    402872: J2-DC_Shell 9
+    402874: M10 l1
+    402876: M10 l1-DC_Shell
+    402878: M10 l3
+    402880: M10x1.5 1[2]
+    402882: M10x1.5 1[2]-DC_Shell
+    402884: M12x1.75 1
+    402886: M12x1.75 1-DC_Shell
+    402888: M5 YvW1
+    402890: M5 YvW1 1
+    402892: M5 YvW1 2
+    402894: M5 YvW1 3
+    402896: M5 YvW1 4
+    402898: M5 YvW1 5
+    402900: M5 YvW1 6
+    402902: M5 YvW1 7
+    402904: M5 YvW1 8
+    402906: M5 YvW1 9
+    402908: M5 YvW1-DC_Shell
+    402910: M5 YvW1-DC_Shell 1
+    402912: M5 YvW1-DC_Shell 2
+    402914: M5 YvW1-DC_Shell 3
+    402916: M5 YvW1-DC_Shell 4
+    402918: M5 YvW1-DC_Shell 5
+    402920: M5 YvW1-DC_Shell 6
+    402922: M5 YvW1-DC_Shell 7
+    402924: M5 YvW1-DC_Shell 8
+    402926: M5 YvW1-DC_Shell 9
+    402928: M5x0.8 1
+    402930: M5x0.8 1-DC_Shell
+    402932: M8 l1
+    402934: M8 l1-DC_Shell
+    402936: M8x1.25 4
+    402938: M8x1.25 4-DC_Shell
+    402940: NONE
+    402942: NONE 1
+    402944: NONE 10
+    402946: NONE 100
+    402948: NONE 101
+    402950: NONE 102
+    402952: NONE 103
+    402954: NONE 104
+    402956: NONE 105
+    402958: NONE 106
+    402960: NONE 107
+    402962: NONE 108
+    402964: NONE 109
+    402966: NONE 11
+    402968: NONE 110
+    402970: NONE 111
+    402972: NONE 112
+    402974: NONE 113
+    402976: NONE 114
+    402978: NONE 115
+    402980: NONE 116
+    402982: NONE 117
+    402984: NONE 118
+    402986: NONE 119
+    402988: NONE 12
+    402990: NONE 120
+    402992: NONE 121
+    402994: NONE 122
+    402996: NONE 123
+    402998: NONE 124
+    403000: NONE 125
+    403002: NONE 126
+    403004: NONE 127
+    403006: NONE 128
+    403008: NONE 129
+    403010: NONE 13
+    403012: NONE 130
+    403014: NONE 131
+    403016: NONE 132
+    403018: NONE 133
+    403020: NONE 134
+    403022: NONE 135
+    403024: NONE 136
+    403026: NONE 137
+    403028: NONE 138
+    403030: NONE 139
+    403032: NONE 14
+    403034: NONE 140
+    403036: NONE 141
+    403038: NONE 142
+    403040: NONE 143
+    403042: NONE 144
+    403044: NONE 145
+    403046: NONE 146
+    403048: NONE 147
+    403050: NONE 148
+    403052: NONE 149
+    403054: NONE 15
+    403056: NONE 150
+    403058: NONE 151
+    403060: NONE 152
+    403062: NONE 153
+    403064: NONE 154
+    403066: NONE 155
+    403068: NONE 156
+    403070: NONE 157
+    403072: NONE 158
+    403074: NONE 159
+    403076: NONE 16
+    403078: NONE 160
+    403080: NONE 161
+    403082: NONE 162
+    403084: NONE 163
+    403086: NONE 164
+    403088: NONE 165
+    403090: NONE 166
+    403092: NONE 167
+    403094: NONE 168
+    403096: NONE 169
+    403098: NONE 17
+    403100: NONE 170
+    403102: NONE 171
+    403104: NONE 172
+    403106: NONE 173
+    403108: NONE 174
+    403110: NONE 175
+    403112: NONE 176
+    403114: NONE 177
+    403116: NONE 178
+    403118: NONE 179
+    403120: NONE 18
+    403122: NONE 180
+    403124: NONE 181
+    403126: NONE 182
+    403128: NONE 183
+    403130: NONE 184
+    403132: NONE 185
+    403134: NONE 186
+    403136: NONE 187
+    403138: NONE 188
+    403140: NONE 189
+    403142: NONE 19
+    403144: NONE 190
+    403146: NONE 191
+    403148: NONE 192
+    403150: NONE 193
+    403152: NONE 194
+    403154: NONE 195
+    403156: NONE 196
+    403158: NONE 197
+    403160: NONE 198
+    403162: NONE 199
+    403164: NONE 2
+    403166: NONE 20
+    403168: NONE 200
+    403170: NONE 201
+    403172: NONE 202
+    403174: NONE 203
+    403176: NONE 204
+    403178: NONE 205
+    403180: NONE 206
+    403182: NONE 207
+    403184: NONE 208
+    403186: NONE 209
+    403188: NONE 21
+    403190: NONE 210
+    403192: NONE 211
+    403194: NONE 212
+    403196: NONE 213
+    403198: NONE 214
+    403200: NONE 215
+    403202: NONE 216
+    403204: NONE 217
+    403206: NONE 218
+    403208: NONE 219
+    403210: NONE 22
+    403212: NONE 220
+    403214: NONE 221
+    403216: NONE 222
+    403218: NONE 223
+    403220: NONE 224
+    403222: NONE 225
+    403224: NONE 226
+    403226: NONE 227
+    403228: NONE 228
+    403230: NONE 229
+    403232: NONE 23
+    403234: NONE 230
+    403236: NONE 231
+    403238: NONE 232
+    403240: NONE 233
+    403242: NONE 234
+    403244: NONE 235
+    403246: NONE 236
+    403248: NONE 237
+    403250: NONE 24
+    403252: NONE 25
+    403254: NONE 26
+    403256: NONE 27
+    403258: NONE 28
+    403260: NONE 29
+    403262: NONE 3
+    403264: NONE 30
+    403266: NONE 31
+    403268: NONE 32
+    403270: NONE 33
+    403272: NONE 34
+    403274: NONE 35
+    403276: NONE 36
+    403278: NONE 37
+    403280: NONE 38
+    403282: NONE 39
+    403284: NONE 4
+    403286: NONE 40
+    403288: NONE 41
+    403290: NONE 42
+    403292: NONE 43
+    403294: NONE 44
+    403296: NONE 45
+    403298: NONE 46
+    403300: NONE 47
+    403302: NONE 48
+    403304: NONE 49
+    403306: NONE 5
+    403308: NONE 50
+    403310: NONE 51
+    403312: NONE 52
+    403314: NONE 53
+    403316: NONE 54
+    403318: NONE 55
+    403320: NONE 56
+    403322: NONE 57
+    403324: NONE 58
+    403326: NONE 59
+    403328: NONE 6
+    403330: NONE 60
+    403332: NONE 61
+    403334: NONE 62
+    403336: NONE 63
+    403338: NONE 64
+    403340: NONE 65
+    403342: NONE 66
+    403344: NONE 67
+    403346: NONE 68
+    403348: NONE 69
+    403350: NONE 7
+    403352: NONE 70
+    403354: NONE 71
+    403356: NONE 72
+    403358: NONE 73
+    403360: NONE 74
+    403362: NONE 75
+    403364: NONE 76
+    403366: NONE 77
+    403368: NONE 78
+    403370: NONE 79
+    403372: NONE 8
+    403374: NONE 80
+    403376: NONE 81
+    403378: NONE 82
+    403380: NONE 83
+    403382: NONE 84
+    403384: NONE 85
+    403386: NONE 86
+    403388: NONE 87
+    403390: NONE 88
+    403392: NONE 89
+    403394: NONE 9
+    403396: NONE 90
+    403398: NONE 91
+    403400: NONE 92
+    403402: NONE 93
+    403404: NONE 94
+    403406: NONE 95
+    403408: NONE 96
+    403410: NONE 97
+    403412: NONE 98
+    403414: NONE 99
+    403416: NONE-DC_Shell
+    403418: NONE-DC_Shell 1
+    403420: NONE-DC_Shell 10
+    403422: NONE-DC_Shell 11
+    403424: NONE-DC_Shell 12
+    403426: NONE-DC_Shell 13
+    403428: NONE-DC_Shell 14
+    403430: NONE-DC_Shell 15
+    403432: NONE-DC_Shell 16
+    403434: NONE-DC_Shell 17
+    403436: NONE-DC_Shell 18
+    403438: NONE-DC_Shell 19
+    403440: NONE-DC_Shell 2
+    403442: NONE-DC_Shell 20
+    403444: NONE-DC_Shell 21
+    403446: NONE-DC_Shell 22
+    403448: NONE-DC_Shell 23
+    403450: NONE-DC_Shell 24
+    403452: NONE-DC_Shell 25
+    403454: NONE-DC_Shell 26
+    403456: NONE-DC_Shell 27
+    403458: NONE-DC_Shell 28
+    403460: NONE-DC_Shell 3
+    403462: NONE-DC_Shell 4
+    403464: NONE-DC_Shell 5
+    403466: NONE-DC_Shell 6
+    403468: NONE-DC_Shell 7
+    403470: NONE-DC_Shell 8
+    403472: NONE-DC_Shell 9
+    403474: O6.0mm w1({t)
+    403476: O6.0mm w1({t)-DC_Shell
+    403478: O8.0mm w1
+    403480: O8.0mm w1-DC_Shell
+    403482: parallel key jis 1301_JIS B 1301 20x12x80-A
+    403484: parallel key jis 1301_JIS B 1301 20x12x80-A 1
+    403486: parallel key jis 1301_JIS B 1301 20x12x80-A 2
+    403488: parallel key jis 1301_JIS B 1301 20x12x80-A 3
+    403490: parallel key jis 1301_JIS B 1301 20x12x80-A 4
+    403492: parallel key jis 1301_JIS B 1301 20x12x80-A 5
+    403494: s1^ARDH0350-020LL002-06
+    403496: s1^ARDH0350-020LL002-06 1
+    403498: s1^ARDH0350-020LL002-06 2
+    403500: spring lock washer_2_jis_JIS B 1251 No.2 10
+    403502: spring lock washer_2_jis_JIS B 1251 No.2 10 1
+    403504: spring lock washer_2_jis_JIS B 1251 No.2 10 10
+    403506: spring lock washer_2_jis_JIS B 1251 No.2 10 11
+    403508: spring lock washer_2_jis_JIS B 1251 No.2 10 12
+    403510: spring lock washer_2_jis_JIS B 1251 No.2 10 13
+    403512: spring lock washer_2_jis_JIS B 1251 No.2 10 14
+    403514: spring lock washer_2_jis_JIS B 1251 No.2 10 15
+    403516: spring lock washer_2_jis_JIS B 1251 No.2 10 16
+    403518: spring lock washer_2_jis_JIS B 1251 No.2 10 17
+    403520: spring lock washer_2_jis_JIS B 1251 No.2 10 18
+    403522: spring lock washer_2_jis_JIS B 1251 No.2 10 19
+    403524: spring lock washer_2_jis_JIS B 1251 No.2 10 2
+    403526: spring lock washer_2_jis_JIS B 1251 No.2 10 20
+    403528: spring lock washer_2_jis_JIS B 1251 No.2 10 21
+    403530: spring lock washer_2_jis_JIS B 1251 No.2 10 22
+    403532: spring lock washer_2_jis_JIS B 1251 No.2 10 23
+    403534: spring lock washer_2_jis_JIS B 1251 No.2 10 24
+    403536: spring lock washer_2_jis_JIS B 1251 No.2 10 25
+    403538: spring lock washer_2_jis_JIS B 1251 No.2 10 26
+    403540: spring lock washer_2_jis_JIS B 1251 No.2 10 27
+    403542: spring lock washer_2_jis_JIS B 1251 No.2 10 28
+    403544: spring lock washer_2_jis_JIS B 1251 No.2 10 29
+    403546: spring lock washer_2_jis_JIS B 1251 No.2 10 3
+    403548: spring lock washer_2_jis_JIS B 1251 No.2 10 30
+    403550: spring lock washer_2_jis_JIS B 1251 No.2 10 31
+    403552: spring lock washer_2_jis_JIS B 1251 No.2 10 32
+    403554: spring lock washer_2_jis_JIS B 1251 No.2 10 33
+    403556: spring lock washer_2_jis_JIS B 1251 No.2 10 34
+    403558: spring lock washer_2_jis_JIS B 1251 No.2 10 35
+    403560: spring lock washer_2_jis_JIS B 1251 No.2 10 36
+    403562: spring lock washer_2_jis_JIS B 1251 No.2 10 37
+    403564: spring lock washer_2_jis_JIS B 1251 No.2 10 38
+    403566: spring lock washer_2_jis_JIS B 1251 No.2 10 39
+    403568: spring lock washer_2_jis_JIS B 1251 No.2 10 4
+    403570: spring lock washer_2_jis_JIS B 1251 No.2 10 40
+    403572: spring lock washer_2_jis_JIS B 1251 No.2 10 41
+    403574: spring lock washer_2_jis_JIS B 1251 No.2 10 42
+    403576: spring lock washer_2_jis_JIS B 1251 No.2 10 43
+    403578: spring lock washer_2_jis_JIS B 1251 No.2 10 44
+    403580: spring lock washer_2_jis_JIS B 1251 No.2 10 45
+    403582: spring lock washer_2_jis_JIS B 1251 No.2 10 46
+    403584: spring lock washer_2_jis_JIS B 1251 No.2 10 47
+    403586: spring lock washer_2_jis_JIS B 1251 No.2 10 48
+    403588: spring lock washer_2_jis_JIS B 1251 No.2 10 49
+    403590: spring lock washer_2_jis_JIS B 1251 No.2 10 5
+    403592: spring lock washer_2_jis_JIS B 1251 No.2 10 50
+    403594: spring lock washer_2_jis_JIS B 1251 No.2 10 51
+    403596: spring lock washer_2_jis_JIS B 1251 No.2 10 52
+    403598: spring lock washer_2_jis_JIS B 1251 No.2 10 53
+    403600: spring lock washer_2_jis_JIS B 1251 No.2 10 54
+    403602: spring lock washer_2_jis_JIS B 1251 No.2 10 55
+    403604: spring lock washer_2_jis_JIS B 1251 No.2 10 56
+    403606: spring lock washer_2_jis_JIS B 1251 No.2 10 57
+    403608: spring lock washer_2_jis_JIS B 1251 No.2 10 58
+    403610: spring lock washer_2_jis_JIS B 1251 No.2 10 59
+    403612: spring lock washer_2_jis_JIS B 1251 No.2 10 6
+    403614: spring lock washer_2_jis_JIS B 1251 No.2 10 60
+    403616: spring lock washer_2_jis_JIS B 1251 No.2 10 61
+    403618: spring lock washer_2_jis_JIS B 1251 No.2 10 62
+    403620: spring lock washer_2_jis_JIS B 1251 No.2 10 63
+    403622: spring lock washer_2_jis_JIS B 1251 No.2 10 64
+    403624: spring lock washer_2_jis_JIS B 1251 No.2 10 65
+    403626: spring lock washer_2_jis_JIS B 1251 No.2 10 66
+    403628: spring lock washer_2_jis_JIS B 1251 No.2 10 67
+    403630: spring lock washer_2_jis_JIS B 1251 No.2 10 68
+    403632: spring lock washer_2_jis_JIS B 1251 No.2 10 69
+    403634: spring lock washer_2_jis_JIS B 1251 No.2 10 7
+    403636: spring lock washer_2_jis_JIS B 1251 No.2 10 70
+    403638: spring lock washer_2_jis_JIS B 1251 No.2 10 71
+    403640: spring lock washer_2_jis_JIS B 1251 No.2 10 72
+    403642: spring lock washer_2_jis_JIS B 1251 No.2 10 73
+    403644: spring lock washer_2_jis_JIS B 1251 No.2 10 74
+    403646: spring lock washer_2_jis_JIS B 1251 No.2 10 75
+    403648: spring lock washer_2_jis_JIS B 1251 No.2 10 76
+    403650: spring lock washer_2_jis_JIS B 1251 No.2 10 77
+    403652: spring lock washer_2_jis_JIS B 1251 No.2 10 78
+    403654: spring lock washer_2_jis_JIS B 1251 No.2 10 79
+    403656: spring lock washer_2_jis_JIS B 1251 No.2 10 8
+    403658: spring lock washer_2_jis_JIS B 1251 No.2 10 80
+    403660: spring lock washer_2_jis_JIS B 1251 No.2 10 81
+    403662: spring lock washer_2_jis_JIS B 1251 No.2 10 82
+    403664: spring lock washer_2_jis_JIS B 1251 No.2 10 83
+    403666: spring lock washer_2_jis_JIS B 1251 No.2 10 84
+    403668: spring lock washer_2_jis_JIS B 1251 No.2 10 85
+    403670: spring lock washer_2_jis_JIS B 1251 No.2 10 86
+    403672: spring lock washer_2_jis_JIS B 1251 No.2 10 87
+    403674: spring lock washer_2_jis_JIS B 1251 No.2 10 88
+    403676: spring lock washer_2_jis_JIS B 1251 No.2 10 89
+    403678: spring lock washer_2_jis_JIS B 1251 No.2 10 9
+    403680: spring lock washer_2_jis_JIS B 1251 No.2 10 90
+    403682: spring lock washer_2_jis_JIS B 1251 No.2 10 91
+    403684: spring lock washer_2_jis_JIS B 1251 No.2 10 92
+    403686: spring lock washer_2_jis_JIS B 1251 No.2 10 93
+    403688: spring lock washer_2_jis_JIS B 1251 No.2 10 94
+    403690: spring lock washer_2_jis_JIS B 1251 No.2 10 95
+    403692: spring lock washer_2_jis_JIS B 1251 No.2 10 96
+    403694: spring lock washer_2_jis_JIS B 1251 No.2 10 97
+    403696: spring lock washer_2_jis_JIS B 1251 No.2 10 98
+    403698: spring lock washer_2_jis_JIS B 1251 No.2 8
+    403700: spring lock washer_2_jis_JIS B 1251 No.2 8 1
+    403702: spring lock washer_2_jis_JIS B 1251 No.2 8 10
+    403704: spring lock washer_2_jis_JIS B 1251 No.2 8 11
+    403706: spring lock washer_2_jis_JIS B 1251 No.2 8 12
+    403708: spring lock washer_2_jis_JIS B 1251 No.2 8 13
+    403710: spring lock washer_2_jis_JIS B 1251 No.2 8 14
+    403712: spring lock washer_2_jis_JIS B 1251 No.2 8 15
+    403714: spring lock washer_2_jis_JIS B 1251 No.2 8 16
+    403716: spring lock washer_2_jis_JIS B 1251 No.2 8 17
+    403718: spring lock washer_2_jis_JIS B 1251 No.2 8 18
+    403720: spring lock washer_2_jis_JIS B 1251 No.2 8 19
+    403722: spring lock washer_2_jis_JIS B 1251 No.2 8 2
+    403724: spring lock washer_2_jis_JIS B 1251 No.2 8 20
+    403726: spring lock washer_2_jis_JIS B 1251 No.2 8 21
+    403728: spring lock washer_2_jis_JIS B 1251 No.2 8 22
+    403730: spring lock washer_2_jis_JIS B 1251 No.2 8 23
+    403732: spring lock washer_2_jis_JIS B 1251 No.2 8 24
+    403734: spring lock washer_2_jis_JIS B 1251 No.2 8 25
+    403736: spring lock washer_2_jis_JIS B 1251 No.2 8 26
+    403738: spring lock washer_2_jis_JIS B 1251 No.2 8 27
+    403740: spring lock washer_2_jis_JIS B 1251 No.2 8 28
+    403742: spring lock washer_2_jis_JIS B 1251 No.2 8 29
+    403744: spring lock washer_2_jis_JIS B 1251 No.2 8 3
+    403746: spring lock washer_2_jis_JIS B 1251 No.2 8 30
+    403748: spring lock washer_2_jis_JIS B 1251 No.2 8 31
+    403750: spring lock washer_2_jis_JIS B 1251 No.2 8 32
+    403752: spring lock washer_2_jis_JIS B 1251 No.2 8 4
+    403754: spring lock washer_2_jis_JIS B 1251 No.2 8 5
+    403756: spring lock washer_2_jis_JIS B 1251 No.2 8 6
+    403758: spring lock washer_2_jis_JIS B 1251 No.2 8 7
+    403760: spring lock washer_2_jis_JIS B 1251 No.2 8 8
+    403762: spring lock washer_2_jis_JIS B 1251 No.2 8 9
+    403764: taper pin_ab_jis_JIS B 1352 B 6x65
+    403766: taper pin_ab_jis_JIS B 1352 B 6x65 1
+    403768: taper pin_ab_jis_JIS B 1352 B 6x65 2
+    403770: taper pin_ab_jis_JIS B 1352 B 6x65 3
+    403772: taper pin_ab_jis_JIS B 1352 B 6x65 4
+    403774: taper pin_ab_jis_JIS B 1352 B 6x65 5
+    403776: usC1
+    403778: usC1 1
+    403780: usC1-DC_Shell
+    403782: usC1-DC_Shell 1
+    403784: X1
+    403786: X1 1
+    403788: X1 2
+    403790: X1-DC_Shell
+    403792: X1-DC_Shell 1
+    403794: X1-DC_Shell 2
+    403796: //RootNode
+    2300000: ' (4) |1-DC_Shell'
+    2300002: -1-DC_Shell
+    2300004: -1-DC_Shell 1
+    2300006: -1-DC_Shell 10
+    2300008: -1-DC_Shell 11
+    2300010: -1-DC_Shell 12
+    2300012: -1-DC_Shell 13
+    2300014: -1-DC_Shell 14
+    2300016: -1-DC_Shell 15
+    2300018: -1-DC_Shell 16
+    2300020: -1-DC_Shell 17
+    2300022: -1-DC_Shell 18
+    2300024: -1-DC_Shell 19
+    2300026: -1-DC_Shell 2
+    2300028: -1-DC_Shell 20
+    2300030: -1-DC_Shell 3
+    2300032: -1-DC_Shell 4
+    2300034: -1-DC_Shell 5
+    2300036: -1-DC_Shell 6
+    2300038: -1-DC_Shell 7
+    2300040: -1-DC_Shell 8
+    2300042: -1-DC_Shell 9
+    2300044: -2-DC_Shell
+    2300046: -2-DC_Shell 1
+    2300048: -2-DC_Shell 2
+    2300050: -2-DC_Shell 3
+    2300052: -2-DC_Shell 4
+    2300054: -5-DC_Shell
+    2300056: -5-DC_Shell 1
+    2300058: -5-DC_Shell 2
+    2300060: -5-DC_Shell 3
+    2300062: -7-DC_Shell
+    2300064: -7-DC_Shell 1
+    2300066: -7-DC_Shell 2
+    2300068: -7-DC_Shell 3
+    2300070: -7-DC_Shell 4
+    2300072: -7-DC_Shell 5
+    2300074: -7-DC_Shell 6
+    2300076: -7-DC_Shell 7
+    2300078: 1-DC_Shell
+    2300080: 1-DC_Shell 1
+    2300082: 1-DC_Shell 2
+    2300084: 2-DC_Shell
+    2300086: 2-DC_Shell 1
+    2300088: 3-DC_Shell
+    2300090: Body-DC_Shell
+    2300092: Body-DC_Shell 1
+    2300094: Chamfer1-DC_Shell
+    2300096: Chamfer1-DC_Shell 1
+    2300098: EndChamfer-DC_Shell
+    2300100: Gap-DC_Shell
+    2300102: Gap-DC_Shell 1
+    2300104: Gap-DC_Shell 10
+    2300106: Gap-DC_Shell 11
+    2300108: Gap-DC_Shell 12
+    2300110: Gap-DC_Shell 13
+    2300112: Gap-DC_Shell 14
+    2300114: Gap-DC_Shell 15
+    2300116: Gap-DC_Shell 16
+    2300118: Gap-DC_Shell 17
+    2300120: Gap-DC_Shell 18
+    2300122: Gap-DC_Shell 19
+    2300124: Gap-DC_Shell 2
+    2300126: Gap-DC_Shell 20
+    2300128: Gap-DC_Shell 21
+    2300130: Gap-DC_Shell 22
+    2300132: Gap-DC_Shell 23
+    2300134: Gap-DC_Shell 24
+    2300136: Gap-DC_Shell 25
+    2300138: Gap-DC_Shell 26
+    2300140: Gap-DC_Shell 27
+    2300142: Gap-DC_Shell 28
+    2300144: Gap-DC_Shell 29
+    2300146: Gap-DC_Shell 3
+    2300148: Gap-DC_Shell 30
+    2300150: Gap-DC_Shell 31
+    2300152: Gap-DC_Shell 32
+    2300154: Gap-DC_Shell 33
+    2300156: Gap-DC_Shell 34
+    2300158: Gap-DC_Shell 35
+    2300160: Gap-DC_Shell 36
+    2300162: Gap-DC_Shell 37
+    2300164: Gap-DC_Shell 38
+    2300166: Gap-DC_Shell 39
+    2300168: Gap-DC_Shell 4
+    2300170: Gap-DC_Shell 40
+    2300172: Gap-DC_Shell 41
+    2300174: Gap-DC_Shell 42
+    2300176: Gap-DC_Shell 43
+    2300178: Gap-DC_Shell 5
+    2300180: Gap-DC_Shell 6
+    2300182: Gap-DC_Shell 7
+    2300184: Gap-DC_Shell 8
+    2300186: Gap-DC_Shell 9
+    2300188: Hex-DC_Shell
+    2300190: Hex-DC_Shell 1
+    2300192: Hex-DC_Shell 10
+    2300194: Hex-DC_Shell 11
+    2300196: Hex-DC_Shell 12
+    2300198: Hex-DC_Shell 13
+    2300200: Hex-DC_Shell 14
+    2300202: Hex-DC_Shell 15
+    2300204: Hex-DC_Shell 16
+    2300206: Hex-DC_Shell 17
+    2300208: Hex-DC_Shell 18
+    2300210: Hex-DC_Shell 19
+    2300212: Hex-DC_Shell 2
+    2300214: Hex-DC_Shell 20
+    2300216: Hex-DC_Shell 21
+    2300218: Hex-DC_Shell 22
+    2300220: Hex-DC_Shell 23
+    2300222: Hex-DC_Shell 24
+    2300224: Hex-DC_Shell 25
+    2300226: Hex-DC_Shell 26
+    2300228: Hex-DC_Shell 27
+    2300230: Hex-DC_Shell 28
+    2300232: Hex-DC_Shell 29
+    2300234: Hex-DC_Shell 3
+    2300236: Hex-DC_Shell 30
+    2300238: Hex-DC_Shell 31
+    2300240: Hex-DC_Shell 32
+    2300242: Hex-DC_Shell 33
+    2300244: Hex-DC_Shell 34
+    2300246: Hex-DC_Shell 35
+    2300248: Hex-DC_Shell 36
+    2300250: Hex-DC_Shell 37
+    2300252: Hex-DC_Shell 38
+    2300254: Hex-DC_Shell 39
+    2300256: Hex-DC_Shell 4
+    2300258: Hex-DC_Shell 40
+    2300260: Hex-DC_Shell 41
+    2300262: Hex-DC_Shell 42
+    2300264: Hex-DC_Shell 43
+    2300266: Hex-DC_Shell 44
+    2300268: Hex-DC_Shell 45
+    2300270: Hex-DC_Shell 46
+    2300272: Hex-DC_Shell 47
+    2300274: Hex-DC_Shell 48
+    2300276: Hex-DC_Shell 49
+    2300278: Hex-DC_Shell 5
+    2300280: Hex-DC_Shell 50
+    2300282: Hex-DC_Shell 51
+    2300284: Hex-DC_Shell 52
+    2300286: Hex-DC_Shell 53
+    2300288: Hex-DC_Shell 54
+    2300290: Hex-DC_Shell 55
+    2300292: Hex-DC_Shell 56
+    2300294: Hex-DC_Shell 57
+    2300296: Hex-DC_Shell 58
+    2300298: Hex-DC_Shell 59
+    2300300: Hex-DC_Shell 6
+    2300302: Hex-DC_Shell 60
+    2300304: Hex-DC_Shell 61
+    2300306: Hex-DC_Shell 62
+    2300308: Hex-DC_Shell 63
+    2300310: Hex-DC_Shell 64
+    2300312: Hex-DC_Shell 65
+    2300314: Hex-DC_Shell 66
+    2300316: Hex-DC_Shell 67
+    2300318: Hex-DC_Shell 68
+    2300320: Hex-DC_Shell 69
+    2300322: Hex-DC_Shell 7
+    2300324: Hex-DC_Shell 70
+    2300326: Hex-DC_Shell 71
+    2300328: Hex-DC_Shell 72
+    2300330: Hex-DC_Shell 73
+    2300332: Hex-DC_Shell 74
+    2300334: Hex-DC_Shell 75
+    2300336: Hex-DC_Shell 76
+    2300338: Hex-DC_Shell 77
+    2300340: Hex-DC_Shell 8
+    2300342: Hex-DC_Shell 9
+    2300344: J1-DC_Shell
+    2300346: J1-DC_Shell 1
+    2300348: J1-DC_Shell 10
+    2300350: J1-DC_Shell 11
+    2300352: J1-DC_Shell 12
+    2300354: J1-DC_Shell 13
+    2300356: J1-DC_Shell 14
+    2300358: J1-DC_Shell 15
+    2300360: J1-DC_Shell 16
+    2300362: J1-DC_Shell 17
+    2300364: J1-DC_Shell 18
+    2300366: J1-DC_Shell 19
+    2300368: J1-DC_Shell 2
+    2300370: J1-DC_Shell 20
+    2300372: J1-DC_Shell 21
+    2300374: J1-DC_Shell 22
+    2300376: J1-DC_Shell 23
+    2300378: J1-DC_Shell 24
+    2300380: J1-DC_Shell 25
+    2300382: J1-DC_Shell 26
+    2300384: J1-DC_Shell 3
+    2300386: J1-DC_Shell 4
+    2300388: J1-DC_Shell 5
+    2300390: J1-DC_Shell 6
+    2300392: J1-DC_Shell 7
+    2300394: J1-DC_Shell 8
+    2300396: J1-DC_Shell 9
+    2300398: J18-DC_Shell
+    2300400: J2-DC_Shell
+    2300402: J2-DC_Shell 1
+    2300404: J2-DC_Shell 10
+    2300406: J2-DC_Shell 11
+    2300408: J2-DC_Shell 12
+    2300410: J2-DC_Shell 13
+    2300412: J2-DC_Shell 14
+    2300414: J2-DC_Shell 15
+    2300416: J2-DC_Shell 16
+    2300418: J2-DC_Shell 17
+    2300420: J2-DC_Shell 18
+    2300422: J2-DC_Shell 19
+    2300424: J2-DC_Shell 2
+    2300426: J2-DC_Shell 20
+    2300428: J2-DC_Shell 3
+    2300430: J2-DC_Shell 4
+    2300432: J2-DC_Shell 5
+    2300434: J2-DC_Shell 6
+    2300436: J2-DC_Shell 7
+    2300438: J2-DC_Shell 8
+    2300440: J2-DC_Shell 9
+    2300442: M10 l1-DC_Shell
+    2300444: M10x1.5 1[2]-DC_Shell
+    2300446: M12x1.75 1-DC_Shell
+    2300448: M5 YvW1-DC_Shell
+    2300450: M5 YvW1-DC_Shell 1
+    2300452: M5 YvW1-DC_Shell 2
+    2300454: M5 YvW1-DC_Shell 3
+    2300456: M5 YvW1-DC_Shell 4
+    2300458: M5 YvW1-DC_Shell 5
+    2300460: M5 YvW1-DC_Shell 6
+    2300462: M5 YvW1-DC_Shell 7
+    2300464: M5 YvW1-DC_Shell 8
+    2300466: M5 YvW1-DC_Shell 9
+    2300468: M5x0.8 1-DC_Shell
+    2300470: M8 l1-DC_Shell
+    2300472: M8x1.25 4-DC_Shell
+    2300474: NONE-DC_Shell
+    2300476: NONE-DC_Shell 1
+    2300478: NONE-DC_Shell 10
+    2300480: NONE-DC_Shell 11
+    2300482: NONE-DC_Shell 12
+    2300484: NONE-DC_Shell 13
+    2300486: NONE-DC_Shell 14
+    2300488: NONE-DC_Shell 15
+    2300490: NONE-DC_Shell 16
+    2300492: NONE-DC_Shell 17
+    2300494: NONE-DC_Shell 18
+    2300496: NONE-DC_Shell 19
+    2300498: NONE-DC_Shell 2
+    2300500: NONE-DC_Shell 20
+    2300502: NONE-DC_Shell 21
+    2300504: NONE-DC_Shell 22
+    2300506: NONE-DC_Shell 23
+    2300508: NONE-DC_Shell 24
+    2300510: NONE-DC_Shell 25
+    2300512: NONE-DC_Shell 26
+    2300514: NONE-DC_Shell 27
+    2300516: NONE-DC_Shell 28
+    2300518: NONE-DC_Shell 3
+    2300520: NONE-DC_Shell 4
+    2300522: NONE-DC_Shell 5
+    2300524: NONE-DC_Shell 6
+    2300526: NONE-DC_Shell 7
+    2300528: NONE-DC_Shell 8
+    2300530: NONE-DC_Shell 9
+    2300532: O6.0mm w1({t)-DC_Shell
+    2300534: O8.0mm w1-DC_Shell
+    2300536: usC1-DC_Shell
+    2300538: usC1-DC_Shell 1
+    2300540: X1-DC_Shell
+    2300542: X1-DC_Shell 1
+    2300544: X1-DC_Shell 2
+    3300000: ' (4) |1-DC_Shell'
+    3300002: -1-DC_Shell
+    3300004: -1-DC_Shell 1
+    3300006: -1-DC_Shell 10
+    3300008: -1-DC_Shell 11
+    3300010: -1-DC_Shell 12
+    3300012: -1-DC_Shell 13
+    3300014: -1-DC_Shell 14
+    3300016: -1-DC_Shell 15
+    3300018: -1-DC_Shell 16
+    3300020: -1-DC_Shell 17
+    3300022: -1-DC_Shell 18
+    3300024: -1-DC_Shell 19
+    3300026: -1-DC_Shell 2
+    3300028: -1-DC_Shell 20
+    3300030: -1-DC_Shell 3
+    3300032: -1-DC_Shell 4
+    3300034: -1-DC_Shell 5
+    3300036: -1-DC_Shell 6
+    3300038: -1-DC_Shell 7
+    3300040: -1-DC_Shell 8
+    3300042: -1-DC_Shell 9
+    3300044: -2-DC_Shell
+    3300046: -2-DC_Shell 1
+    3300048: -2-DC_Shell 2
+    3300050: -2-DC_Shell 3
+    3300052: -2-DC_Shell 4
+    3300054: -5-DC_Shell
+    3300056: -5-DC_Shell 1
+    3300058: -5-DC_Shell 2
+    3300060: -5-DC_Shell 3
+    3300062: -7-DC_Shell
+    3300064: -7-DC_Shell 1
+    3300066: -7-DC_Shell 2
+    3300068: -7-DC_Shell 3
+    3300070: -7-DC_Shell 4
+    3300072: -7-DC_Shell 5
+    3300074: -7-DC_Shell 6
+    3300076: -7-DC_Shell 7
+    3300078: 1-DC_Shell
+    3300080: 1-DC_Shell 1
+    3300082: 1-DC_Shell 2
+    3300084: 2-DC_Shell
+    3300086: 2-DC_Shell 1
+    3300088: 3-DC_Shell
+    3300090: Body-DC_Shell
+    3300092: Body-DC_Shell 1
+    3300094: Chamfer1-DC_Shell
+    3300096: Chamfer1-DC_Shell 1
+    3300098: EndChamfer-DC_Shell
+    3300100: Gap-DC_Shell
+    3300102: Gap-DC_Shell 1
+    3300104: Gap-DC_Shell 10
+    3300106: Gap-DC_Shell 11
+    3300108: Gap-DC_Shell 12
+    3300110: Gap-DC_Shell 13
+    3300112: Gap-DC_Shell 14
+    3300114: Gap-DC_Shell 15
+    3300116: Gap-DC_Shell 16
+    3300118: Gap-DC_Shell 17
+    3300120: Gap-DC_Shell 18
+    3300122: Gap-DC_Shell 19
+    3300124: Gap-DC_Shell 2
+    3300126: Gap-DC_Shell 20
+    3300128: Gap-DC_Shell 21
+    3300130: Gap-DC_Shell 22
+    3300132: Gap-DC_Shell 23
+    3300134: Gap-DC_Shell 24
+    3300136: Gap-DC_Shell 25
+    3300138: Gap-DC_Shell 26
+    3300140: Gap-DC_Shell 27
+    3300142: Gap-DC_Shell 28
+    3300144: Gap-DC_Shell 29
+    3300146: Gap-DC_Shell 3
+    3300148: Gap-DC_Shell 30
+    3300150: Gap-DC_Shell 31
+    3300152: Gap-DC_Shell 32
+    3300154: Gap-DC_Shell 33
+    3300156: Gap-DC_Shell 34
+    3300158: Gap-DC_Shell 35
+    3300160: Gap-DC_Shell 36
+    3300162: Gap-DC_Shell 37
+    3300164: Gap-DC_Shell 38
+    3300166: Gap-DC_Shell 39
+    3300168: Gap-DC_Shell 4
+    3300170: Gap-DC_Shell 40
+    3300172: Gap-DC_Shell 41
+    3300174: Gap-DC_Shell 42
+    3300176: Gap-DC_Shell 43
+    3300178: Gap-DC_Shell 5
+    3300180: Gap-DC_Shell 6
+    3300182: Gap-DC_Shell 7
+    3300184: Gap-DC_Shell 8
+    3300186: Gap-DC_Shell 9
+    3300188: Hex-DC_Shell
+    3300190: Hex-DC_Shell 1
+    3300192: Hex-DC_Shell 10
+    3300194: Hex-DC_Shell 11
+    3300196: Hex-DC_Shell 12
+    3300198: Hex-DC_Shell 13
+    3300200: Hex-DC_Shell 14
+    3300202: Hex-DC_Shell 15
+    3300204: Hex-DC_Shell 16
+    3300206: Hex-DC_Shell 17
+    3300208: Hex-DC_Shell 18
+    3300210: Hex-DC_Shell 19
+    3300212: Hex-DC_Shell 2
+    3300214: Hex-DC_Shell 20
+    3300216: Hex-DC_Shell 21
+    3300218: Hex-DC_Shell 22
+    3300220: Hex-DC_Shell 23
+    3300222: Hex-DC_Shell 24
+    3300224: Hex-DC_Shell 25
+    3300226: Hex-DC_Shell 26
+    3300228: Hex-DC_Shell 27
+    3300230: Hex-DC_Shell 28
+    3300232: Hex-DC_Shell 29
+    3300234: Hex-DC_Shell 3
+    3300236: Hex-DC_Shell 30
+    3300238: Hex-DC_Shell 31
+    3300240: Hex-DC_Shell 32
+    3300242: Hex-DC_Shell 33
+    3300244: Hex-DC_Shell 34
+    3300246: Hex-DC_Shell 35
+    3300248: Hex-DC_Shell 36
+    3300250: Hex-DC_Shell 37
+    3300252: Hex-DC_Shell 38
+    3300254: Hex-DC_Shell 39
+    3300256: Hex-DC_Shell 4
+    3300258: Hex-DC_Shell 40
+    3300260: Hex-DC_Shell 41
+    3300262: Hex-DC_Shell 42
+    3300264: Hex-DC_Shell 43
+    3300266: Hex-DC_Shell 44
+    3300268: Hex-DC_Shell 45
+    3300270: Hex-DC_Shell 46
+    3300272: Hex-DC_Shell 47
+    3300274: Hex-DC_Shell 48
+    3300276: Hex-DC_Shell 49
+    3300278: Hex-DC_Shell 5
+    3300280: Hex-DC_Shell 50
+    3300282: Hex-DC_Shell 51
+    3300284: Hex-DC_Shell 52
+    3300286: Hex-DC_Shell 53
+    3300288: Hex-DC_Shell 54
+    3300290: Hex-DC_Shell 55
+    3300292: Hex-DC_Shell 56
+    3300294: Hex-DC_Shell 57
+    3300296: Hex-DC_Shell 58
+    3300298: Hex-DC_Shell 59
+    3300300: Hex-DC_Shell 6
+    3300302: Hex-DC_Shell 60
+    3300304: Hex-DC_Shell 61
+    3300306: Hex-DC_Shell 62
+    3300308: Hex-DC_Shell 63
+    3300310: Hex-DC_Shell 64
+    3300312: Hex-DC_Shell 65
+    3300314: Hex-DC_Shell 66
+    3300316: Hex-DC_Shell 67
+    3300318: Hex-DC_Shell 68
+    3300320: Hex-DC_Shell 69
+    3300322: Hex-DC_Shell 7
+    3300324: Hex-DC_Shell 70
+    3300326: Hex-DC_Shell 71
+    3300328: Hex-DC_Shell 72
+    3300330: Hex-DC_Shell 73
+    3300332: Hex-DC_Shell 74
+    3300334: Hex-DC_Shell 75
+    3300336: Hex-DC_Shell 76
+    3300338: Hex-DC_Shell 77
+    3300340: Hex-DC_Shell 8
+    3300342: Hex-DC_Shell 9
+    3300344: J1-DC_Shell
+    3300346: J1-DC_Shell 1
+    3300348: J1-DC_Shell 10
+    3300350: J1-DC_Shell 11
+    3300352: J1-DC_Shell 12
+    3300354: J1-DC_Shell 13
+    3300356: J1-DC_Shell 14
+    3300358: J1-DC_Shell 15
+    3300360: J1-DC_Shell 16
+    3300362: J1-DC_Shell 17
+    3300364: J1-DC_Shell 18
+    3300366: J1-DC_Shell 19
+    3300368: J1-DC_Shell 2
+    3300370: J1-DC_Shell 20
+    3300372: J1-DC_Shell 21
+    3300374: J1-DC_Shell 22
+    3300376: J1-DC_Shell 23
+    3300378: J1-DC_Shell 24
+    3300380: J1-DC_Shell 25
+    3300382: J1-DC_Shell 26
+    3300384: J1-DC_Shell 3
+    3300386: J1-DC_Shell 4
+    3300388: J1-DC_Shell 5
+    3300390: J1-DC_Shell 6
+    3300392: J1-DC_Shell 7
+    3300394: J1-DC_Shell 8
+    3300396: J1-DC_Shell 9
+    3300398: J18-DC_Shell
+    3300400: J2-DC_Shell
+    3300402: J2-DC_Shell 1
+    3300404: J2-DC_Shell 10
+    3300406: J2-DC_Shell 11
+    3300408: J2-DC_Shell 12
+    3300410: J2-DC_Shell 13
+    3300412: J2-DC_Shell 14
+    3300414: J2-DC_Shell 15
+    3300416: J2-DC_Shell 16
+    3300418: J2-DC_Shell 17
+    3300420: J2-DC_Shell 18
+    3300422: J2-DC_Shell 19
+    3300424: J2-DC_Shell 2
+    3300426: J2-DC_Shell 20
+    3300428: J2-DC_Shell 3
+    3300430: J2-DC_Shell 4
+    3300432: J2-DC_Shell 5
+    3300434: J2-DC_Shell 6
+    3300436: J2-DC_Shell 7
+    3300438: J2-DC_Shell 8
+    3300440: J2-DC_Shell 9
+    3300442: M10 l1-DC_Shell
+    3300444: M10x1.5 1[2]-DC_Shell
+    3300446: M12x1.75 1-DC_Shell
+    3300448: M5 YvW1-DC_Shell
+    3300450: M5 YvW1-DC_Shell 1
+    3300452: M5 YvW1-DC_Shell 2
+    3300454: M5 YvW1-DC_Shell 3
+    3300456: M5 YvW1-DC_Shell 4
+    3300458: M5 YvW1-DC_Shell 5
+    3300460: M5 YvW1-DC_Shell 6
+    3300462: M5 YvW1-DC_Shell 7
+    3300464: M5 YvW1-DC_Shell 8
+    3300466: M5 YvW1-DC_Shell 9
+    3300468: M5x0.8 1-DC_Shell
+    3300470: M8 l1-DC_Shell
+    3300472: M8x1.25 4-DC_Shell
+    3300474: NONE-DC_Shell
+    3300476: NONE-DC_Shell 1
+    3300478: NONE-DC_Shell 10
+    3300480: NONE-DC_Shell 11
+    3300482: NONE-DC_Shell 12
+    3300484: NONE-DC_Shell 13
+    3300486: NONE-DC_Shell 14
+    3300488: NONE-DC_Shell 15
+    3300490: NONE-DC_Shell 16
+    3300492: NONE-DC_Shell 17
+    3300494: NONE-DC_Shell 18
+    3300496: NONE-DC_Shell 19
+    3300498: NONE-DC_Shell 2
+    3300500: NONE-DC_Shell 20
+    3300502: NONE-DC_Shell 21
+    3300504: NONE-DC_Shell 22
+    3300506: NONE-DC_Shell 23
+    3300508: NONE-DC_Shell 24
+    3300510: NONE-DC_Shell 25
+    3300512: NONE-DC_Shell 26
+    3300514: NONE-DC_Shell 27
+    3300516: NONE-DC_Shell 28
+    3300518: NONE-DC_Shell 3
+    3300520: NONE-DC_Shell 4
+    3300522: NONE-DC_Shell 5
+    3300524: NONE-DC_Shell 6
+    3300526: NONE-DC_Shell 7
+    3300528: NONE-DC_Shell 8
+    3300530: NONE-DC_Shell 9
+    3300532: O6.0mm w1({t)-DC_Shell
+    3300534: O8.0mm w1-DC_Shell
+    3300536: usC1-DC_Shell
+    3300538: usC1-DC_Shell 1
+    3300540: X1-DC_Shell
+    3300542: X1-DC_Shell 1
+    3300544: X1-DC_Shell 2
+    4300000: J1-DC_Shell
+    4300002: J1-DC_Shell
+    4300004: J1-DC_Shell
+    4300006: J2-DC_Shell
+    4300008: J1-DC_Shell
+    4300010: J2-DC_Shell
+    4300012: J1-DC_Shell
+    4300014: J2-DC_Shell
+    4300016: J1-DC_Shell
+    4300018: J2-DC_Shell
+    4300020: J1-DC_Shell
+    4300022: J2-DC_Shell
+    4300024: J1-DC_Shell
+    4300026: J2-DC_Shell
+    4300028: J1-DC_Shell
+    4300030: J2-DC_Shell
+    4300032: J1-DC_Shell
+    4300034: J2-DC_Shell
+    4300036: J1-DC_Shell
+    4300038: J2-DC_Shell
+    4300040: J1-DC_Shell
+    4300042: J2-DC_Shell
+    4300044: J1-DC_Shell
+    4300046: J2-DC_Shell
+    4300048: J1-DC_Shell
+    4300050: J2-DC_Shell
+    4300052: J1-DC_Shell
+    4300054: J2-DC_Shell
+    4300056: J1-DC_Shell
+    4300058: J2-DC_Shell
+    4300060: J1-DC_Shell
+    4300062: J2-DC_Shell
+    4300064: J1-DC_Shell
+    4300066: J2-DC_Shell
+    4300068: J1-DC_Shell
+    4300070: J2-DC_Shell
+    4300072: J1-DC_Shell
+    4300074: J2-DC_Shell
+    4300076: J1-DC_Shell
+    4300078: J2-DC_Shell
+    4300080: J1-DC_Shell
+    4300082: J2-DC_Shell
+    4300084: M12x1.75 1-DC_Shell
+    4300086: J1-DC_Shell
+    4300088: J1-DC_Shell
+    4300090: J18-DC_Shell
+    4300092: J1-DC_Shell
+    4300094: J1-DC_Shell
+    4300096: J1-DC_Shell
+    4300098: J2-DC_Shell
+    4300100: X1-DC_Shell
+    4300102: NONE-DC_Shell
+    4300104: NONE-DC_Shell
+    4300106: NONE-DC_Shell
+    4300108: NONE-DC_Shell
+    4300110: NONE-DC_Shell
+    4300112: NONE-DC_Shell
+    4300114: NONE-DC_Shell
+    4300116: NONE-DC_Shell
+    4300118: NONE-DC_Shell
+    4300120: NONE-DC_Shell
+    4300122: NONE-DC_Shell
+    4300124: NONE-DC_Shell
+    4300126: NONE-DC_Shell
+    4300128: NONE-DC_Shell
+    4300130: NONE-DC_Shell
+    4300132: NONE-DC_Shell
+    4300134: O8.0mm w1-DC_Shell
+    4300136: M8x1.25 4-DC_Shell
+    4300138: -1-DC_Shell
+    4300140: M5x0.8 1-DC_Shell
+    4300142: NONE-DC_Shell
+    4300144: NONE-DC_Shell
+    4300146: NONE-DC_Shell
+    4300148: NONE-DC_Shell
+    4300150: NONE-DC_Shell
+    4300152: NONE-DC_Shell
+    4300154: NONE-DC_Shell
+    4300156: NONE-DC_Shell
+    4300158: NONE-DC_Shell
+    4300160: NONE-DC_Shell
+    4300162: M10x1.5 1[2]-DC_Shell
+    4300164: 3-DC_Shell
+    4300166: M10 l1-DC_Shell
+    4300168: NONE-DC_Shell
+    4300170: NONE-DC_Shell
+    4300172: NONE-DC_Shell
+    4300174: EndChamfer-DC_Shell
+    4300176: usC1-DC_Shell
+    4300178: -5-DC_Shell
+    4300180: -7-DC_Shell
+    4300182: -7-DC_Shell
+    4300184: -2-DC_Shell
+    4300186: -1-DC_Shell
+    4300188: -1-DC_Shell
+    4300190: -1-DC_Shell
+    4300192: -1-DC_Shell
+    4300194: -1-DC_Shell
+    4300196: -5-DC_Shell
+    4300198: -7-DC_Shell
+    4300200: -7-DC_Shell
+    4300202: -2-DC_Shell
+    4300204: -1-DC_Shell
+    4300206: -1-DC_Shell
+    4300208: -1-DC_Shell
+    4300210: -1-DC_Shell
+    4300212: -1-DC_Shell
+    4300214: usC1-DC_Shell
+    4300216: -5-DC_Shell
+    4300218: -7-DC_Shell
+    4300220: -7-DC_Shell
+    4300222: -2-DC_Shell
+    4300224: -1-DC_Shell
+    4300226: -1-DC_Shell
+    4300228: -1-DC_Shell
+    4300230: -1-DC_Shell
+    4300232: -1-DC_Shell
+    4300234: -5-DC_Shell
+    4300236: -7-DC_Shell
+    4300238: -7-DC_Shell
+    4300240: -2-DC_Shell
+    4300242: -1-DC_Shell
+    4300244: -1-DC_Shell
+    4300246: -1-DC_Shell
+    4300248: -1-DC_Shell
+    4300250: -1-DC_Shell
+    4300252: M5 YvW1-DC_Shell
+    4300254: M5 YvW1-DC_Shell
+    4300256: M5 YvW1-DC_Shell
+    4300258: M5 YvW1-DC_Shell
+    4300260: M5 YvW1-DC_Shell
+    4300262: M5 YvW1-DC_Shell
+    4300264: M5 YvW1-DC_Shell
+    4300266: M5 YvW1-DC_Shell
+    4300268: M5 YvW1-DC_Shell
+    4300270: M5 YvW1-DC_Shell
+    4300272: Hex-DC_Shell
+    4300274: Hex-DC_Shell
+    4300276: Hex-DC_Shell
+    4300278: Hex-DC_Shell
+    4300280: Hex-DC_Shell
+    4300282: Hex-DC_Shell
+    4300284: Hex-DC_Shell
+    4300286: Hex-DC_Shell
+    4300288: O6.0mm w1({t)-DC_Shell
+    4300290: 1-DC_Shell
+    4300292: -2-DC_Shell
+    4300294: 1-DC_Shell
+    4300296: M8 l1-DC_Shell
+    4300298: ' (4) |1-DC_Shell'
+    4300300: Hex-DC_Shell
+    4300302: Hex-DC_Shell
+    4300304: Hex-DC_Shell
+    4300306: Hex-DC_Shell
+    4300308: Hex-DC_Shell
+    4300310: Hex-DC_Shell
+    4300312: Gap-DC_Shell
+    4300314: Gap-DC_Shell
+    4300316: Gap-DC_Shell
+    4300318: Gap-DC_Shell
+    4300320: Gap-DC_Shell
+    4300322: Gap-DC_Shell
+    4300324: Hex-DC_Shell
+    4300326: Hex-DC_Shell
+    4300328: Hex-DC_Shell
+    4300330: Hex-DC_Shell
+    4300332: Hex-DC_Shell
+    4300334: Gap-DC_Shell
+    4300336: Gap-DC_Shell
+    4300338: Gap-DC_Shell
+    4300340: Gap-DC_Shell
+    4300342: Gap-DC_Shell
+    4300344: 1-DC_Shell
+    4300346: Gap-DC_Shell
+    4300348: Hex-DC_Shell
+    4300350: X1-DC_Shell
+    4300352: X1-DC_Shell
+    4300354: 2-DC_Shell
+    4300356: 2-DC_Shell
+    4300358: Hex-DC_Shell
+    4300360: Hex-DC_Shell
+    4300362: Hex-DC_Shell
+    4300364: Hex-DC_Shell
+    4300366: Hex-DC_Shell
+    4300368: Hex-DC_Shell
+    4300370: Gap-DC_Shell
+    4300372: Gap-DC_Shell
+    4300374: Gap-DC_Shell
+    4300376: Gap-DC_Shell
+    4300378: Gap-DC_Shell
+    4300380: Gap-DC_Shell
+    4300382: Gap-DC_Shell
+    4300384: Gap-DC_Shell
+    4300386: Gap-DC_Shell
+    4300388: Gap-DC_Shell
+    4300390: Gap-DC_Shell
+    4300392: Gap-DC_Shell
+    4300394: Hex-DC_Shell
+    4300396: Hex-DC_Shell
+    4300398: Hex-DC_Shell
+    4300400: Hex-DC_Shell
+    4300402: Hex-DC_Shell
+    4300404: Hex-DC_Shell
+    4300406: Hex-DC_Shell
+    4300408: Hex-DC_Shell
+    4300410: Hex-DC_Shell
+    4300412: Hex-DC_Shell
+    4300414: Hex-DC_Shell
+    4300416: Chamfer1-DC_Shell
+    4300418: Chamfer1-DC_Shell
+    4300420: Hex-DC_Shell
+    4300422: Hex-DC_Shell
+    4300424: Hex-DC_Shell
+    4300426: Hex-DC_Shell
+    4300428: Gap-DC_Shell
+    4300430: Gap-DC_Shell
+    4300432: Gap-DC_Shell
+    4300434: Gap-DC_Shell
+    4300436: Gap-DC_Shell
+    4300438: Hex-DC_Shell
+    4300440: Hex-DC_Shell
+    4300442: Hex-DC_Shell
+    4300444: Hex-DC_Shell
+    4300446: Hex-DC_Shell
+    4300448: Hex-DC_Shell
+    4300450: Hex-DC_Shell
+    4300452: Hex-DC_Shell
+    4300454: Hex-DC_Shell
+    4300456: Hex-DC_Shell
+    4300458: Hex-DC_Shell
+    4300460: Hex-DC_Shell
+    4300462: Hex-DC_Shell
+    4300464: Hex-DC_Shell
+    4300466: Hex-DC_Shell
+    4300468: Hex-DC_Shell
+    4300470: Gap-DC_Shell
+    4300472: Gap-DC_Shell
+    4300474: Gap-DC_Shell
+    4300476: Gap-DC_Shell
+    4300478: Gap-DC_Shell
+    4300480: Gap-DC_Shell
+    4300482: Gap-DC_Shell
+    4300484: Gap-DC_Shell
+    4300486: Gap-DC_Shell
+    4300488: Gap-DC_Shell
+    4300490: Gap-DC_Shell
+    4300492: Gap-DC_Shell
+    4300494: Gap-DC_Shell
+    4300496: Gap-DC_Shell
+    4300498: Gap-DC_Shell
+    4300500: Hex-DC_Shell
+    4300502: Hex-DC_Shell
+    4300504: Hex-DC_Shell
+    4300506: Hex-DC_Shell
+    4300508: Hex-DC_Shell
+    4300510: Hex-DC_Shell
+    4300512: Hex-DC_Shell
+    4300514: Hex-DC_Shell
+    4300516: Hex-DC_Shell
+    4300518: Hex-DC_Shell
+    4300520: Hex-DC_Shell
+    4300522: Hex-DC_Shell
+    4300524: Hex-DC_Shell
+    4300526: Hex-DC_Shell
+    4300528: Hex-DC_Shell
+    4300530: Hex-DC_Shell
+    4300532: Hex-DC_Shell
+    4300534: Hex-DC_Shell
+    4300536: Hex-DC_Shell
+    4300538: Hex-DC_Shell
+    4300540: Hex-DC_Shell
+    4300542: Body-DC_Shell
+    4300544: Body-DC_Shell
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
