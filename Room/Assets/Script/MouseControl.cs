@@ -50,13 +50,14 @@ public class MouseControl : MonoBehaviour
         z = (z > 180 ? z - 360 : z);
         transform.Rotate(new Vector3(0, 0, -z));
 
-        float x = transform.rotation.eulerAngles.x;
-        x = (x > 180 ? x - 360 : x);
+        float x = Vector3.ProjectOnPlane(camera.position, new Vector3(0, 1, 0)).magnitude;
+        float y = camera.position.y;
+        float angle = Mathf.Atan(y / x) * Mathf.Rad2Deg;
 
         if (hasFloor)
         {
-            transform.Rotate(new Vector3(x < -10 ? -x - 10 : 0, 0, 0));
-            transform.Rotate(new Vector3(x > 45 ? -x + 45 : 0, 0, 0));
+            transform.Rotate(new Vector3(angle < -0 ? -angle - 0 : 0, 0, 0));
+            transform.Rotate(new Vector3(angle > 45 ? -angle + 45 : 0, 0, 0));
         }
     }
 }
