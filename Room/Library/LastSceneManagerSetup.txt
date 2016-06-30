@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/machine.unity
+- path: Assets/Scene/sub spindle.unity
   isLoaded: 1
   isActive: 1
