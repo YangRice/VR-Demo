@@ -8,8 +8,21 @@ public class ChangeMaterial : MonoBehaviour {
     MeshRenderer mesh;
     public Material mat;
 
+    public void EnableChangeMaterial()
+    {
+        enabled = true;
+    }
+
+    public void DisableChangeMaterial()
+    {
+        enabled = false;
+    }
+
     public void Change()
     {
+        if (!enabled)
+            return;
+
         Material[] newMat = new Material[mesh.materials.Length + 1];
         for (int i = 0; i < mesh.materials.Length; i++)
             newMat[i] = mesh.materials[i];
@@ -20,6 +33,9 @@ public class ChangeMaterial : MonoBehaviour {
 
     public void Revert()
     {
+        if (!enabled)
+            return;
+
         Material[] newMat = new Material[mesh.materials.Length - 1];
         for (int i = 0; i < newMat.Length; i++)
             newMat[i] = mesh.materials[i];

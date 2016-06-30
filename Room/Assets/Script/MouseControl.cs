@@ -9,7 +9,8 @@ public class MouseControl : MonoBehaviour
     public float minDistance = 5;
     public float maxDistance = 30;
     public float wheelSpeed = 10;
-
+    public float maxAngle = 60;
+    public float minAngle = 5;
     public bool hasFloor = true;
     public bool HasFloor { set { hasFloor = value; } }
 
@@ -56,8 +57,8 @@ public class MouseControl : MonoBehaviour
 
         if (hasFloor)
         {
-            transform.Rotate(new Vector3(angle < -0 ? -angle - 0 : 0, 0, 0));
-            transform.Rotate(new Vector3(angle > 45 ? -angle + 45 : 0, 0, 0));
+            transform.Rotate(new Vector3(angle < minAngle ? -angle + minAngle : 0, 0, 0));
+            transform.Rotate(new Vector3(angle > maxAngle ? -angle + maxAngle : 0, 0, 0));
         }
     }
 }
