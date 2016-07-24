@@ -79,6 +79,7 @@
     <Compile Include="Assets\Script\ModelButton.cs" />
     <Compile Include="Assets\Script\MouseControl.cs" />
     <Compile Include="Assets\Script\MouseEvent.cs" />
+    <Compile Include="Assets\Script\MoveControl.cs" />
     <Compile Include="Assets\Script\MoveToCamera.cs" />
     <Compile Include="Assets\Script\PlayMovie.cs" />
     <Compile Include="Assets\Script\explodeAinmate.cs" />
