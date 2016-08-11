@@ -2,6 +2,7 @@
 using System.Collections;
 
 [RequireComponent(typeof(AudioSource))]
+[RequireComponent(typeof(MeshRenderer))]
 
 public class PlayMovie : MonoBehaviour
 {
@@ -9,9 +10,16 @@ public class PlayMovie : MonoBehaviour
     public Canvas canvas;
     int Mask = 0;
 
-    public void OnPlay()
+    public void Play()
     {
         movieTexture.Play();
+        gameObject.GetComponent<MeshRenderer>().enabled = true;
+    }
+
+    public void Stop()
+    {
+        movieTexture.Stop();
+        gameObject.GetComponent<MeshRenderer>().enabled = false;
     }
 
     // Use this for initialization
@@ -23,17 +31,18 @@ public class PlayMovie : MonoBehaviour
 
     void OnMouseDown()
     {
-        movieTexture.Stop();
+        //movieTexture.Stop();
     }
 
     void Update()
     {
-        if (movieTexture.isPlaying)
-            Camera.main.cullingMask = (1 << LayerMask.NameToLayer("Video"));
-        else
-            Camera.main.cullingMask = Mask;
+    //    if (movieTexture.isPlaying)
+    //        Camera.main.cullingMask = (1 << LayerMask.NameToLayer("Video"));
+    //    else
+    //        Camera.main.cullingMask = Mask;
 
-        canvas.gameObject.SetActive(!movieTexture.isPlaying);
-        GetComponent<Renderer>().enabled = movieTexture.isPlaying;
+        if (canvas)
+            canvas.gameObject.SetActive(!movieTexture.isPlaying);
+        gameObject.GetComponent<MeshRenderer>().enabled = movieTexture.isPlaying;
     }
 }
